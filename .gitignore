@@ -1,2 +1,7 @@
 *.lyx
 *.tex~
+*.aux
+*.log
+*.toc
+*.nlo
+*.pdf
