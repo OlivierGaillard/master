@@ -5,3 +5,5 @@
 *.toc
 *.nlo
 *.pdf
+*.gz
+.DS_Store
