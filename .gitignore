@@ -6,3 +6,7 @@
 *.nlo
 *.pdf
 *.gz
+<<<<<<< HEAD
+.DS_Store
+=======
+>>>>>>> 7e7eecbdfa21bb464f4fb4557ff98b2ea0225f2f
