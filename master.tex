@@ -1,5 +1,6 @@
-\documentclass[12pt,french]{report}
+\documentclass[12pt]{report}
 \usepackage[utf8]{inputenc}
+\usepackage{natbib}
 \setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{3}
 \usepackage{textcomp}
@@ -51,7 +52,7 @@
 \@ifundefined{date}{}{\date{}}
 \makeatother
 
-\usepackage{babel}
+\usepackage[french]{babel}
 \makeatletter
 \addto\extrasfrench{%
    \providecommand{\og}{\leavevmode\flqq~}%
@@ -73,5 +74,8 @@
 \input{chapter7}
 \input{chapter8}
 \input{chapter9}
-\input{bibliography}
+%\input{bibliography}
+\bibliographystyle{plainnat-fr}
+\selectlanguage{french}
+\bibliography{valbib}
 \end{document}
