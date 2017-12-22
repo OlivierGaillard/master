@@ -1,0 +1,6 @@
+Après avoir installé le package suivant:
+https://github.com/jgm/pandoc/releases/download/2.0.5/pandoc-2.0.5-macOS.pkg
+
+il suffit de taper cette commande dans un terminal:
+
+pandoc -s -o master.docx master.tex
