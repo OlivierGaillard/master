@@ -1,10 +1,17 @@
-\documentclass[12pt,french]{report}
+\documentclass[12pt]{report}
+\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage{natbib}
 \setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{3}
 \usepackage{textcomp}
 \usepackage{graphicx}
 \usepackage{nomencl}
+\usepackage[french]{babel}
+%\usepackage[cyr]{aeguill}
+
+\frenchbsetup{og = «, fg = »}
+
 % the following is useful when we have the old nomencl.sty package
 \providecommand{\printnomenclature}{\printglossary}
 \providecommand{\makenomenclature}{\makeglossary}
@@ -51,14 +58,14 @@
 \@ifundefined{date}{}{\date{}}
 \makeatother
 
-\usepackage{babel}
-\makeatletter
-\addto\extrasfrench{%
-   \providecommand{\og}{\leavevmode\flqq~}%
-   \providecommand{\fg}{\ifdim\lastskip>\z@\unskip\fi~\frqq}%
-}
 
-\makeatother
+%\makeatletter
+%\addto\extrasfrench{%
+%   \providecommand{\og}{\leavevmode\flqq~}%
+%   \providecommand{\fg}{\ifdim\lastskip>\z@\unskip\fi~\frqq}%
+%}
+%
+%\makeatother
 \begin{document}
 \input titlepage
 \input abstract
@@ -73,5 +80,8 @@
 \input{chapter7}
 \input{chapter8}
 \input{chapter9}
-\input{bibliography}
+%\input{bibliography}
+\bibliographystyle{plainnat-fr}
+\selectlanguage{french}
+\bibliography{valbib}
 \end{document}
