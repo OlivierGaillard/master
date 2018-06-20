@@ -1,7 +1,15 @@
 \documentclass[12pt]{report}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{natbib}
+
+\usepackage[
+backend=biber,        % compilateur par défaut pour biblatex
+sorting=nyt,          % trier par nom, année, titre
+citestyle=authoryear-ibid, % style de citation auteur-année
+bibstyle=alphabetic,  % style de bibliographie alphabétique
+]{biblatex}
+\addbibresource{valbib.bib}
+
 \setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{3}
 \usepackage{textcomp}
@@ -40,7 +48,6 @@
 \input{testtomatis}
 \input{testclinique}
 \input{reflexions}
-\bibliographystyle{plainnat-fr}
 \selectlanguage{french}
-\bibliography{valbib}
+\printbibliography
 \end{document}
