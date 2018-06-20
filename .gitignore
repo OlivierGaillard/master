@@ -12,3 +12,7 @@ master.blg
 master.docx
 master.out
 /master.dvi
+
+master\.bcf
+
+master\.run\.xml
