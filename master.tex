@@ -1,12 +1,14 @@
 \documentclass[12pt]{report}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-
+\usepackage[french]{babel}
+\usepackage{csquotes}
 \usepackage[
 backend=biber,        % compilateur par défaut pour biblatex
 sorting=nyt,          % trier par nom, année, titre
 citestyle=authoryear-ibid, % style de citation auteur-année
 bibstyle=alphabetic,  % style de bibliographie alphabétique
+autocite=plain
 ]{biblatex}
 \addbibresource{valbib.bib}
 
@@ -15,7 +17,7 @@ bibstyle=alphabetic,  % style de bibliographie alphabétique
 \usepackage{textcomp}
 \usepackage{graphicx}
 \usepackage{nomencl}
-\usepackage[french]{babel}
+
 \usepackage[colorlinks=true, %
 	linkcolor=cyan]{hyperref}
 	
@@ -48,6 +50,6 @@ bibstyle=alphabetic,  % style de bibliographie alphabétique
 \input{testtomatis}
 \input{testclinique}
 \input{reflexions}
-\selectlanguage{french}
+%\selectlanguage{french}
 \printbibliography
 \end{document}
