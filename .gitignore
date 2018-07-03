@@ -4,7 +4,6 @@
 *.log
 *.toc
 *.nlo
-*.pdf
 *.gz
 .DS_Store
 master.bbl
@@ -18,3 +17,11 @@ master\.bcf
 master\.run\.xml
 /valbib.bib.bak
 /tomatis.bib.bak
+/master.lof
+/master.pdf
+/valbib.bib~
+/valbib.bib~2
+/valbib.bib~3
+/valbib.bib~4
+/valbib.bib~5
+/masterjuin_utf8.pdf
