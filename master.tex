@@ -1,4 +1,7 @@
-\documentclass[12pt,french]{report}
+\documentclass[12pt,pagesize, DIV=14, oneside, headsepline,
+titlepage,parskip, headings=small, listof=totoc, 
+bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
+%\documentclass[12pt,french]{report}
 %\usepackage[T1]{fontenc}
 %\usepackage[utf8]{inputenc}
 \usepackage{lipsum}
@@ -18,6 +21,24 @@ bibstyle=alphabetic,  % style de bibliographie alphabétique
 autocite=footnote
 ]{biblatex}
 \addbibresource{valbib.bib}
+\usepackage[autooneside=true]{scrlayer-scrpage}
+\usepackage{lastpage}
+
+
+\setkomafont{pagenumber}{\small}
+\renewcommand\pagemark{{\usekomafont{pagenumber}\thepage
+		\,/\,\pageref{LastPage}}}
+
+\ohead*{\pagemark}
+%\cofoot*{\pagemark}
+\cofoot*{}
+
+
+\pagestyle{scrheadings}
+
+\automark[section]{chapter}
+%\automark*[section]{}
+
 
 
 \usepackage{siunitx}
