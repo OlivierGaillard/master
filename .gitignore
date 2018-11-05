@@ -10,6 +10,8 @@ master.bbl
 master.blg
 master.docx
 master.out
+master.lof
+master.log
 /master.dvi
 
 master\.bcf
