@@ -21,6 +21,9 @@ bibstyle=alphabetic,  % style de bibliographie alphabétique
 autocite=inline
 ]{biblatex}
 \addbibresource{valbib.bib}
+\addbibresource{zoteroExport.bib}
+\addbibresource{livresmas.bib}
+\addbibresource{livreallemandfrancais.bib}
 \usepackage[autooneside=true]{scrlayer-scrpage}
 \usepackage{lastpage}
 
@@ -83,12 +86,13 @@ autocite=inline
 
 \begin{document}
 \maketitle
-%\input{titlepage}
+%\input{titlepage} % deja commente
 \input{abstract}
 \tableofcontents
 \listoffigures
 \input{introduction} 
 \input{ecoute} 
+\input{tomatisBilanMethode} 
 \input{methodetomatis}
 \input{testtomatis}
 \input{testclinique}
