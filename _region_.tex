@@ -1,4 +1,4 @@
-\documentclass[12pt,pagesize, DIV=14, oneside, headsepline,
+\message{ !name(master.tex)}\documentclass[12pt,pagesize, DIV=14, oneside, headsepline,
 titlepage,parskip, headings=small, listof=totoc, 
 bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
 %\documentclass[12pt,french]{report}
@@ -21,10 +21,6 @@ bibstyle=alphabetic,  % style de bibliographie alphabétique
 autocite=inline
 ]{biblatex}
 \addbibresource{valbib.bib}
-\addbibresource{zoteroExport.bib}
-%\addbibresource{livresmas.bib}
-\addbibresource{livreallemandfranc.bib}
-\addbibresource{livrefrancaisallemand.bib}
 \usepackage[autooneside=true]{scrlayer-scrpage}
 \usepackage{lastpage}
 
@@ -86,16 +82,16 @@ autocite=inline
 \author{Valérie Gaillard}
 
 \begin{document}
+
+\message{ !name(master.tex) !offset(-3) }
+
 \maketitle
-% \input{titlepage} % deja commente
-\part{Méthode}
+%\input{titlepage}
 \input{abstract}
 \tableofcontents
 \listoffigures
 \input{introduction} 
 \input{ecoute} 
-\input{tomatisBilanMethode}
-
 \input{methodetomatis}
 \input{testtomatis}
 \input{testclinique}
@@ -106,7 +102,7 @@ autocite=inline
 \nocite{*} % imprime toute la bibliographie et pas seulement
 % les livres cités
 \phantomsection 
-%\addcontentsline{toc}{chapter}{Bibliographie} 
+\addcontentsline{toc}{chapter}{Bibliographie} 
 \label{bibliographie}
 \printbibliography
 \end{document}
@@ -114,3 +110,5 @@ autocite=inline
 % Local Variables:
 % TeX-engine: luatex
 % End:
+
+\message{ !name(master.tex) !offset(-114) }
