@@ -1,0 +1,1093 @@
+% Encoding: UTF-8
+
+@Book{noauthor_pourquoi_nodate,
+  title   = {Pourquoi aime-t-on la musique ? - Silvia Bencivelli - Payot},
+  file    = {Pourquoi aime-t-on la musique ? - Silvia Bencivelli - Payot:/Users/valeriegaillard/Zotero/storage/JTBZQZXJ/pourquoi_aime_t_on_la_musique_-silvia_bencivelli__sophie_lem-9782701149387.html:text/html},
+  url     = {https://www.payot.ch/Detail/pourquoi_aime_t_on_la_musique_-silvia_bencivelli__sophie_lem-9782701149387},
+  urldate = {2019-01-26},
+}
+
+@Book{sacks_homme_1992,
+  title      = {L'homme qui prenait sa femme pour un chapeau : et autres récits cliniques},
+  publisher  = {Éd. du Seuil},
+  author     = {Sacks, Oliver},
+  number     = {245},
+  series     = {Points},
+  isbn       = {978-2-02-014630-2},
+  note       = {ill., couv. ill. en coul. 18 cm. Bibliogr. p. 301-312.},
+  date       = {1992},
+  keywords   = {Neuropsychiatrie, Personnes atteintes de lésions cérébrales},
+  location   = {Paris},
+  pagetotal  = {312},
+  shorttitle = {L'homme qui prenait sa femme pour un chapeau},
+  translator = {La Héronnière, Édith de},
+}
+
+@Book{franz_psychologie_1986,
+  title      = {La Psychologie de la divination : le hasard signifiant},
+  publisher  = {Poiesis diff. Payot},
+  author     = {Franz, Marie-Louise von},
+  isbn       = {978-2-905525-01-7},
+  note       = {ill.,couv.ill. 23 cm. Réunit des conférences prononcées à l' Institut C. G. Jung à Zürich en 1969.},
+  date       = {1986},
+  keywords   = {Divination, Synchronicité},
+  location   = {Paris},
+  pagetotal  = {152},
+  shorttitle = {La Psychologie de la divination},
+  translator = {Capek, Suzanne},
+}
+
+@Mvbook{lemoine_histoire_nodate,
+  author      = {Collectif},
+  title       = {Histoire de la folie avant la psychiatrie},
+  year        = {2018},
+  note        = {ill. 22 cm.},
+  editora     = {Lemoine, Patrick and Cyrulnik, Boris},
+  editoratype = {collaborator},
+  isbn        = {978-2-7381-4513-0},
+  keywords    = {Malades mentaux, Psychiatrie clinique},
+  pagetotal   = {248},
+  publisher   = {Editions Odile Jacob},
+  url         = {https://www.amazon.com/Histoire-folie-avant-psychiatrie-Collectif/dp/2738145132?SubscriptionId=AKIAIOBINVZYXZQZ2U3A&tag=chimbori05-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=2738145132},
+  volumes     = {1},
+}
+
+@Book{barthelemy_voix_2003,
+  title      = {La voix libérée : [une nouvelle technique pour l'art lyrique et la rééducation vocale]},
+  publisher  = {R. Laffont},
+  author     = {Barthélémy, Yva and Bougault, Josée},
+  series     = {Réponses},
+  edition    = {[Nouv. éd. entièrement rev., augm. et remaniée},
+  isbn       = {978-2-221-09861-5},
+  note       = {ill., mus., couv. ill. en coul. 22 cm. Bibliogr. p. 345-346.},
+  date       = {2003},
+  keywords   = {Chant, Culture vocale, Dysphonie},
+  location   = {Paris},
+  pagetotal  = {347},
+  shorttitle = {La voix libérée},
+}
+
+@Book{wilfart_chant_1994,
+  title      = {Le chant de l'être : analyser, construire, harmoniser par la voix},
+  publisher  = {A. Michel},
+  author     = {Wilfart, Serge},
+  series     = {L'être et le corps},
+  isbn       = {978-2-226-06954-2},
+  note       = {ill., couv. ill. 23 cm. Bibliogr., 1 p.},
+  date       = {1994},
+  keywords   = {Culture vocale, Voix},
+  location   = {Paris},
+  pagetotal  = {197},
+  shorttitle = {Le chant de l'être},
+}
+
+@Book{ridel_pouvoir_1987,
+  title     = {Le Pouvoir de la voix},
+  publisher = {{BAMI}},
+  author    = {Ridel, Alice},
+  note      = {Ill., couv. ill. 24 cm.},
+  date      = {1987},
+  keywords  = {Culture vocale},
+  location  = {Paris},
+}
+
+@Mvbook{hamel_decouvrir_2010,
+  author     = {Hamel, Johanne and Labrèche, Jocelyne},
+  title      = {Découvrir l'art-thérapie : des mots sur les maux, des couleurs sur les douleurs},
+  note       = {couv. ill. en coul. 22 cm. Bibliogr. p. 259-265. Webliogr. p. 265-266. Glossaire.},
+  date       = {2010},
+  isbn       = {978-2-03-584287-9},
+  keywords   = {Art-thérapie},
+  location   = {Paris},
+  pagetotal  = {268},
+  publisher  = {Larousse},
+  shorttitle = {Découvrir l'art-thérapie},
+  volumes    = {1},
+}
+
+@Book{rondeleux_trouver_2004,
+  title     = {Trouver sa voix},
+  publisher = {Éd. du Seuil},
+  author    = {Rondeleux, Louis-Jacques},
+  series    = {Seuil pratique},
+  isbn      = {978-2-02-063981-1},
+  note      = {ill., mus., couv. ill. 22 cm. La couv. porte en plus : "contrôler sa respiration, enrichir son timbre, élargir son registre vocal. Bibliogr., 1 p.},
+  date      = {2004},
+  keywords  = {Chant, Culture vocale},
+  location  = {Paris},
+  pagetotal = {187},
+}
+
+@Book{hegi_improvisation_1993,
+  title      = {Improvisation und Musiktherapie: Möglichkeiten und Wirkungen von freier Musik},
+  publisher  = {Junfermann},
+  author     = {Hegi, Fritz},
+  volume     = {Band 4, Ed. 4},
+  series     = {Reihe Kunst, Therapie, Kreativität},
+  edition    = {4. Aufl.},
+  isbn       = {978-3-87387-270-7},
+  date       = {1993},
+  keywords   = {Musik Psychotherapie, Musiktherapie, Psychorhythmie},
+  location   = {Paderborn},
+  pagetotal  = {318},
+  shorttitle = {Improvisation und Musiktherapie},
+}
+
+@Book{willms_musiktherapie_1975,
+  title     = {Musiktherapie bei psychotischen Erkrankungen},
+  publisher = {Fischer},
+  author    = {Willms, Harm and Alvin, Juliette},
+  volume    = {1},
+  series    = {Musiktherapie},
+  isbn      = {978-3-437-00166-6},
+  abstract  = {Literaturverz. S. 96 - 99},
+  date      = {1975},
+  keywords  = {Geisteskrankheit, Irrsinn, Music therapy, Musik Musiktherapie, Musik Psychotherapie, Musiktherapie, Pathopsychologie, Psychopathologie, Psychorhythmie, Psychose},
+  location  = {Stuttgart},
+  pagetotal = {102},
+}
+
+@Book{decker-voigt_musik_1987,
+  title      = {Musik und Kommunikation: Hamburger Jahrbuch zur Musiktherapie und intermodalen Medientherapie},
+  publisher  = {Eres},
+  author     = {Decker-Voigt, Hans-Helmut and {Johannes Th. Eschen}},
+  date       = {1987},
+  keywords   = {Musik Psychotherapie, Musiktherapie, Psychorhythmie},
+  location   = {Lilienthal},
+  shorttitle = {Musik und Kommunikation},
+}
+
+@Book{decker-voigt_schulen_2001,
+  title     = {Schulen der Musiktherapie},
+  publisher = {Reinhardt},
+  author    = {Decker-Voigt, Hans-Helmut and Bach, Sabine},
+  isbn      = {978-3-497-01574-0},
+  abstract  = {Literaturangaben},
+  date      = {2001},
+  keywords  = {Aufsatzsammlung [Formschlagwort], Beiträge [Formschlagwort], Einzelbeiträge [Formschlagwort], Essays [Formschlagwort], Festschrift [Formschlagwort], Kongress [Formschlagwort], Music therapy, Musik Musiktherapie, Musik Psychotherapie, Musiktherapie, Psychorhythmie, Reader [Formschlagwort], Richtungen, Sammelwerk [Formschlagwort]},
+  location  = {München},
+  pagetotal = {430},
+}
+
+@Book{lutz_hochreutener_spiel_2009,
+  title      = {Spiel - Musik - Therapie: Methoden der Musiktherapie mit Kindern und Jugendlichen},
+  publisher  = {Hogrefe},
+  author     = {Lutz Hochreutener, Sandra},
+  volume     = {Band 1},
+  series     = {Praxis der Musiktherapie},
+  isbn       = {978-3-8017-2198-5},
+  abstract   = {Literaturverz. S. 293 - 310},
+  date       = {2009},
+  keywords   = {Child, Childhood, Children, Jeunesse, Jugend, Jugend 12-20 Jahre, Jugendalter, Jugendliche, Jugendlicher, Jugendpsychotherapie, Jugendtherapie, Kind, Kind Psychotherapie, Kinder, Kinderpsychotherapie, Kindertherapie, Kindesalter, Kindheit, Kindschaft, Method, Methode, Methodik, Music therapy, Musik Psychotherapie, Musiktherapie, Psychorhythmie, Technik (Methode), Teenager, Verfahren (Methode), Youth},
+  location   = {Göttingen},
+  pagetotal  = {315},
+  shorttitle = {Spiel - Musik - Therapie},
+}
+
+@Book{kaufmann_gespurt_2014,
+  title      = {Gespürt - gehört - gebor(g)en: Musiktherapie mit risikoschwangeren Frauen, Säuglingen und Kleinkindern},
+  publisher  = {Reichert},
+  author     = {Kaufmann, Judith},
+  volume     = {3},
+  series     = {Zeitpunkt Musik},
+  isbn       = {978-3-95490-063-3},
+  date       = {2014},
+  keywords   = {Abstinenzsyndrom, Babies, Baby, Entzugssyndrom, Frühchen, Frühgeborenes, Kind 0-1 Jahr, Musik Psychotherapie, Musiktherapie, Psychische Traumatisierung, Psychisches Trauma, Psychorhythmie, Psychotrauma, Risikoschwangerschaft, Säugling, Säuglinge, Trauma Psychologie},
+  location   = {Wiesbaden},
+  pagetotal  = {297},
+  shorttitle = {Gespürt - gehört - gebor(g)en},
+}
+
+@Book{sigrist_burnout_2016,
+  title      = {Burnout und Musiktherapie: Grundlagen, Forschungsstand und Praxeologie},
+  publisher  = {Reichert Verlag},
+  author     = {Sigrist, Felicitas},
+  series     = {Zürcher Schriften zur Musiktherapie},
+  isbn       = {978-3-95490-199-9},
+  date       = {2016},
+  keywords   = {(Produktform)Paperback / softback, Ausbrennen, Ausgebranntsein, Bewältigung, Bewältigungsstrategie, Bewältigungsverhalten, Burn-out-Syndrom, Burned-out-Syndrom, Burnout, Burnout syndrome, Burnout-Syndrom, Coping, Erschöpfungssyndrom, Forschungsmethoden, Musik Psychotherapie, Musiktherapie, Nervöse Erschöpfung, Problembewältigung, Psychische Bewältigung, Psychorhythmie, Stress Bewältigung, Stressbewältigung},
+  location   = {Wiesbaden},
+  shorttitle = {Burnout und Musiktherapie},
+}
+
+@Book{tomatis_klang_1987,
+  title      = {Der Klang des Lebens: vorgeburtliche Kommunikation, die Anfänge der seelischen Entwicklung},
+  publisher  = {Rowohlt},
+  author     = {Tomatis, Alfred},
+  series     = {rororo transformation},
+  isbn       = {978-3-499-18791-9},
+  date       = {1987},
+  keywords   = {Diagnostik, pränatale, Entwicklungspsychologie, Geburt, Hören, Kommunikation, Pränatale Entwicklung, Psychologie, Wahrnehmung},
+  location   = {Reinbek bei Hamburg},
+  pagetotal  = {304},
+  shorttitle = {Der Klang des Lebens},
+}
+
+@Online{noauthor_oreille_nodate,
+  title   = {L'oreille et la voix - Alfred Tomatis - Payot},
+  file    = {L'oreille et la voix - Alfred Tomatis - Payot:/Users/valeriegaillard/Zotero/storage/IEUFWXPX/loreille_et_la_voix-alfred_tomatis__patrick_guillaume-9782221107140.html:text/html},
+  url     = {https://www.payot.ch/Detail/loreille_et_la_voix-alfred_tomatis__patrick_guillaume-9782221107140},
+  urldate = {2019-01-26},
+}
+
+@Online{noauthor_les_nodate,
+  title   = {Les liens entre l'oreille et la voix - Patrick De La Roque - Payot},
+  file    = {Les liens entre l'oreille et la voix - Patrick De La Roque - Payot:/Users/valeriegaillard/Zotero/storage/FHKBCUDG/les_liens_entre_loreille_et_la_voix-patrick_de_la_roque_-9782364062795.html:text/html},
+  url     = {https://www.payot.ch/Detail/les_liens_entre_loreille_et_la_voix-patrick_de_la_roque_-9782364062795},
+  urldate = {2019-01-26},
+}
+
+@Online{noauthor_les_nodate-1,
+  title   = {Les bienfaits de la musique sur le cerveau - Emmanuel Bigand - Payot},
+  file    = {Les bienfaits de la musique sur le cerveau - Emmanuel Bigand - Payot:/Users/valeriegaillard/Zotero/storage/C5TEQ8I7/les_bienfaits_de_la_musique_sur_le_cerveau-emmanuel_bigand__charlotte_martin-9782410013795.html:text/html},
+  url     = {https://www.payot.ch/Detail/les_bienfaits_de_la_musique_sur_le_cerveau-emmanuel_bigand__charlotte_martin-9782410013795},
+  urldate = {2019-01-26},
+}
+
+@Mvbook{Hamel2010,
+  author     = {Hamel, Johanne and Labrèche, Jocelyne},
+  title      = {Découvrir l'art-thérapie : des mots sur les maux, des couleurs sur les douleurs},
+  note       = {couv. ill. en coul. 22 cm. Bibliogr. p. 259-265. Webliogr. p. 265-266. Glossaire.},
+  date       = {2010},
+  isbn       = {978-2-03-584287-9},
+  keywords   = {Art-thérapie},
+  location   = {Paris},
+  pagetotal  = {268},
+  publisher  = {Larousse},
+  shorttitle = {Découvrir l'art-thérapie},
+  volumes    = {1},
+}
+
+@Conference{seminar_zuerich,
+  author        = {Thomas Stegemann},
+  title         = {H{\"o}ren Musiktherapeuten anders? s{\'e}minaire 2017 ZhdK},
+  booktitle     = {Hirnforschung und die Frage nach den Wirkungen von Musik.},
+  year          = {2011},
+  editor        = {M{\"u}nster},
+  date-added    = {2019-02-07 18:22:26 +0000},
+  date-modified = {2019-02-08 10:07:15 +0000},
+}
+
+@Book{:meditation,
+  title        = {M{\'e}ditation et psychoth{\'e}rapie},
+  publisher    = {A. Michel},
+  year         = {2006},
+  author       = {Jean-Marc Mantel and Brigitte Kashtan},
+  series       = {Espaces libres},
+  address      = {Paris},
+  collaborator = {Mantel, Jean-Marc},
+}
+
+@Book{ameisen:sur,
+  title     = {Sur les {\'e}paules de Darwin},
+  year      = {2013},
+  author    = {Jean-Claude Ameisen},
+  editor    = {Les liens qui lib{\`e}rent},
+  maintitle = {Sur les {\'e}paules de Darwin},
+  subtitle  = {Les battements du temps},
+  timestamp = {22-04-2017},
+}
+
+@Book{anzieu.chabert:methodes,
+  title     = {Les m{\'e}thodes projectives},
+  publisher = {Presses universitaires de France},
+  year      = {2004},
+  author    = {Didier Anzieu and Catherine Chabert},
+  series    = {Quadrige},
+  address   = {Paris},
+  keywords  = {Projection (psychologie), Techniques projectives},
+  language  = {fre},
+}
+
+@Book{auriol:cle,
+  title     = {La cl{\'e} des sons, {\'e}l{\'e}ments de psychosonique},
+  year      = {1996},
+  author    = {Bernard Auriol},
+  address   = {Toulouse},
+  edition   = {Er{\`e}s},
+  timestamp = {22-04-2017},
+}
+
+@Book{auriol:son,
+  title   = {Le son au subjectif pr{\'e}sent},
+  year    = {1996},
+  author  = {Bernard Auriol},
+  edition = {Non Verbal},
+}
+
+@Online{auriol_stress,
+  author     = {Bernard Auriol},
+  title      = {Stress Yoga et Psychosonique},
+  bdsk-url-1 = {http://auriol.free.fr/},
+  file       = {Stress Yoga et Psychosonique:/home/golivier/Zotero/storage/AJFV3PKX/auriol.free.fr.html:text/html},
+  url        = {http://auriol.free.fr/},
+  urldate    = {2017-05-15},
+}
+
+@Book{barenboim:musique,
+  title     = {La musique {\'e}veille le temps},
+  publisher = {Fayard},
+  year      = {2008},
+  author    = {Daniel Barenboim},
+  timestamp = {22-04-2017},
+}
+
+@Conference{bella:rythmes,
+  author       = {Simone Dalla Bella},
+  title        = {Les rythmes},
+  booktitle    = {Movement to Health Laboratory},
+  year         = {2012},
+  organization = {SUVA},
+  eventtitle   = {XII{\`e}me Rencontre Cerveau-Esprit},
+  location     = {Sion},
+  timestamp    = {22-04-2017},
+}
+
+@Book{bencivelli:pourquoi,
+  title     = {Pourquoi aime-t-on la musique? Oreille, {\'e}motion, {\'e}volution},
+  year      = {2009},
+  author    = {Silvia Bencivelli},
+  edition   = {Belin "Pour la science"},
+  location  = {Paris},
+  timestamp = {22-04-2017},
+}
+
+@Book{benenzon:musicotherapie,
+  title     = {La musicoth{\'e}rapie. La part oubli{\'e}e de la personnalit{\'e}},
+  publisher = {De Boeck},
+  year      = {2004},
+  author    = {Rolando Omar Benenzon},
+  location  = {Bruxelles},
+}
+
+@Book{bosseur:du,
+  title     = {Du Son au Signe, Histoire de la notation musicale},
+  publisher = {Alternatives},
+  year      = {2005},
+  author    = {Jean-Yves Bosseur},
+  address   = {Paris},
+  timestamp = {22-04-2017},
+}
+
+@Book{damasio:lautre,
+  title     = {L'autre moi-m{\^e}me, les nouvelles cartes du cerveau, de la conscience et des {\'e}motions},
+  publisher = {Odile Jacob},
+  year      = {2012},
+  author    = {Antonio Damasio},
+  location  = {Paris},
+}
+
+@Book{deniot_dire_2000,
+  title       = {Dire la voix : approche transversale des ph{\'e}nom{\`e}nes vocaux},
+  publisher   = {l'Harmattan},
+  year        = {2000},
+  series      = {Collection Univers musical},
+  editora     = {Deniot, Jo{\"e}lle-Andr{\'e}e and Dutheil Pessin, Catherine and Vrait, Fran{\c c}ois-Xavier},
+  editoratype = {collaborator},
+  keywords    = {Chant, Musique vocale, Voix},
+  location    = {Paris Montr{\'e}al (Qu{\'e}bec)},
+  shorttitle  = {Dire la voix},
+}
+
+@Online{fritz_stradivarius,
+  author     = {Claudia Fritz},
+  title      = {Stradivarius : la fin d'un mythe ?},
+  abstract   = {Claudia Fritz, chercheuse en acoustique, a conduit en
+                   2012 {\`a} Paris et en 2013 {\`a} New York des
+                   exp{\'e}riences originales visant {\`a} comparer la
+                   qualit{\'e} des Stradivarius {\`a} celle des violons
+                   neufs. Les r{\'e}sultats de la premi{\`e}re
+                   exp{\'e}rience viennent d'{\^e}},
+  bdsk-url-1 = {https://lejournal.cnrs.fr/diaporamas/stradivarius-la-fin-dun-mythe},
+  shorttitle = {Stradivarius},
+  url        = {https://lejournal.cnrs.fr/diaporamas/stradivarius-la-fin-dun-mythe},
+}
+
+@Online{gim_site,
+  author     = {Gina Kaestele},
+  title      = {About Guided Imagery and Music ({GIM})},
+  bdsk-url-1 = {http://www.gim-trainings.com/about.html},
+  file       = {About Guided Imagery and Music (GIM):/home/golivier/Zotero/storage/84X8TE8M/about.html:text/html},
+  url        = {http://www.gim-trainings.com/about.html},
+  urldate    = {2018-06-14},
+}
+
+@Book{hachette:dictionnaire,
+  title      = {Dictionnaire Hachette de la langue fran{\c c}aise, mini : 35000 mots},
+  publisher  = {Hachette {\'e}ducation},
+  year       = {2012},
+  author     = {Hachette},
+  keywords   = {Fran{\c c}ais (langue)},
+  location   = {Paris},
+  shorttitle = {Dictionnaire {Hachette} de la langue fran{\c c}aise, mini},
+}
+
+@Book{harrisson.st-charles:lautisme,
+  title     = {L'autisme expliqu{\'e} aux non-autistes},
+  publisher = {{\'E}ditions du Tr{\'e}carr{\'e}},
+  year      = {2017},
+  author    = {Brigitte Harrisson and Lise St-Charles},
+  address   = {Montr{\'e}al},
+  abstract  = {Cet ouvrage propose une description unique du TSA
+                   (trouble du spectre de l'autisme) en soulignant qu'un
+                   cerveau autiste est diff{\'e}rent d'un cerveau
+                   neurotypique, qu'il est connect{\'e} autrement et qu'il
+                   ne traite pas les informations de la m{\^e}me
+                   mani{\`e}re. Sous forme de questions et r{\'e}ponses,
+                   l'explication d'une cinquantaine de notions en lien
+                   avec le d{\'e}veloppement de l'autiste. Des conseils
+                   s'appuyant sur une compr{\'e}hension nouvelle du TSA,
+                   qui trouve de plus en plus {\'e}cho chez les
+                   professionnels. Des anecdotes tir{\'e}es de la vie de
+                   Brigitte Harrisson, autiste, et de celle de
+                   l'{\'e}crivaine Kim Th{\'u}y, m{\`e}re d'un fils
+                   autiste},
+  keywords  = {Autisme},
+}
+
+@Online{le_service_metronews,
+  author     = {Le service Metronews},
+  title      = {Et si on diagnostiquait la d{\'e}pression avec un test vocal sur smartphone ?},
+  abstract   = {\#{SANT{\'E}}: {D{\'E}PISTAGE} Des ing{\'e}nieurs ont
+                   d{\'e}tect{\'e} des marqueurs de la d{\'e}pression dans
+                   l'empreinte vocale des malades. Ils pr{\'e}voient de
+                   cr{\'e}er une application pour smartphone qui poserait
+                   le diagnostic de ce trouble mental.},
+  bdsk-url-1 = {https://www.lci.fr/sante/et-si-on-diagnostiquait-la-depression-avec-un-test-vocal-sur-smartphone-1562728.html},
+  file       = {Snapshot:/home/golivier/Zotero/storage/REK6X7JU/et-si-on-diagnostiquait-la-depression-avec-un-test-vocal-sur-smartphone-1562728.html:text/html},
+  langid     = {french},
+  titleaddon = {{LCI}},
+  url        = {https://www.lci.fr/sante/et-si-on-diagnostiquait-la-depression-avec-un-test-vocal-sur-smartphone-1562728.html},
+  urldate    = {2018-06-30},
+}
+
+@Book{lecourt:decouvrir,
+  title     = {D{\'e}couvrir la musicoth{\'e}rapie},
+  publisher = {Editions d'Organisation},
+  year      = {2005},
+  author    = {Edith Lecourt},
+  address   = {Paris},
+  abstract  = {Utilis{\'e}e depuis l'Antiquit{\'e} pour ses vertus
+                   apaisantes ou curatives, la musique constitue
+                   aujourd'hui pour les psychoth{\'e}rapeutes un support
+                   privil{\'e}gi{\'e} et efficace. Ce livre vous invite
+                   {\`a} vous familiariser avec la musicoth{\'e}rapie, de
+                   ses fondements historiques et th{\'e}oriques {\`a} ses
+                   diff{\'e}rentes applications. Tests, exemples et
+                   exercices {\`a} l'appui, vous pourrez ainsi comprendre
+                   et exp{\'e}rimenter ses bienfaits. Complet,
+                   document{\'e} et pratique, ce guide de
+                   r{\'e}f{\'e}rence est une parfaite introduction {\`a}
+                   la musicoth{\'e}rapie.},
+}
+
+@Online{lemonde.fr:stradivarius,
+  author     = {Nathaniel Herzberg},
+  title      = {Le stradivarius d{\'e}tr{\^o}n{\'e} par les violons modernes {@ONLINE}},
+  month      = {4},
+  year       = {2014},
+  bdsk-url-1 = {https://www.lemonde.fr/culture/article/2014/04/10/le-stradivarius-detrone-par-les-violons-modernes_4398681_3246.html},
+  url        = {https://www.lemonde.fr/culture/article/2014/04/10/le-stradivarius-detrone-par-les-violons-modernes_4398681_3246.html},
+}
+
+@Book{marieb:biologie,
+  title      = {Biologie humaine : principes d'anatomie et de physiologie},
+  publisher  = {Pearson education},
+  year       = {2008},
+  author     = {Elaine N. Marieb},
+  address    = {Paris},
+  edition    = {8e {\'e}d},
+  keywords   = {Anatomie humaine, Physiologie humaine},
+  shorttitle = {Biologie humaine},
+}
+
+@Book{nevjinsky:adolescence,
+  title     = {Adolescence, musique, Rorschach},
+  publisher = {Presses universitaires de Rouen et du Havre},
+  year      = {1996},
+  author    = {Fern Nevjinsky},
+  address   = {Mont-Saint-Aignan},
+  timestamp = {22-04-2017},
+}
+
+@InBook{richelle:musique,
+  title     = {La musique comme outil de stimulation cognitive},
+  publisher = {Belin},
+  author    = {Pr{\'e}nomInconnu? Richelle},
+  booktitle = {Le cerveau m{\'e}lomane},
+  timestamp = {22-04-2017},
+}
+
+@Book{roland-manuel_histoire_1981,
+  title       = {Histoire de la musique},
+  publisher   = {Gallimard},
+  year        = {1981},
+  edition     = {Nouvelle {\'e}d},
+  editora     = {Roland-Manuel},
+  editoratype = {collaborator},
+  keywords    = {Musique},
+  location    = {Paris},
+}
+
+@Book{roque:lecoute,
+  title     = {L'{\'e}coute, c'est la vie : introduction {\`a} la m{\'e}thode {T}omatis},
+  publisher = {Jouvence},
+  year      = {2007},
+  author    = {Patrick Dumas de la Roque},
+  address   = {Gen{\`e}ve-Bernex Saint-Julien-en-Genevois},
+  timestamp = {22-04-2017},
+}
+
+@InProceedings{sandre:environnement,
+  author     = {Dominique Sandre},
+  title      = {Environnement sensoriel du b{\'e}b{\'e} dans un contexte hospitalier},
+  year       = {2012},
+  eventdate  = {2012-04-06},
+  eventtitle = {Titre du congr{\`e}s?},
+  location   = {Dijon},
+  timestamp  = {22-04-2017},
+}
+
+@Book{schaeffner.ea:histoire,
+  title        = {Histoire de la musique , {I} : {Des} origines {\`a} {Jean}-{S{\'e}bastien} {Bach}},
+  publisher    = {Gallimard},
+  year         = {1960},
+  author       = {Andr{\'e} Schaeffner and others},
+  editor       = {Roland-Manuel},
+  number       = {9},
+  series       = {Encyclop{\'e}die de la {Pl{\'e}iade}},
+  address      = {Paris},
+  collaborator = {Marcabru},
+  keywords     = {Airs de cour, Bach, Johann Sebastian ( 1685-1750 ), Bach, Johann Sebastian ( 1685-1750 ), [Musique pour orgue], Ballet de cour, Cantate. Italie, Carissimi, Giacomo ( 1605-1674 ), Chanson. France. 15e-16e si{\`e}cle, Chansons, Chansons polyphoniques fran{\c c}aises, Chant gallican, Chant gr{\'e}gorien jusqu'au 9e si{\`e}cle, Chant vieux, Chants gr{\'e}goriens, Chorals. Allemagne. 16e si{\`e}cle, Clavecin (musique). France. 17e-18e si{\`e}cle, Couperin, Fran{\c c}ois ( 1668-1733 ), Danse jusqu'au 15e si{\`e}cle, Eur (Chine), Ex, Ex-Eur (Japon), Ex. Eur (Inde), Folklore, Folklore arabe, Folklore. Afrique noire, Frottole (musique), H{\"a}ndel, Georg Friedrich ( 1685-1759 ), Histoire. 14e-15e si{\`e}cle, Instrument de musique, Italie. Histoire. 13e-15e si{\`e}cle, Josquin Des Pr{\'e}s ( 145.-1521 ), Liturgie protestante. Allemagne. 16e si{\`e}cle, Liturgie protestante. France. 16e si{\`e}cle, Lully, Jean-Baptiste ( 1632-1687 ), Luth (musique). 16e si{\`e}cle, Luth (musique). France. 17e si{\`e}cle, Madrigaux (musique) italiens, Magie, Messe. 16e si{\`e}cle, Messe. Italie. 16e si{\`e}cle, Monteverdi, Claudio ( 1567-1643 ), Motets, Mus. Instr. Allemagne . 1600-1750, Mus. instr. Angleterre. 1600-1750, Mus. Instr. France. 17e si{\`e}cle, Musique, Musique Chine, Musique M{\'e}sopotamie, Musique arabe, Musique byzantine, Musique instrum. 17e-18e si{\`e}cle, Musique instrumentale jusqu'au 15e si{\`e}cle, Musique instrumentale. 16e si{\`e}cle, Musique juive, Musique primitive, Musique relig. France. 1600-1750, Musique religieuse. 15e si{\`e}cle, Musique religieuse. Allemagne. 1600-1750, Musique traditionnelle. Turquie, Musique. Histoire. 15e-16e si{\`e}cle, Mythe, Naples. Histoire jusqu'{\`a} 1750, Notation mensuraliste, Notation musicale, Ockeghem, Johannes ( 14..-1497 ), Op{\'e}ra. Allemagne. 1600-1750, Op{\'e}ra. Angleterre. 1600-1750, Op{\'e}ra. France. 1687-1733, Op{\'e}ra. Italie. 17e si{\`e}cle, Op{\'e}ra. Naples jusqu'{\`a} 1750, Oratorio. 17e si{\`e}cle, Oratorio. Italie jusqu'au 17e si{\`e}cle, Orgue (musique). 16e si{\`e}cle, Orgue (musique). France. 16e-18e si{\`e}cle, Palestrina, Giovanni Pierluigi da ( 1525?-1594 ), Pays-Bas. Histoire. 17e-18e si{\`e}cle, Perse. Histoire, Primitif. Instrument de musique, Psaume protestant. France. 16e si{\`e}cle, Purcell, Henry ( 1659-1695 ), Rameau, Jean-Philippe ( 1683-1764 ), Romain, Rome. Histoire. Antiquit{\'e}, Sch{\"u}tz, Heinrich ( 1585-1672 ), Symbole, Tablature, Th{\'e}{\^a}tre. Italie. 16e si{\`e}cle, Turquie. Histoire},
+  shorttitle   = {Histoire de la musique , {I}},
+}
+
+@Book{seron.baron.ea:neuropsychologie,
+  title     = {Neuropsychologie humaine},
+  publisher = {Editions Mardaga},
+  year      = {1998},
+  author    = {Xavier Seron and Jean-Claude Baron and Marc Jeannerod},
+  abstract  = {Ce volumineux ouvrage est un v{\'e}ritable Trait{\'e} qui pr{\'e}sente de mani{\`e}re critique et didactique les grands domaines de la recherche en neuropsychologie, domaines situ{\'e}s au carrefour des neurosciences et des sciences cognitives. Ainsi, d'un c{\^o}t{\'e}, la Neuropsychologie Humaine introduit aux recherches actuelles sur les bases neurochimiques et neurophysiologiques des comportements et des processus mentaux, d{\'e}crit l'ontogen{\`e}se des fonctions c{\'e}r{\'e}brales et les m{\'e}canismes de la s{\'e}nescence. L'ouvrage traite aussi des grands syndromes cliniques (aphasie, d{\'e}mence d'Alzheimer, etc.) et de l'apport des nouvelles techniques de l'imagerie m{\'e}dicale. Il retrace enfin les grandes {\'e}tapes de l'histoire des localisations c{\'e}r{\'e}brales et de la sp{\'e}cialisation des h{\'e}misph{\`e}res c{\'e}r{\'e}braux. D'un autre c{\^o}t{\'e}, l'ouvrage prend appui sur les cadres th{\'e}oriques de la psychologie cognitive, pour examiner en profondeur les troubles du langage, du calcul, de la m{\'e}moire, de l'attention, des m{\'e}canismes perceptifs, des gestes et des processus de contr{\^o}le de l'action. Il documente en d{\'e}tail les apports du courant cognitif {\`a} la compr{\'e}hension des troubles. L'ouvrage indique enfin quels sont les grands axes de la recherche contemporaine dans le domaine de la r{\'e}habilitation fonctionnelle. Edit{\'e} sous la direction de Xavier Seron (Louvain) et de Marc Jeannerod (Lyon), ce livre a {\'e}t{\'e} {\'e}crit par une quarantaine de chercheurs et enseignants francophones, sp{\'e}cialistes issus de diff{\'e}rentes disciplines (neurochimie, neuroanatomie, neurologie, neurophysiologie, psychologie, logop{\'e}die, linguistique...), la plupart pratiquant la neuropsychologie dans ses dimensions cliniques ou exp{\'e}rimentales. Destin{\'e} aux {\'e}tudiants de psychologie, de neurologie, de neurophysiologie, de logop{\'e}die et de m{\'e}decine physique, cet ouvrage devrait aussi int{\'e}resser l'ensemble des chercheurs relevant des sciences cognitives (linguistique, intelligence artificielle, psychologie cognitive,...) et des neurosciences (neurochimie, neurophysiologie, neuroradiologie,...). Les dimensions cliniques de l'ouvrage font qu'il s'adresse {\'e}galement aux cliniciens de ces disciplines, qu'ils soient concern{\'e}s par le diagnostic ou la r{\'e}habilitation fonctionnelle dans ses dimensions cognitives, motrices et linguistiques. Richement illustr{\'e}, ce Trait{\'e} constitue en outre un texte de r{\'e}f{\'e}rence pour l'enseignement de la neuropsychologie dans le premier et le deuxi{\`e}me cycle de l'enseignement sup{\'e}rieur.},
+  location  = {Sprimont, Belgique},
+}
+
+@Online{site_musitherapy,
+  author     = {Association Professionnelle Suisse Musicoth{\'e}rapie de ASMT},
+  title      = {Qu'est-ce que la musicoth{\'e}rapie ? {SFMT} / {ASMT}},
+  bdsk-url-1 = {http://www.musictherapy.ch/fr/musicotherapie/quest-ce-que-la-musicotherapie/},
+  file       = {Qu'est-ce que la musicoth{\'e}rapie ? SFMT / ASMT:/home/golivier/Zotero/storage/VADRWTBN/quest-ce-que-la-musicotherapie.html:text/html},
+  url        = {http://www.musictherapy.ch/fr/musicotherapie/quest-ce-que-la-musicotherapie/},
+  urldate    = {2018-06-20},
+}
+
+@Online{tomatis.com,
+  author     = {Tomatis.com},
+  title      = {Tomatis Method, auditory stimulation program for improving brain functions},
+  bdsk-url-1 = {https://www.tomatis.com/en},
+  url        = {https://www.tomatis.com/en},
+  urldate    = {2018-06-29},
+}
+
+@Book{tomatis:education,
+  title     = {Education et {Dyslexie}.},
+  publisher = {Les Editions E.S.F.},
+  year      = {1972},
+  author    = {Alfred Tomatis},
+  address   = {Paris},
+}
+
+@Book{tomatis:loreille,
+  title     = {L'oreille et la voix},
+  publisher = {Robert Laffont},
+  year      = {1987},
+  author    = {Alfred Tomatis},
+  address   = {Paris},
+  timestamp = {22-04-2017},
+}
+
+@Book{tomatis_communication_1988,
+  title      = {De la communication intra-ut{\'e}rine au langage humain : la lib{\'e}ration d'{\OE}dipe},
+  publisher  = {Les Editions E.S.F.},
+  year       = {1988},
+  author     = {Alfred Tomatis},
+  series     = {Science de l'{\'e}ducation},
+  edition    = {5e {\'e}d},
+  keywords   = {Complexe d'Oedipe, {\'E}coute (psychologie), Embryologie du comportement, Influences pr{\'e}natales, Langage, M{\`e}res et enfants},
+  location   = {Paris},
+  shorttitle = {De la communication intra-ut{\'e}rine au langage humain},
+}
+
+@Book{tomatis_correction_1953,
+  title      = {La Correction de la voix chant{\'e}e : Facult{\'e} de m{\'e}decine de Paris... cours international de phonologie et de phoniatrie... 6 mars 1953},
+  publisher  = {Facult{\'e} de m{\'e}decine},
+  year       = {1953},
+  author     = {Alfred Tomatis},
+  keywords   = {Phoniatrie},
+  location   = {Paris},
+  shorttitle = {La Correction de la voix chant{\'e}e},
+}
+
+@Book{tomatis_ecouter_1996,
+  title      = {{\'E}couter l'univers : du Big bang {\`a} Mozart {\`a} la d{\'e}couverte de l'univers o{\`u} tout est son},
+  publisher  = {R. Laffont},
+  year       = {1996},
+  author     = {Alfred Tomatis},
+  series     = {R{\'e}ponses},
+  keywords   = {Son},
+  location   = {Paris},
+  shorttitle = {{\'E}couter l'univers},
+}
+
+@Book{tomatis_les_1991,
+  title       = {Les troubles scolaires},
+  publisher   = {{\'E}d. de la Seine},
+  year        = {1991},
+  author      = {Alfred Tomatis},
+  series      = {Succ{\`e}s du livre},
+  editora     = {Lo\"{\i}c Sellin},
+  editoratype = {collaborator},
+  keywords    = {Audiophonologie, Dyslexie, {\'E}chec scolaire},
+  location    = {Paris},
+}
+
+@Mvbook{tomatis_liberation_1972,
+  author    = {Alfred Tomatis},
+  title     = {La Lib{\'e}ration d'{\OE}dipe ou De la communication intra-ut{\'e}rine au langage humain},
+  year      = {1972},
+  location  = {Paris},
+  publisher = {Les Editions E.S.F.},
+  series    = {Collection Science de l'{\'e}ducation},
+  volumes   = {1},
+}
+
+@Online{tomatis_methode_1991,
+  author     = {Pierre Lane},
+  title      = {M{\'e}thode Tomatis - {\'E}mission Envoy{\'e} sp{\'e}cial},
+  year       = {1991},
+  bdsk-url-1 = {https://www.youtube.com/watch?v=M5bBizPffwM},
+  url        = {https://www.youtube.com/watch?v=M5bBizPffwM},
+  urldate    = {2018-06-28},
+}
+
+@Book{tomatis_neuf_1989,
+  title     = {Neuf mois au paradis},
+  publisher = {Ergo press},
+  year      = {1989},
+  author    = {Alfred Tomatis and Lo\"{\i}c Sellin},
+  keywords  = {Audiophonologie, Embryologie du comportement, Influences pr{\'e}natales},
+  location  = {Paris},
+}
+
+@Book{tomatis_nous_1991,
+  title       = {Nous sommes tous n{\'e}s polyglottes : essai},
+  publisher   = {Fixot},
+  year        = {1991},
+  author      = {Alfred Tomatis},
+  editora     = {Lo\"{\i}c Sellin},
+  editoratype = {collaborator},
+  keywords    = {Audiophonologie, {\'E}coute (psychologie), Langues},
+  location    = {Paris},
+  shorttitle  = {Nous sommes tous n{\'e}s polyglottes},
+}
+
+@Book{tomatis_oreille_1953,
+  title        = {L'Oreille musicale},
+  publisher    = {s.n.},
+  year         = {1953},
+  author       = {Alfred Tomatis},
+  number       = {2},
+  journaltitle = {Journal fran{\c c}ais d'otorhino-laryngologie},
+  keywords     = {Oreille, Surdit{\'e}},
+  location     = {S.l.},
+}
+
+@Book{tomatis_oreille_1991,
+  title     = {L'Oreille et le langage},
+  publisher = {Ed. du Seuil},
+  year      = {1991},
+  author    = {Alfred Tomatis},
+  keywords  = {Audiophonologie, {\'E}coute (psychologie), Psycholinguistique},
+  location  = {Paris},
+}
+
+@Book{tomatis_oreille_1998,
+  title     = {L'oreille et la vie},
+  publisher = {le Grand livre du mois},
+  year      = {1998},
+  author    = {Alfred Tomatis},
+  keywords  = {Audiophonologie, {\'E}coute (psychologie)},
+  location  = {Paris},
+}
+
+@Book{tomatis_pourquoi_1993,
+  title      = {Pourquoi Mozart ? : essai},
+  publisher  = {Librairie g{\'e}n{\'e}rale fran{\c c}aise},
+  year       = {1993},
+  author     = {Alfred Tomatis},
+  editor     = {Librairie g{\'e}n{\'e}rale fran{\c c}aise},
+  number     = {8124},
+  series     = {Le livre de poche},
+  keywords   = {Audiophonologie, Mozart, Wolfgang Amadeus ( 1756-1791 )},
+  location   = {Paris},
+  shorttitle = {Pourquoi Mozart ?},
+}
+
+@Book{tomatis_quest-ce_1986,
+  title      = {Qu'est-ce que l'{\'e}coute humaine ?},
+  publisher  = {{ESF}},
+  year       = {1986},
+  author     = {Alfred Tomatis},
+  series     = {Vers l'{\'e}coute humaine , 1; Collection Science de l'{\'e}ducation},
+  edition    = {3e {\'e}d},
+  keywords   = {{\'E}coute (psychologie), Oreille},
+  location   = {Paris},
+  shorttitle = {Qu'est-ce que l'{\'e}coute humaine ?},
+}
+
+@Book{tomatis_resonance_1963,
+  title     = {La R{\'e}sonance dans les {\'e}chelles musicales. Le point de vue des physiologistes},
+  publisher = {s.n.},
+  year      = {1963},
+  author    = {Alfred Tomatis},
+  keywords  = {Physiologie, R{\'e}sonance},
+  location  = {S.l.},
+}
+
+@Book{tomatis_surdite_1975,
+  title     = {La Surdit{\'e}},
+  publisher = {{SODITAP}},
+  year      = {1975},
+  author    = {Alfred Tomatis},
+  location  = {Paris},
+  pagetotal = {31},
+}
+
+@Book{tomatis_vers_1986,
+  title     = {Vers l'{\'e}coute humaine},
+  publisher = {Les Editions E.S.F.},
+  year      = {1986},
+  author    = {Alfred Tomatis},
+  series    = {Collection Science de l'{\'e}ducation},
+  edition   = {3e {\'e}d},
+  keywords  = {{\'E}coute (psychologie), Oreille},
+  location  = {Paris},
+}
+
+@Book{tomatis_vertiges_1989,
+  title     = {Vertiges},
+  publisher = {Ergo press},
+  year      = {1989},
+  author    = {Alfred Tomatis},
+  keywords  = {Audiophonologie, M{\'e}ni{\`e}re, Maladie de},
+  location  = {Neuilly-sur-Seine},
+}
+
+@Book{verdeau-pailles:bilan,
+  title     = {Le {Bilan} psycho-musical et la personnalit{\'e}},
+  publisher = {J.M. Fuzeau},
+  year      = {1983},
+  author    = {Jacqueline Verdeau-Paill{\`e}s},
+  edition   = {2e {\'e}d. revue et corrig{\'e}e},
+  location  = {Courlay},
+}
+
+@Book{verlinde:lexperience,
+  title     = {L'exp{\'e}rience interdite : de l'ashram au monast{\`e}re},
+  publisher = {{\'E}d. Saint-Paul},
+  year      = {1998},
+  author    = {Joseph-Marie Verlinde},
+  location  = {Versailles},
+  timestamp = {22-04-2017},
+}
+
+@Book{viret:b,
+  title     = {B.A.-BA de la musicoth{\'e}rapie},
+  year      = {2007},
+  author    = {Jacques Viret},
+  editor    = {Pard{\`e}s},
+  address   = {Grez-sur-Loing},
+  edition   = {Pard{\`e}s},
+  location  = {Grez-sur-Loing},
+  timestamp = {22-04-2017},
+}
+
+@Book{viret:musicotherapie,
+  title     = {Musicoth{\'e}rapie},
+  publisher = {Pard{\`e}s},
+  year      = {2007},
+  author    = {Jacques Viret},
+  keywords  = {Musicoth{\'e}rapie},
+  location  = {Grez-sur-Loing},
+}
+
+@Book{vrait_musicotherapie_2018,
+  title     = {La musicoth{\'e}rapie},
+  publisher = {Presses Universitaires de France - {PUF}},
+  year      = {2018},
+  author    = {Fran{\c c}ois-Xavier Vrait},
+  location  = {Paris},
+}
+
+@Book{anzieu:groupal,
+  title     = {Le groupe et l'inconscient : l'imaginaire groupal},
+  publisher = {Dunod},
+  year      = {1999},
+  author    = {Didier Anzieu},
+  location  = {Paris},
+}
+
+@Inreference{noauthor_decibel_2018,
+  title      = {D{\'e}cibel},
+  note       = {Page Version {ID}: 146471984},
+  bdsk-url-1 = {https://fr.wikipedia.org/w/index.php?title=D%C3%A9cibel&oldid=146471984},
+  booktitle  = {Wikip{\'e}dia},
+  date       = {2018-03-15},
+  file       = {Snapshot:/home/golivier/Zotero/storage/HUX4FULT/index.html:text/html},
+  langid     = {french},
+  rights     = {Creative Commons Attribution-{ShareAlike} License},
+  url        = {https://fr.wikipedia.org/w/index.php?title=D%C3%A9cibel&oldid=146471984},
+  urldate    = {2018-07-04},
+}
+
+@Article{platel_neuropsychology_2002,
+  author       = {Herv{\'e} Platel},
+  title        = {Neuropsychology of musical perception: new perspectives},
+  volume       = {125},
+  number       = {2},
+  pages        = {223--224},
+  issn         = {1460-2156, 0006-8950},
+  bdsk-url-1   = {https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awf078},
+  bdsk-url-2   = {https://doi.org/10.1093/brain/awf078},
+  date         = {2002-02-01},
+  doi          = {10.1093/brain/awf078},
+  journaltitle = {Brain},
+  langid       = {english},
+  shorttitle   = {Neuropsychology of musical perception},
+  url          = {https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awf078},
+  urldate      = {2018-07-04},
+}
+
+@Online{,
+  title   = {La méthode Tomatis - Alfred Tomatis - Payot},
+  file    = {La méthode Tomatis - Alfred Tomatis - Payot:/Users/valeriegaillard/Zotero/storage/NSZ6GKIY/la_methode_tomatis-alfred_tomatis-9782364064676.html:text/html},
+  url     = {https://www.payot.ch/Detail/la_methode_tomatis-alfred_tomatis-9782364064676},
+  urldate = {2019-01-26},
+}
+
+@Mvbook{beuzen_musique_2015,
+  author    = {Beuzen, Jean-Noël},
+  title     = {La musique, entre génie créateur et vertu thérapeutique},
+  note      = {ill. 24 cm. Bibliogr. p. 273-280.},
+  date      = {2015},
+  isbn      = {978-2-7381-3127-0},
+  keywords  = {Art et maladies mentales, Musicothérapie, Musique},
+  location  = {Paris},
+  pagetotal = {286},
+  publisher = {Odile Jacob},
+  volumes   = {1},
+}
+
+@Mvbook{chertok_naissance_1973,
+  author     = {Chertok, Léon and Saussure, Raymond de},
+  title      = {Naissance du psychanalyste : de Mesmer à Freud},
+  note       = {ill. 23 cm. Bibliogr. p. 241 à 258. Index. Br.: 48,40 F.},
+  date       = {1973},
+  location   = {Paris},
+  publisher  = {Payot},
+  series     = {Collection Science de l'homme},
+  shorttitle = {Naissance du psychanalyste},
+  volumes    = {1},
+}
+
+@Mvbook{cohen_comment_nodate,
+  author     = {Cohen, Laurent},
+  title      = {Comment lire avec les oreilles : et 40 autres histoires sur le cerveau de l'homme},
+  note       = {ill. en coul. 22 cm.},
+  isbn       = {978-2-7381-3614-5},
+  keywords   = {Cerveau, Neurosciences},
+  pagetotal  = {331},
+  shorttitle = {Comment lire avec les oreilles},
+  volumes    = {1},
+}
+
+@Mvbook{dumas_de_la_roque_lecoute_2007,
+  author     = {Dumas de La Roque, Patrick},
+  title      = {L'écoute, c'est la vie : introduction à la méthode Tomatis},
+  note       = {ill., couv. ill. 22 cm. Bibliogr. des oeuvres de A. Tomasis p. 149-150. Webliogr. p. 153-158. Musicogr. p. 151-152.},
+  date       = {2007},
+  isbn       = {978-2-88353-567-1},
+  keywords   = {Audiophonologie, Écoute (psychologie), Ouïe},
+  location   = {Genève-Bernex Saint-Julien-en-Genevois},
+  pagetotal  = {158},
+  publisher  = {Jouvence éd},
+  series     = {Trois fontaines},
+  shorttitle = {L'écoute, c'est la vie},
+  volumes    = {1},
+}
+
+@Mvbook{fedrizzi_lorsque_nodate,
+  author     = {Fedrizzi, Francesca},
+  title      = {Lorsque les mots viennent à manquer : mon expérience avec le tango, l'aphasie et la tangothérapie pour aphasiques},
+  note       = {21 cm. Bibliogr. p. 149-150.},
+  isbn       = {978-2-35644-274-1},
+  keywords   = {Aphasie, Danse-thérapie},
+  pagetotal  = {150},
+  shorttitle = {Lorsque les mots viennent à manquer},
+  translator = {Alibert, Aude},
+  volumes    = {1},
+}
+
+@Mvbook{forestier_tout_2011,
+  author     = {Forestier, Richard},
+  title      = {Tout savoir sur la musicothérapie : l'art thérapie à dominante musicale},
+  note       = {ill., couv. ill. en coul. 24 cm. La couv. porte en plus : "concepts, méthodes et cliniques, exercices, jeux, situations pratiques, témoignages et résultats. Bibliogr. p. 332-335.},
+  date       = {2011},
+  isbn       = {978-2-8289-1230-7},
+  keywords   = {Art-thérapie, Musicothérapie},
+  location   = {Lausanne Paris},
+  pagetotal  = {349},
+  publisher  = {Favre},
+  shorttitle = {Tout savoir sur la musicothérapie},
+  volumes    = {1},
+}
+
+@Mvbook{frith_comment_2010,
+  author     = {Frith, Christopher D.},
+  title      = {Comment le cerveau crée notre univers mental},
+  note       = {ill. en noir et en coul., couv. ill. en coul. 22 cm. Index.},
+  date       = {2010},
+  isbn       = {978-2-7381-2452-4},
+  keywords   = {Cerveau, Esprit et cerveau},
+  location   = {Paris},
+  pagetotal  = {306},
+  publisher  = {O. Jacob},
+  translator = {Pessiglione, Mathias},
+  volumes    = {1},
+}
+
+@Mvbook{haugmard_abc_2010,
+  author    = {Haugmard, Isabelle},
+  title     = {{ABC} de la thérapie par les sons},
+  note      = {ill., couv. ill. 22 cm. Bibliogr., 2 p.},
+  date      = {2010},
+  isbn      = {978-2-7339-1105-1},
+  keywords  = {Musicothérapie, Son},
+  location  = {Paris},
+  pagetotal = {183},
+  publisher = {Grancher},
+  series    = {{ABC}},
+  volumes   = {1},
+}
+
+@Mvbook{lecourt_musicotherapie_2014,
+  author    = {Lecourt, Édith},
+  title     = {La musicothérapie},
+  note      = {ill., couv. ill. en coul. 21 cm. Bibliogr. p. 189-191. Webliogr. p. 191-192. Notes bibliogr. Index.},
+  date      = {2014},
+  edition   = {4e tirage, 2014},
+  isbn      = {978-2-212-55929-3},
+  keywords  = {Musicothérapie},
+  location  = {Paris},
+  pagetotal = {194},
+  publisher = {Eyrolles},
+  series    = {Eyrolles pratique},
+  volumes   = {1},
+}
+
+@Mvbook{sacks_musicophilia_2009,
+  author     = {Sacks, Oliver},
+  title      = {Musicophilia : la musique, le cerveau et nous},
+  note       = {couv. ill. en coul. 25 cm. Bibliogr. p. 431-453. Index.},
+  date       = {2009},
+  isbn       = {978-2-286-05280-5},
+  keywords   = {Musique},
+  location   = {Paris},
+  pagetotal  = {472},
+  publisher  = {Grand livre du mois},
+  shorttitle = {Musicophilia},
+  translator = {Cler, Christian},
+  volumes    = {1},
+}
+
+@Mvbook{van_eersel_votre_2012,
+  author     = {Van Eersel, Patrice},
+  title      = {Votre cerveau n'a pas fini de vous étonner : entretiens avec Patrice Van Eersel},
+  note       = {couv. ill. en coul. 23 cm. Bibliogr. 223-226.},
+  date       = {2012},
+  isbn       = {978-2-226-24074-3},
+  keywords   = {Cerveau, Esprit et cerveau, Neuropsychologie},
+  location   = {Paris},
+  pagetotal  = {227},
+  publisher  = {A. Michel},
+  series     = {Entretiens-clés},
+  shorttitle = {Votre cerveau n'a pas fini de vous étonner},
+  volumes    = {1},
+}
+
+@Mvbook{vrait_musicotherapie_nodate,
+  author    = {Vrait, François-Xavier},
+  title     = {La musicothérapie},
+  note      = {18 cm. Bibliogr., 3 p.},
+  abstract  = {Depuis l'Antiquité, on reconnaît à la musique des vertus thérapeutiques. Dans la pensée chinoise comme dans le monde arabe médiéval, les traitements musicaux sont décrits comme une évidence. En quelque lieu et à quelque époque que ce soit, les connaissances scientifiques, la pensée philosophique ou les représentations anthropologiques permettent de tisser des liens entre musique et médecine. C'est aujourd'hui l'objet de la musicothérapie, discipline à part entière quoique récente, et du musicothérapeute, professionnel du secteur de la santé.De la clinique aux neurosciences, de la musicothérapie active ou réceptive à la musicothérapie individuelle ou de groupe, partez avec François-Xavier Vrait à la découverte des modèles et des références, mais aussi des champs d'application et des pratiques, qui prouvent que la musique adoucit les maux…},
+  isbn      = {978-2-13-079993-1},
+  keywords  = {Musicothérapie},
+  number    = {n° 4111},
+  pagetotal = {124},
+  series    = {Que sais-je ?},
+  volumes   = {1},
+}
+
+@Online{noauthor_peau_nodate,
+  title   = {La peau, métaphore d'une rencontre entre art et clinique - Martine Colignon - Payot},
+  file    = {La peau, métaphore d'une rencontre entre art et clinique - Martine Colignon - Payot:/Users/valeriegaillard/Zotero/storage/KIKNYK4B/la_peau_metaphore_dune_rencontre_entre_art_et_clinique-martine_colignon-9782749260891.html:text/html},
+  url     = {https://www.payot.ch/Detail/la_peau_metaphore_dune_rencontre_entre_art_et_clinique-martine_colignon-9782749260891?cId=0},
+  urldate = {2019-01-26},
+}
+
+@Mvbook{le_bihan_cerveau_2012,
+  author     = {Le Bihan, Denis},
+  title      = {Le cerveau de cristal : ce que nous revèle la neuro-imagerie},
+  year       = {2012},
+  note       = {ill. en noir et en coul., couv. ill. en coul. 22 cm. Bibliogr. p. 209-215.},
+  date       = {2012},
+  edition    = {Odile Jacob},
+  isbn       = {978-2-7381-2527-9},
+  keywords   = {Cerveau},
+  location   = {Paris},
+  pagetotal  = {220},
+  publisher  = {O. Jacob},
+  shorttitle = {Le cerveau de cristal},
+  volumes    = {1},
+}
+
+@Book{bigand:cerveau,
+  title        = {Le cerveau m{\'e}lomane},
+  publisher    = {Pour la science},
+  year         = {2013},
+  author       = {Emmanuel Bigand},
+  series       = {Cerveau \& psycho},
+  address      = {Paris},
+  collaborator = {Bigand, Emmanuel},
+  file         = {Le cerveau mélomane - Emmanuel Bigand - Payot:/Users/valeriegaillard/Zotero/storage/MBX8GAZI/le_cerveau_melomane-emmanuel_bigand___collectif-9782842451189.html:text/html},
+  keywords     = {Musicoth{\'e}rapie, Musique},
+  url          = {https://www.payot.ch/Detail/le_cerveau_melomane-emmanuel_bigand___collectif-9782842451189},
+  urldate      = {2019-01-26},
+}
+
+@Mvbook{lecourt_les_2017,
+  title       = {Les art-thérapies},
+  note        = {ill. 24 cm. Bibliogr. p. 263-278. Index.},
+  abstract    = {Les art-thérapies, c'est-à-dire l'utilisation de la danse, la musique, les arts plastiques ou encore le théâtre, sous leurs différentes formes, dans un objectif d'aide à surmonter les difficultés de la vie, connaissent actuellement un développement important en France. C'est pourquoi une synthèse de ces pratiques d'art-thérapies s'impose.Cet ouvrage regroupe les savoirs et expériences cliniques de plus d'une vingtaine d'art-thérapeutes appartenant à ces spécialités que sont la musicothérapie, la danse-thérapie, la dramathérapie et les arts plastiques thérapie. Pour chacune de ces spécialités sont présentés les historiques, les principales méthodes, les applications et les références théoriques accompagnées de nombreuses illustrations cliniques. Les recherches dans ce domaine, les formations des art-thérapeutes et les questions d'éthique de la profession sont également développées.Cet ouvrage s'adresse à tous ceux qui s'interrogent sur ces pratiques d'art-thérapies et certaines formes de commercialisation (cahiers de dessin, {CD}, etc.), mais aussi à ceux qui sont en formation dans l'une ou l'autre de ces spécialités. Il sera aussi particulièrement utile aux artistes et aux soignants intéressés par cette orientation professionnelle. Pour les institutions d'éducation spécialisée, d'aide et de soins, l'ouvrage permettra de préciser les contours de ces nouvelles professions},
+  date        = {2017},
+  editora     = {Lecourt, Édith and Lubart, Todd I.},
+  editoratype = {collaborator},
+  isbn        = {978-2-200-61736-3},
+  keywords    = {Art-thérapie},
+  location    = {Malakoff},
+  pagetotal   = {287},
+  publisher   = {Armand Colin},
+  series      = {Collection U},
+  volumes     = {1},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

@@ -5,6 +5,7 @@ bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
 %\usepackage[T1]{fontenc}
 %\usepackage[utf8]{inputenc}
 \usepackage{lipsum}
+\usepackage{glossaries}
 \usepackage{fontspec}
 %\usepackage[french]{babel}
 \usepackage{polyglossia}
@@ -20,12 +21,13 @@ citestyle=authoryear-ibid, % style de citation auteur-année
 bibstyle=alphabetic,  % style de bibliographie alphabétique
 autocite=inline
 ]{biblatex}
-\addbibresource{valbib.bib}
-\addbibresource{zoteroExport.bib}
+\addbibresource{bib/main.bib}
+%\addbibresource{valbib.bib}
+%\addbibresource{zoteroExport.bib}
 %\addbibresource{livresmas.bib}
-\addbibresource{livreallemandfranc.bib}
-\addbibresource{livrefrancaisallemand.bib}
-\addbibresource{bibliotheque.bib}
+%\addbibresource{livreallemandfranc.bib}
+%\addbibresource{livrefrancaisallemand.bib}
+%\addbibresource{bibliotheque.bib}
 \usepackage[autooneside=true]{scrlayer-scrpage}
 \usepackage{lastpage}
 
@@ -90,6 +92,9 @@ die Musiktherapie festzustellen}
 
 \author{Valérie Gaillard}
 
+
+\input{glossaire}
+\makeglossaries
 \begin{document}
 %\maketitle
 \input{titlepage} % deja commente
@@ -107,7 +112,7 @@ die Musiktherapie festzustellen}
 \input{reflexions}
 \appendix
 \input{Annexes}
-%\input{Glossaire}
+\printglossaries
 %\selectlanguage{french}
 \nocite{*} % imprime toute la bibliographie et pas seulement
 % les livres cités
