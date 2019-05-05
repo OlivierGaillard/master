@@ -1,0 +1,24 @@
+\chapter{Exemple de l'utilisation du glossaire}
+
+Par exemple si tu utilises
+le terme de \gls{musicothérapie} il devra être 
+défini par dans le glossaire. Comme ce paragraphe
+contient une référence à l'entrée du glossaire son
+numéro de page sera affiché à côté de l'entrée.
+
+Il est aussi possible de définir les abréviations ou
+acronymes. Par exemple le \acrshort{gcd} (sous sa forme
+abrégée), ou longue \acrlong{gcd}, voir complète comme
+ici \acrfull{gcd} peuvent être utilisée et améliorer
+beaucoup la lisibilité du texte en procurant
+toujours les mêmes abréviations.
+
+Une fois que ceci est en place il suffit pour obtenir le glossaire:
+\begin{enumerate}
+\item lualatex master
+\item makeglossaries master
+\item lualatex master
+\end{enumerate}
+
+Actuellement le titre du glossaire apparaît en anglais. Je n'ai pas
+encore cherché à modifier ceci. Détail pour l'instant.
