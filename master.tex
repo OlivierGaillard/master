@@ -83,7 +83,7 @@ autocite=inline
 
 \@ifundefined{date}{}{\date{}}
 \makeatother
-
+\renewcommand*{\partformat}{\partname~\thepart}
 
 \title{Le test de la transformation et de l'amélioration de l'écoute à travers le
   processus musicothérapeutique\\
@@ -106,9 +106,10 @@ die Musiktherapie festzustellen}
 \input{ecoute} 
 %\input{chapitretomatis} 
 %\input{tomatisBilanMethode}
-
+\part{Méthode Tomatis}
 \input{methodetomatis}
 \input{testtomatis}
+\part{La pratique}
 \input{testclinique}
 \input{reflexions}
 \appendix
