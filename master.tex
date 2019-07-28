@@ -1,10 +1,8 @@
-\documentclass[12pt,pagesize, DIV=14, oneside, headsepline,
+\documentclass[12pt,pagesize, DIV=10, oneside, headsepline,
 titlepage,parskip, headings=small, listof=totoc, 
 bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
-%\documentclass[12pt,french]{report}
-%\usepackage[T1]{fontenc}
-%\usepackage[utf8]{inputenc}
 \usepackage{times}
+\usepackage[bottom=3.0cm,top=3.0cm]{geometry}
 \usepackage[onehalfspacing]{setspace}
 \usepackage{lipsum}
 \usepackage[acronym,toc]{glossaries}
@@ -19,17 +17,10 @@ backend=biber,        % compilateur par défaut pour biblatex
 bibencoding=utf8,
 sorting=nyt,          % trier par nom, année, titre
 citestyle=authoryear-ibid, % style de citation auteur-année
-%citestyle=authortitle-ibid,
 bibstyle=alphabetic,  % style de bibliographie alphabétique
 autocite=inline
 ]{biblatex}
 \addbibresource{bib/main.bib}
-%\addbibresource{valbib.bib}
-%\addbibresource{zoteroExport.bib}
-%\addbibresource{livresmas.bib}
-%\addbibresource{livreallemandfranc.bib}
-%\addbibresource{livrefrancaisallemand.bib}
-%\addbibresource{bibliotheque.bib}
 \usepackage[autooneside=true]{scrlayer-scrpage}
 \usepackage{lastpage}
 
@@ -47,8 +38,6 @@ autocite=inline
 
 \automark[section]{chapter}
 %\automark*[section]{}
-
-
 
 \usepackage{siunitx}
 \setcounter{secnumdepth}{3}
