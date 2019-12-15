@@ -1,0 +1,9 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glossentry{Rorschach}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{21}}}\glsgroupskip
+\glsgroupheading{R}\relax \glsresetentrylist %
+\glossentry{rémanence}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{27}}}%
+\end{theglossary}\glossarypostamble

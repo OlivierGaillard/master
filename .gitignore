@@ -1,5 +1,6 @@
 *.lyx
 *.tex~
+*.rel
 *.aux
 *.log
 *.toc

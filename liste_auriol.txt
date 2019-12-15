@@ -1,0 +1,12 @@
+ecoute.tex:71:\textit{Entendre} nous spécifie Bernard Auriol, \autocite[p. 2, ch . 1]{auriol:cle}
+ecoute.tex:96:Selon J. Auriol \autocite[18] {auriol:cle} et Tomatis (\autocite[52]
+ecoute.tex:639:l'affect proprement auriculaire''\autocite[ch. 13]{auriol:cle}.
+methodetomatis.tex:181:  ch. 1]{auriol:cle}
+methodetomatis.tex:183:  Parmi les nombreux apports de Zwicker, \autocite[p 84]{auriol:cle} nous retenons que notre système d'écoute peut rendre
+methodetomatis.tex:188:85]{auriol:cle}, sujet déjà abordé au chapitre 5.1.  et dont il sera question dans l'approche
+testclinique.tex:1108:instinctuelles''\autocite[ch. 13]{auriol:cle}.
+tomatisBilanMethode.tex:67:inconsciemment.  \autocite  [19--20] {auriol:cle}
+tomatisBilanMethode.tex:73:l'irrigation sanguine\autocite [14] {auriol:cle}; 
+
+
+auriol_cle_1996
