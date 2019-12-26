@@ -1,0 +1,15 @@
+[0] Config.pm:354> INFO - This is Biber 2.7 (beta)
+[0] Config.pm:357> INFO - Logfile is 'master_komatest.blg'
+[28] biber:303> INFO - === mer aoû 22, 2018, 15:54:31
+[38] Biber.pm:360> INFO - Reading 'master_komatest.bcf'
+[94] Biber.pm:833> INFO - Using all citekeys in bib section 0
+[105] Biber.pm:3671> INFO - Processing section 0
+[114] Biber.pm:3841> INFO - Looking for bibtex format file 'valbib.bib' for section 0
+[117] bibtex.pm:1424> INFO - Decoding LaTeX character macros into UTF-8
+[127] bibtex.pm:1281> INFO - Found BibTeX data source 'valbib.bib'
+[256] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[256] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[256] Biber.pm:3500> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'fr-FR'
+[256] Biber.pm:3506> INFO - No sort tailoring available for locale 'fr-FR'
+[290] bbl.pm:608> INFO - Writing 'master_komatest.bbl' with encoding 'UTF-8'
+[296] bbl.pm:712> INFO - Output to master_komatest.bbl

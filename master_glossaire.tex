@@ -1,0 +1,121 @@
+\documentclass[12pt,pagesize, DIV=10, oneside, headsepline,
+titlepage,parskip, headings=small, listof=totoc, 
+bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
+\usepackage{times}
+\usepackage[bottom=3.0cm,top=3.0cm]{geometry}
+\usepackage[onehalfspacing]{setspace}
+\usepackage{lipsum}
+\usepackage[acronym,toc]{glossaries}
+\usepackage{fontspec}
+\usepackage[french]{babel}
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+\setotherlanguage{german}
+\usepackage[french=guillemets]{csquotes}
+\usepackage[
+backend=biber,        % compilateur par défaut pour biblatex
+bibencoding=utf8,
+sorting=nyt,          % trier par nom, année, titre
+citestyle=authoryear-ibid, % style de citation auteur-année
+bibstyle=alphabetic,  % style de bibliographie alphabétique
+autocite=inline
+]{biblatex}
+\addbibresource{bib/main.bib}
+\usepackage[autooneside=true]{scrlayer-scrpage}
+\usepackage{lastpage}
+
+
+\setkomafont{pagenumber}{\small}
+%\renewcommand\pagemark{{\usekomafont{pagenumber}\thepage
+%		\,/\,\pageref{LastPage}}}
+
+\ohead*{\pagemark}
+%\cofoot*{\pagemark}
+\cofoot*{}
+
+
+\pagestyle{scrheadings}
+
+\automark[section]{chapter}
+%\automark*[section]{}
+
+\usepackage{siunitx}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{nomencl}
+\usepackage{xcolor}
+\usepackage[final]{pdfcomment} % nettre 'final' pour enlever les commentaires
+\pdfcommentsetup{opacity=0.4}
+
+\hypersetup{
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=black,
+	urlcolor=black,
+	bookmarks=false
+}
+%\usepackage[colorlinks=true, %
+%	linkcolor=cyan]{hyperref}
+	
+\usepackage{marginnote}
+
+\makeatletter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+\DeclareFontEncoding{LGR}{}{}
+\DeclareRobustCommand{\greektext}{%
+  \fontencoding{LGR}\selectfont\def\encodingdefault{LGR}}
+\DeclareRobustCommand{\textgreek}[1]{\leavevmode{\greektext #1}}
+\ProvideTextCommand{\~}{LGR}[1]{\char126#1}
+
+
+\@ifundefined{date}{}{\date{}}
+\makeatother
+\renewcommand*{\partformat}{\partname~\thepart}
+
+\title{Le test de la transformation et de l'amélioration de l'écoute à travers le
+  processus musicothérapeutique\\
+Ein Gehörtest um die Verwandlung und Verbesserung des Hörchens durch
+die Musiktherapie festzustellen}
+
+\author{Valérie Gaillard}
+
+
+\selectlanguage{french}
+\input{glossaire}
+\makeglossaries
+\begin{document}
+%\maketitle
+\input{titlepage} % deja commente
+%\part{Méthode}
+\input{abstract}
+\tableofcontents
+%\input{exemple_usage_glossaire}
+\input{introduction}
+\input{ecoute} 
+%\input{chapitretomatis} 
+%\input{tomatisBilanMethode}
+%\part{Méthode Tomatis}
+\input{methodetomatis}
+\input{testtomatis}
+%\part{La pratique}
+\input{testclinique} 
+\input{reflexions}
+\appendix
+\input{Annexes}
+\printglossary[title=Glossaire, toctitle=Glossaire]
+%\selectlanguage{french}
+%\nocite{*} % imprime toute la bibliographie et pas seulement
+% les livres cités
+\phantomsection 
+%\addcontentsline{toc}{chapter}{Bibliographie} 
+\label{bibliographie}
+\printbibliography
+\end{document}
+
+ Local Variables:
+% TeX-engine: luatex
+% End:

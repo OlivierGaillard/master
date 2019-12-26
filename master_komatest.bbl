@@ -1,0 +1,1767 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{ameisen:sur}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d3780d2548b04c4601811f6ed3848ed9}{%
+           family={Ameisen},
+           familyi={A\bibinitperiod},
+           given={Jean-Claude},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=8afd630648483e40b6af468c82d36279}{%
+           family={libèrent},
+           familyi={l\bibinitperiod},
+           given={Les},
+           giveni={L\bibinitperiod},
+           prefix={liens\bibnamedelima qui},
+           prefixi={l\bibinitperiod\bibinitdelim q\bibinitperiod}}}%
+      }
+      \strng{namehash}{d3780d2548b04c4601811f6ed3848ed9}
+      \strng{fullhash}{d3780d2548b04c4601811f6ed3848ed9}
+      \strng{authornamehash}{d3780d2548b04c4601811f6ed3848ed9}
+      \strng{authorfullhash}{d3780d2548b04c4601811f6ed3848ed9}
+      \strng{editornamehash}{8afd630648483e40b6af468c82d36279}
+      \strng{editorfullhash}{8afd630648483e40b6af468c82d36279}
+      \field{labelalpha}{Ame13}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{maintitle}{Sur les épaules de Darwin}
+      \field{subtitle}{Les battements du temps}
+      \field{title}{Sur les épaules de Darwin}
+      \field{year}{2013}
+    \endentry
+    \entry{anzieu:groupal}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b21f89ee49df76475aa3d2b748e9a69a}{%
+           family={Anzieu},
+           familyi={A\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Dunod}%
+      }
+      \strng{namehash}{b21f89ee49df76475aa3d2b748e9a69a}
+      \strng{fullhash}{b21f89ee49df76475aa3d2b748e9a69a}
+      \strng{authornamehash}{b21f89ee49df76475aa3d2b748e9a69a}
+      \strng{authorfullhash}{b21f89ee49df76475aa3d2b748e9a69a}
+      \field{labelalpha}{Anz99}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Le groupe et l'inconscient : l'imaginaire groupal}
+      \field{year}{1999}
+    \endentry
+    \entry{anzieu.chabert:methodes}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=b21f89ee49df76475aa3d2b748e9a69a}{%
+           family={Anzieu},
+           familyi={A\bibinitperiod},
+           given={Didier},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=da924a2356892f5c201897a1bebc64b2}{%
+           family={Chabert},
+           familyi={C\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {fre}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de France}%
+      }
+      \strng{namehash}{80574ae8d4fd25f5f99e91f9f9c29b43}
+      \strng{fullhash}{80574ae8d4fd25f5f99e91f9f9c29b43}
+      \strng{authornamehash}{80574ae8d4fd25f5f99e91f9f9c29b43}
+      \strng{authorfullhash}{80574ae8d4fd25f5f99e91f9f9c29b43}
+      \field{labelalpha}{AC04}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Quadrige}
+      \field{title}{Les méthodes projectives}
+      \field{year}{2004}
+      \keyw{Projection (psychologie),Techniques projectives}
+    \endentry
+    \entry{site_musitherapy}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3c4ae69c7c99f525a0e850a2f4ffaf62}{%
+           family={ASMT},
+           familyi={A\bibinitperiod},
+           given={Association\bibnamedelimb Professionnelle\bibnamedelimb Suisse\bibnamedelima Musicothérapie},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c4ae69c7c99f525a0e850a2f4ffaf62}
+      \strng{fullhash}{3c4ae69c7c99f525a0e850a2f4ffaf62}
+      \strng{authornamehash}{3c4ae69c7c99f525a0e850a2f4ffaf62}
+      \strng{authorfullhash}{3c4ae69c7c99f525a0e850a2f4ffaf62}
+      \field{labelalpha}{ASM}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qu'est-ce que la musicothérapie ? {SFMT} / {ASMT}}
+      \field{urlday}{20}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Qu'est-ce que la musicoth{\'e}rapie ? SFMT / ASMT:/home/golivier/Zotero/storage/VADRWTBN/quest-ce-que-la-musicotherapie.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.musictherapy.ch/fr/musicotherapie/quest-ce-que-la-musicotherapie/
+      \endverb
+    \endentry
+    \entry{auriol:cle}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=276ff5dcd57ffcb0c7728448aa695854}{%
+           family={Auriol},
+           familyi={A\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Toulouse}%
+      }
+      \strng{namehash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{fullhash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{authornamehash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{authorfullhash}{276ff5dcd57ffcb0c7728448aa695854}
+      \field{labelalpha}{Aur96}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Erès}
+      \field{title}{La clé des sons, éléments de psychosonique}
+      \field{year}{1996}
+    \endentry
+    \entry{auriol:son}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=276ff5dcd57ffcb0c7728448aa695854}{%
+           family={Auriol},
+           familyi={A\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{fullhash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{authornamehash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{authorfullhash}{276ff5dcd57ffcb0c7728448aa695854}
+      \field{labelalpha}{Aur96}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Non Verbal}
+      \field{title}{Le son au subjectif présent}
+      \field{year}{1996}
+    \endentry
+    \entry{auriol_stress}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=276ff5dcd57ffcb0c7728448aa695854}{%
+           family={Auriol},
+           familyi={A\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{fullhash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{authornamehash}{276ff5dcd57ffcb0c7728448aa695854}
+      \strng{authorfullhash}{276ff5dcd57ffcb0c7728448aa695854}
+      \field{labelalpha}{Aur}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stress Yoga et Psychosonique}
+      \field{urlday}{15}
+      \field{urlmonth}{5}
+      \field{urlyear}{2017}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Stress Yoga et Psychosonique:/home/golivier/Zotero/storage/AJFV3PKX/auriol.free.fr.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://auriol.free.fr/
+      \endverb
+    \endentry
+    \entry{barenboim:musique}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=093b32ee343793a5bdaaf6e8fdcea80e}{%
+           family={Barenboim},
+           familyi={B\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Fayard}%
+      }
+      \strng{namehash}{093b32ee343793a5bdaaf6e8fdcea80e}
+      \strng{fullhash}{093b32ee343793a5bdaaf6e8fdcea80e}
+      \strng{authornamehash}{093b32ee343793a5bdaaf6e8fdcea80e}
+      \strng{authorfullhash}{093b32ee343793a5bdaaf6e8fdcea80e}
+      \field{labelalpha}{Bar08}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La musique éveille le temps}
+      \field{year}{2008}
+    \endentry
+    \entry{bella:rythmes}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=329b7f66d7e5e84224b0a47a975f65df}{%
+           family={Bella},
+           familyi={B\bibinitperiod},
+           given={Simone\bibnamedelima Dalla},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sion}%
+      }
+      \list{organization}{1}{%
+        {SUVA}%
+      }
+      \strng{namehash}{329b7f66d7e5e84224b0a47a975f65df}
+      \strng{fullhash}{329b7f66d7e5e84224b0a47a975f65df}
+      \strng{authornamehash}{329b7f66d7e5e84224b0a47a975f65df}
+      \strng{authorfullhash}{329b7f66d7e5e84224b0a47a975f65df}
+      \field{labelalpha}{Bel12}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Movement to Health Laboratory}
+      \field{eventtitle}{XIIème Rencontre Cerveau-Esprit}
+      \field{title}{Les rythmes}
+      \field{year}{2012}
+    \endentry
+    \entry{bencivelli:pourquoi}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8963c3df953bcd6153016e407dd6993f}{%
+           family={Bencivelli},
+           familyi={B\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{8963c3df953bcd6153016e407dd6993f}
+      \strng{fullhash}{8963c3df953bcd6153016e407dd6993f}
+      \strng{authornamehash}{8963c3df953bcd6153016e407dd6993f}
+      \strng{authorfullhash}{8963c3df953bcd6153016e407dd6993f}
+      \field{labelalpha}{Ben09}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Belin "Pour la science"}
+      \field{title}{Pourquoi aime-t-on la musique? Oreille, émotion, évolution}
+      \field{year}{2009}
+    \endentry
+    \entry{benenzon:musicotherapie}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c66c566712c17c6ca24e89a6ae0c28fc}{%
+           family={Benenzon},
+           familyi={B\bibinitperiod},
+           given={Rolando\bibnamedelima Omar},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bruxelles}%
+      }
+      \list{publisher}{1}{%
+        {De Boeck}%
+      }
+      \strng{namehash}{c66c566712c17c6ca24e89a6ae0c28fc}
+      \strng{fullhash}{c66c566712c17c6ca24e89a6ae0c28fc}
+      \strng{authornamehash}{c66c566712c17c6ca24e89a6ae0c28fc}
+      \strng{authorfullhash}{c66c566712c17c6ca24e89a6ae0c28fc}
+      \field{labelalpha}{Ben04}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La musicothérapie. La part oubliée de la personnalité}
+      \field{year}{2004}
+    \endentry
+    \entry{bigand:cerveau}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=29054e8940ba890f925aebe1cdabac12}{%
+           family={Bigand},
+           familyi={B\bibinitperiod},
+           given={Emmanuel},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Pour la science}%
+      }
+      \strng{namehash}{29054e8940ba890f925aebe1cdabac12}
+      \strng{fullhash}{29054e8940ba890f925aebe1cdabac12}
+      \strng{authornamehash}{29054e8940ba890f925aebe1cdabac12}
+      \strng{authorfullhash}{29054e8940ba890f925aebe1cdabac12}
+      \field{labelalpha}{Big13}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Cerveau \& psycho}
+      \field{title}{Le cerveau mélomane}
+      \field{year}{2013}
+      \keyw{Musicothérapie,Musique}
+    \endentry
+    \entry{bihan:cerveau}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=588159b2dcfedd0cf7550b6a2503e5ac}{%
+           family={Bihan},
+           familyi={B\bibinitperiod},
+           given={Denis},
+           giveni={D\bibinitperiod},
+           prefix={le},
+           prefixi={l\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{588159b2dcfedd0cf7550b6a2503e5ac}
+      \strng{fullhash}{588159b2dcfedd0cf7550b6a2503e5ac}
+      \strng{authornamehash}{588159b2dcfedd0cf7550b6a2503e5ac}
+      \strng{authorfullhash}{588159b2dcfedd0cf7550b6a2503e5ac}
+      \field{labelalpha}{Bih12}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Odile Jacob}
+      \field{title}{Le cerveau de cristal, ce que nous révèle la neuro-imagerie}
+      \field{year}{2012}
+    \endentry
+    \entry{bosseur:du}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=75f8964c020a84f1b79c8cee4cae95ed}{%
+           family={Bosseur},
+           familyi={B\bibinitperiod},
+           given={Jean-Yves},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Alternatives}%
+      }
+      \strng{namehash}{75f8964c020a84f1b79c8cee4cae95ed}
+      \strng{fullhash}{75f8964c020a84f1b79c8cee4cae95ed}
+      \strng{authornamehash}{75f8964c020a84f1b79c8cee4cae95ed}
+      \strng{authorfullhash}{75f8964c020a84f1b79c8cee4cae95ed}
+      \field{labelalpha}{Bos05}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Du Son au Signe, Histoire de la notation musicale}
+      \field{year}{2005}
+    \endentry
+    \entry{damasio:lautre}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ca344f1d334b745a9c521b7e3bb9d78d}{%
+           family={Damasio},
+           familyi={D\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Odile Jacob}%
+      }
+      \strng{namehash}{ca344f1d334b745a9c521b7e3bb9d78d}
+      \strng{fullhash}{ca344f1d334b745a9c521b7e3bb9d78d}
+      \strng{authornamehash}{ca344f1d334b745a9c521b7e3bb9d78d}
+      \strng{authorfullhash}{ca344f1d334b745a9c521b7e3bb9d78d}
+      \field{labelalpha}{Dam12}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'autre moi-même, les nouvelles cartes du cerveau, de la conscience et des émotions}
+      \field{year}{2012}
+    \endentry
+    \entry{noauthor_decibel_2018}{inreference}{}
+      \field{labelalpha}{18}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Wikipédia}
+      \field{day}{15}
+      \field{langid}{french}
+      \field{month}{3}
+      \field{note}{Page Version {ID}: 146471984}
+      \field{title}{Décibel}
+      \field{urlday}{4}
+      \field{urlmonth}{7}
+      \field{urlyear}{2018}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/golivier/Zotero/storage/HUX4FULT/index.html:text/html
+      \endverb
+      \verb{url}
+      \verb https://fr.wikipedia.org/w/index.php?title=D%C3%A9cibel&oldid=146471984
+      \endverb
+    \endentry
+    \entry{deniot_dire_2000}{book}{}
+      \name{editora}{3}{}{%
+        {{hash=8750ac96a3141376b5538f9e8d0d12fd}{%
+           family={Deniot},
+           familyi={D\bibinitperiod},
+           given={Joëlle-Andrée},
+           giveni={J\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=e748970d87dda950ed9cb556724514c2}{%
+           family={Dutheil\bibnamedelima Pessin},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c92864ae333976327299423e8948b1bf}{%
+           family={Vrait},
+           familyi={V\bibinitperiod},
+           given={François-Xavier},
+           giveni={F\bibinithyphendelim X\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris Montréal (Québec)}%
+      }
+      \list{publisher}{1}{%
+        {l'Harmattan}%
+      }
+      \strng{editoranamehash}{cb4727f71e3304ce4085f6a481d52ad1}
+      \strng{editorafullhash}{cb4727f71e3304ce4085f6a481d52ad1}
+      \field{labelalpha}{00}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeltitlesource}{shorttitle}
+      \field{editoratype}{collaborator}
+      \field{series}{Collection Univers musical}
+      \field{shorttitle}{Dire la voix}
+      \field{title}{Dire la voix : approche transversale des phénomènes vocaux}
+      \field{year}{2000}
+      \keyw{Chant,Musique vocale,Voix}
+    \endentry
+    \entry{fritz_stradivarius}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=48c0f66e0b06b1ee29059f0902fc7dd6}{%
+           family={Fritz},
+           familyi={F\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{48c0f66e0b06b1ee29059f0902fc7dd6}
+      \strng{fullhash}{48c0f66e0b06b1ee29059f0902fc7dd6}
+      \strng{authornamehash}{48c0f66e0b06b1ee29059f0902fc7dd6}
+      \strng{authorfullhash}{48c0f66e0b06b1ee29059f0902fc7dd6}
+      \field{labelalpha}{Fri}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Claudia Fritz, chercheuse en acoustique, a conduit en 2012 à Paris et en 2013 à New York des expériences originales visant à comparer la qualité des Stradivarius à celle des violons neufs. Les résultats de la première expérience viennent d'ê}
+      \field{shorttitle}{Stradivarius}
+      \field{title}{Stradivarius : la fin d'un mythe ?}
+      \verb{url}
+      \verb https://lejournal.cnrs.fr/diaporamas/stradivarius-la-fin-dun-mythe
+      \endverb
+    \endentry
+    \entry{hachette:dictionnaire}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=aaabe2a32417d2a350993a1f129f6c24}{%
+           family={Hachette},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Hachette éducation}%
+      }
+      \strng{namehash}{aaabe2a32417d2a350993a1f129f6c24}
+      \strng{fullhash}{aaabe2a32417d2a350993a1f129f6c24}
+      \strng{authornamehash}{aaabe2a32417d2a350993a1f129f6c24}
+      \strng{authorfullhash}{aaabe2a32417d2a350993a1f129f6c24}
+      \field{labelalpha}{Hac12}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{Dictionnaire {Hachette} de la langue française, mini}
+      \field{title}{Dictionnaire Hachette de la langue française, mini : 35000 mots}
+      \field{year}{2012}
+      \keyw{Français (langue)}
+    \endentry
+    \entry{harrisson.st-charles:lautisme}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9bc3c8d80a443fd4fcd9dde8438b14e1}{%
+           family={Harrisson},
+           familyi={H\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod}}}%
+        {{uniquename=0,hash=1e7f1b1c3460e21ddc1e91c90272b644}{%
+           family={St-Charles},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Lise},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montréal}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Trécarré}%
+      }
+      \strng{namehash}{d9315e5eecac8c0f3aaf842dd0742441}
+      \strng{fullhash}{d9315e5eecac8c0f3aaf842dd0742441}
+      \strng{authornamehash}{d9315e5eecac8c0f3aaf842dd0742441}
+      \strng{authorfullhash}{d9315e5eecac8c0f3aaf842dd0742441}
+      \field{labelalpha}{HS17}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Cet ouvrage propose une description unique du TSA (trouble du spectre de l'autisme) en soulignant qu'un cerveau autiste est différent d'un cerveau neurotypique, qu'il est connecté autrement et qu'il ne traite pas les informations de la même manière. Sous forme de questions et réponses, l'explication d'une cinquantaine de notions en lien avec le développement de l'autiste. Des conseils s'appuyant sur une compréhension nouvelle du TSA, qui trouve de plus en plus écho chez les professionnels. Des anecdotes tirées de la vie de Brigitte Harrisson, autiste, et de celle de l'écrivaine Kim Thúy, mère d'un fils autiste}
+      \field{title}{L'autisme expliqué aux non-autistes}
+      \field{year}{2017}
+      \keyw{Autisme}
+    \endentry
+    \entry{haugmard:abc}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=864c64c4a8828280da2ded44f9498302}{%
+           family={Haugmard},
+           familyi={H\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c15ce643427bd149e34e55c58b69197a}{%
+           family={Grancher},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{864c64c4a8828280da2ded44f9498302}
+      \strng{fullhash}{864c64c4a8828280da2ded44f9498302}
+      \strng{authornamehash}{864c64c4a8828280da2ded44f9498302}
+      \strng{authorfullhash}{864c64c4a8828280da2ded44f9498302}
+      \strng{editornamehash}{c15ce643427bd149e34e55c58b69197a}
+      \strng{editorfullhash}{c15ce643427bd149e34e55c58b69197a}
+      \field{labelalpha}{Hau10}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ABC de la thérapie par les sons}
+      \field{year}{2010}
+    \endentry
+    \entry{lemonde.fr:stradivarius}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b1da844eda2e4fe0e0b7bc7c69bc9c41}{%
+           family={Herzberg},
+           familyi={H\bibinitperiod},
+           given={Nathaniel},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b1da844eda2e4fe0e0b7bc7c69bc9c41}
+      \strng{fullhash}{b1da844eda2e4fe0e0b7bc7c69bc9c41}
+      \strng{authornamehash}{b1da844eda2e4fe0e0b7bc7c69bc9c41}
+      \strng{authorfullhash}{b1da844eda2e4fe0e0b7bc7c69bc9c41}
+      \field{labelalpha}{Her14}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Le stradivarius détrôné par les violons modernes {@ONLINE}}
+      \field{year}{2014}
+      \verb{url}
+      \verb https://www.lemonde.fr/culture/article/2014/04/10/le-stradivarius-detrone-par-les-violons-modernes_4398681_3246.html
+      \endverb
+    \endentry
+    \entry{roland-manuel_histoire_1981}{book}{}
+      \name{editora}{1}{}{%
+        {{hash=6ba6bca9b79b488e72b325484cedcb88}{%
+           family={Roland-Manuel},
+           familyi={R\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{editoranamehash}{6ba6bca9b79b488e72b325484cedcb88}
+      \strng{editorafullhash}{6ba6bca9b79b488e72b325484cedcb88}
+      \field{labelalpha}{81}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeltitlesource}{title}
+      \field{edition}{Nouvelle éd}
+      \field{editoratype}{collaborator}
+      \field{title}{Histoire de la musique}
+      \field{year}{1981}
+      \keyw{Musique}
+    \endentry
+    \entry{gim_site}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=48e1abfa3a667c87eeb3e35022993d2c}{%
+           family={Kaestele},
+           familyi={K\bibinitperiod},
+           given={Gina},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{48e1abfa3a667c87eeb3e35022993d2c}
+      \strng{fullhash}{48e1abfa3a667c87eeb3e35022993d2c}
+      \strng{authornamehash}{48e1abfa3a667c87eeb3e35022993d2c}
+      \strng{authorfullhash}{48e1abfa3a667c87eeb3e35022993d2c}
+      \field{labelalpha}{Kae}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{About Guided Imagery and Music ({GIM})}
+      \field{urlday}{14}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb About Guided Imagery and Music (GIM):/home/golivier/Zotero/storage/84X8TE8M/about.html:text/html
+      \endverb
+      \verb{url}
+      \verb http://www.gim-trainings.com/about.html
+      \endverb
+    \endentry
+    \entry{tomatis_methode_1991}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3ac9a2eae926480d0aef7c401a8c3f94}{%
+           family={Lane},
+           familyi={L\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ac9a2eae926480d0aef7c401a8c3f94}
+      \strng{fullhash}{3ac9a2eae926480d0aef7c401a8c3f94}
+      \strng{authornamehash}{3ac9a2eae926480d0aef7c401a8c3f94}
+      \strng{authorfullhash}{3ac9a2eae926480d0aef7c401a8c3f94}
+      \field{labelalpha}{Lan91}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Méthode Tomatis - Émission Envoyé spécial}
+      \field{urlday}{28}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{year}{1991}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=M5bBizPffwM
+      \endverb
+    \endentry
+    \entry{lecourt:decouvrir}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=309b9df0612ba4f6c4a319655beb655b}{%
+           family={Lecourt},
+           familyi={L\bibinitperiod},
+           given={Edith},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Editions d'Organisation}%
+      }
+      \strng{namehash}{309b9df0612ba4f6c4a319655beb655b}
+      \strng{fullhash}{309b9df0612ba4f6c4a319655beb655b}
+      \strng{authornamehash}{309b9df0612ba4f6c4a319655beb655b}
+      \strng{authorfullhash}{309b9df0612ba4f6c4a319655beb655b}
+      \field{labelalpha}{Lec05}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Utilisée depuis l'Antiquité pour ses vertus apaisantes ou curatives, la musique constitue aujourd'hui pour les psychothérapeutes un support privilégié et efficace. Ce livre vous invite à vous familiariser avec la musicothérapie, de ses fondements historiques et théoriques à ses différentes applications. Tests, exemples et exercices à l'appui, vous pourrez ainsi comprendre et expérimenter ses bienfaits. Complet, documenté et pratique, ce guide de référence est une parfaite introduction à la musicothérapie.}
+      \field{title}{Découvrir la musicothérapie}
+      \field{year}{2005}
+    \endentry
+    \entry{:meditation}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=5151380d7d8cd05f346d2b664444e9da}{%
+           family={Mantel},
+           familyi={M\bibinitperiod},
+           given={Jean-Marc},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+        {{uniquename=0,hash=dc8248d5f1dd2577d098aeaa822d2643}{%
+           family={Kashtan},
+           familyi={K\bibinitperiod},
+           given={Brigitte},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {A. Michel}%
+      }
+      \strng{namehash}{a1bd2af13601094de4d22c5b5985416a}
+      \strng{fullhash}{a1bd2af13601094de4d22c5b5985416a}
+      \strng{authornamehash}{a1bd2af13601094de4d22c5b5985416a}
+      \strng{authorfullhash}{a1bd2af13601094de4d22c5b5985416a}
+      \field{labelalpha}{MK06}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Espaces libres}
+      \field{title}{Méditation et psychothérapie}
+      \field{year}{2006}
+    \endentry
+    \entry{marieb:biologie}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5128805946033c8b88c5047ab24b548b}{%
+           family={Marieb},
+           familyi={M\bibinitperiod},
+           given={Elaine\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Pearson education}%
+      }
+      \strng{namehash}{5128805946033c8b88c5047ab24b548b}
+      \strng{fullhash}{5128805946033c8b88c5047ab24b548b}
+      \strng{authornamehash}{5128805946033c8b88c5047ab24b548b}
+      \strng{authorfullhash}{5128805946033c8b88c5047ab24b548b}
+      \field{labelalpha}{Mar08}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{8e éd}
+      \field{shorttitle}{Biologie humaine}
+      \field{title}{Biologie humaine : principes d'anatomie et de physiologie}
+      \field{year}{2008}
+      \keyw{Anatomie humaine,Physiologie humaine}
+    \endentry
+    \entry{le_service_metronews}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=97996825519be1f1bc53a77e2c18d858}{%
+           family={Metronews},
+           familyi={M\bibinitperiod},
+           given={Le},
+           giveni={L\bibinitperiod},
+           prefix={service},
+           prefixi={s\bibinitperiod}}}%
+      }
+      \strng{namehash}{97996825519be1f1bc53a77e2c18d858}
+      \strng{fullhash}{97996825519be1f1bc53a77e2c18d858}
+      \strng{authornamehash}{97996825519be1f1bc53a77e2c18d858}
+      \strng{authorfullhash}{97996825519be1f1bc53a77e2c18d858}
+      \field{labelalpha}{Met}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{\#{SANTÉ}: {DÉPISTAGE} Des ingénieurs ont détecté des marqueurs de la dépression dans l'empreinte vocale des malades. Ils prévoient de créer une application pour smartphone qui poserait le diagnostic de ce trouble mental.}
+      \field{langid}{french}
+      \field{title}{Et si on diagnostiquait la dépression avec un test vocal sur smartphone ?}
+      \field{titleaddon}{{LCI}}
+      \field{urlday}{30}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/golivier/Zotero/storage/REK6X7JU/et-si-on-diagnostiquait-la-depression-avec-un-test-vocal-sur-smartphone-1562728.html:text/html
+      \endverb
+      \verb{url}
+      \verb https://www.lci.fr/sante/et-si-on-diagnostiquait-la-depression-avec-un-test-vocal-sur-smartphone-1562728.html
+      \endverb
+    \endentry
+    \entry{nevjinsky:adolescence}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=5cd99deca7c461df8b3e53a395c03dde}{%
+           family={Nevjinsky},
+           familyi={N\bibinitperiod},
+           given={Fern},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Mont-Saint-Aignan}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Rouen et du Havre}%
+      }
+      \strng{namehash}{5cd99deca7c461df8b3e53a395c03dde}
+      \strng{fullhash}{5cd99deca7c461df8b3e53a395c03dde}
+      \strng{authornamehash}{5cd99deca7c461df8b3e53a395c03dde}
+      \strng{authorfullhash}{5cd99deca7c461df8b3e53a395c03dde}
+      \field{labelalpha}{Nev96}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Adolescence, musique, Rorschach}
+      \field{year}{1996}
+    \endentry
+    \entry{platel_neuropsychology_2002}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=856a56d0a260d57e53f5e8ab1ecfac29}{%
+           family={Platel},
+           familyi={P\bibinitperiod},
+           given={Hervé},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{856a56d0a260d57e53f5e8ab1ecfac29}
+      \strng{fullhash}{856a56d0a260d57e53f5e8ab1ecfac29}
+      \strng{authornamehash}{856a56d0a260d57e53f5e8ab1ecfac29}
+      \strng{authorfullhash}{856a56d0a260d57e53f5e8ab1ecfac29}
+      \field{labelalpha}{Pla02}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{issn}{1460-2156, 0006-8950}
+      \field{journaltitle}{Brain}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shorttitle}{Neuropsychology of musical perception}
+      \field{title}{Neuropsychology of musical perception: new perspectives}
+      \field{urlday}{4}
+      \field{urlmonth}{7}
+      \field{urlyear}{2018}
+      \field{volume}{125}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{223\bibrangedash 224}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1093/brain/awf078
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/brain/article-lookup/doi/10.1093/brain/awf078
+      \endverb
+    \endentry
+    \entry{richelle:musique}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cfd4ea044683f94409bf43d94c4605c2}{%
+           family={Richelle},
+           familyi={R\bibinitperiod},
+           given={PrénomInconnu?},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Belin}%
+      }
+      \strng{namehash}{cfd4ea044683f94409bf43d94c4605c2}
+      \strng{fullhash}{cfd4ea044683f94409bf43d94c4605c2}
+      \strng{authornamehash}{cfd4ea044683f94409bf43d94c4605c2}
+      \strng{authorfullhash}{cfd4ea044683f94409bf43d94c4605c2}
+      \field{labelalpha}{Ric}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Le cerveau mélomane}
+      \field{title}{La musique comme outil de stimulation cognitive}
+    \endentry
+    \entry{roque:lecoute}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a5be3c0e525c1f4737cbaa1c8f3fa3bb}{%
+           family={Roque},
+           familyi={R\bibinitperiod},
+           given={Patrick\bibnamedelima Dumas},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           prefix={de\bibnamedelima la},
+           prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Genève-Bernex Saint-Julien-en-Genevois}%
+      }
+      \list{publisher}{1}{%
+        {Jouvence}%
+      }
+      \strng{namehash}{a5be3c0e525c1f4737cbaa1c8f3fa3bb}
+      \strng{fullhash}{a5be3c0e525c1f4737cbaa1c8f3fa3bb}
+      \strng{authornamehash}{a5be3c0e525c1f4737cbaa1c8f3fa3bb}
+      \strng{authorfullhash}{a5be3c0e525c1f4737cbaa1c8f3fa3bb}
+      \field{labelalpha}{Roq07}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'écoute, c'est la vie : introduction à la méthode {T}omatis}
+      \field{year}{2007}
+    \endentry
+    \entry{sandre:environnement}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7e22c9f7ca410f4719648363c6070893}{%
+           family={Sandre},
+           familyi={S\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dijon}%
+      }
+      \strng{namehash}{7e22c9f7ca410f4719648363c6070893}
+      \strng{fullhash}{7e22c9f7ca410f4719648363c6070893}
+      \strng{authornamehash}{7e22c9f7ca410f4719648363c6070893}
+      \strng{authorfullhash}{7e22c9f7ca410f4719648363c6070893}
+      \field{labelalpha}{San12}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventday}{6}
+      \field{eventmonth}{4}
+      \field{eventtitle}{Titre du congrès?}
+      \field{eventyear}{2012}
+      \field{title}{Environnement sensoriel du bébé dans un contexte hospitalier}
+      \field{year}{2012}
+      \field{eventdateera}{ce}
+    \endentry
+    \entry{schaeffner.ea:histoire}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1e7abba108738ce1657db313f961fa46}{%
+           family={Schaeffner},
+           familyi={S\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=6ba6bca9b79b488e72b325484cedcb88}{%
+           family={Roland-Manuel},
+           familyi={R\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{dbe7266f7395dfa723f46db496a4ae86}
+      \strng{fullhash}{dbe7266f7395dfa723f46db496a4ae86}
+      \strng{authornamehash}{dbe7266f7395dfa723f46db496a4ae86}
+      \strng{authorfullhash}{dbe7266f7395dfa723f46db496a4ae86}
+      \strng{editornamehash}{6ba6bca9b79b488e72b325484cedcb88}
+      \strng{editorfullhash}{6ba6bca9b79b488e72b325484cedcb88}
+      \field{labelalpha}{Sch+60}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{9}
+      \field{series}{Encyclopédie de la {Pléiade}}
+      \field{shorttitle}{Histoire de la musique , {I}}
+      \field{title}{Histoire de la musique , {I} : {Des} origines à {Jean}-{Sébastien} {Bach}}
+      \field{year}{1960}
+      \keyw{Airs de cour,Bach,Johann Sebastian ( 1685-1750 ),Bach,Johann Sebastian ( 1685-1750 ),[Musique pour orgue],Ballet de cour,Cantate. Italie,Carissimi,Giacomo ( 1605-1674 ),Chanson. France. 15e-16e siècle,Chansons,Chansons polyphoniques françaises,Chant gallican,Chant grégorien jusqu'au 9e siècle,Chant vieux,Chants grégoriens,Chorals. Allemagne. 16e siècle,Clavecin (musique). France. 17e-18e siècle,Couperin,François ( 1668-1733 ),Danse jusqu'au 15e siècle,Eur (Chine),Ex,Ex-Eur (Japon),Ex. Eur (Inde),Folklore,Folklore arabe,Folklore. Afrique noire,Frottole (musique),Händel,Georg Friedrich ( 1685-1759 ),Histoire. 14e-15e siècle,Instrument de musique,Italie. Histoire. 13e-15e siècle,Josquin Des Prés ( 145.-1521 ),Liturgie protestante. Allemagne. 16e siècle,Liturgie protestante. France. 16e siècle,Lully,Jean-Baptiste ( 1632-1687 ),Luth (musique). 16e siècle,Luth (musique). France. 17e siècle,Madrigaux (musique) italiens,Magie,Messe. 16e siècle,Messe. Italie. 16e siècle,Monteverdi,Claudio ( 1567-1643 ),Motets,Mus. Instr. Allemagne . 1600-1750,Mus. instr. Angleterre. 1600-1750,Mus. Instr. France. 17e siècle,Musique,Musique Chine,Musique Mésopotamie,Musique arabe,Musique byzantine,Musique instrum. 17e-18e siècle,Musique instrumentale jusqu'au 15e siècle,Musique instrumentale. 16e siècle,Musique juive,Musique primitive,Musique relig. France. 1600-1750,Musique religieuse. 15e siècle,Musique religieuse. Allemagne. 1600-1750,Musique traditionnelle. Turquie,Musique. Histoire. 15e-16e siècle,Mythe,Naples. Histoire jusqu'à 1750,Notation mensuraliste,Notation musicale,Ockeghem,Johannes ( 14..-1497 ),Opéra. Allemagne. 1600-1750,Opéra. Angleterre. 1600-1750,Opéra. France. 1687-1733,Opéra. Italie. 17e siècle,Opéra. Naples jusqu'à 1750,Oratorio. 17e siècle,Oratorio. Italie jusqu'au 17e siècle,Orgue (musique). 16e siècle,Orgue (musique). France. 16e-18e siècle,Palestrina,Giovanni Pierluigi da ( 1525?-1594 ),Pays-Bas. Histoire. 17e-18e siècle,Perse. Histoire,Primitif. Instrument de musique,Psaume protestant. France. 16e siècle,Purcell,Henry ( 1659-1695 ),Rameau,Jean-Philippe ( 1683-1764 ),Romain,Rome. Histoire. Antiquité,Schütz,Heinrich ( 1585-1672 ),Symbole,Tablature,Théâtre. Italie. 16e siècle,Turquie. Histoire}
+    \endentry
+    \entry{seron.baron.ea:neuropsychologie}{book}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=0c6096af0045387625d90d672aa7ded5}{%
+           family={Seron},
+           familyi={S\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+        {{uniquename=0,hash=1be76956a2b0d14e9dffc5959d44e8b5}{%
+           family={Baron},
+           familyi={B\bibinitperiod},
+           given={Jean-Claude},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{uniquename=0,hash=51b8988a4c5f4286c5f1d70e5af481dc}{%
+           family={Jeannerod},
+           familyi={J\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sprimont, Belgique}%
+      }
+      \list{publisher}{1}{%
+        {Editions Mardaga}%
+      }
+      \strng{namehash}{86173f68125cfed21d87d41c2a180360}
+      \strng{fullhash}{86173f68125cfed21d87d41c2a180360}
+      \strng{authornamehash}{86173f68125cfed21d87d41c2a180360}
+      \strng{authorfullhash}{86173f68125cfed21d87d41c2a180360}
+      \field{labelalpha}{SBJ98}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Ce volumineux ouvrage est un véritable Traité qui présente de manière critique et didactique les grands domaines de la recherche en neuropsychologie, domaines situés au carrefour des neurosciences et des sciences cognitives. Ainsi, d'un côté, la Neuropsychologie Humaine introduit aux recherches actuelles sur les bases neurochimiques et neurophysiologiques des comportements et des processus mentaux, décrit l'ontogenèse des fonctions cérébrales et les mécanismes de la sénescence. L'ouvrage traite aussi des grands syndromes cliniques (aphasie, démence d'Alzheimer, etc.) et de l'apport des nouvelles techniques de l'imagerie médicale. Il retrace enfin les grandes étapes de l'histoire des localisations cérébrales et de la spécialisation des hémisphères cérébraux. D'un autre côté, l'ouvrage prend appui sur les cadres théoriques de la psychologie cognitive, pour examiner en profondeur les troubles du langage, du calcul, de la mémoire, de l'attention, des mécanismes perceptifs, des gestes et des processus de contrôle de l'action. Il documente en détail les apports du courant cognitif à la compréhension des troubles. L'ouvrage indique enfin quels sont les grands axes de la recherche contemporaine dans le domaine de la réhabilitation fonctionnelle. Edité sous la direction de Xavier Seron (Louvain) et de Marc Jeannerod (Lyon), ce livre a été écrit par une quarantaine de chercheurs et enseignants francophones, spécialistes issus de différentes disciplines (neurochimie, neuroanatomie, neurologie, neurophysiologie, psychologie, logopédie, linguistique...), la plupart pratiquant la neuropsychologie dans ses dimensions cliniques ou expérimentales. Destiné aux étudiants de psychologie, de neurologie, de neurophysiologie, de logopédie et de médecine physique, cet ouvrage devrait aussi intéresser l'ensemble des chercheurs relevant des sciences cognitives (linguistique, intelligence artificielle, psychologie cognitive,...) et des neurosciences (neurochimie, neurophysiologie, neuroradiologie,...). Les dimensions cliniques de l'ouvrage font qu'il s'adresse également aux cliniciens de ces disciplines, qu'ils soient concernés par le diagnostic ou la réhabilitation fonctionnelle dans ses dimensions cognitives, motrices et linguistiques. Richement illustré, ce Traité constitue en outre un texte de référence pour l'enseignement de la neuropsychologie dans le premier et le deuxième cycle de l'enseignement supérieur.}
+      \field{title}{Neuropsychologie humaine}
+      \field{year}{1998}
+    \endentry
+    \entry{tomatis_correction_1953}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Faculté de médecine}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom53}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{shorttitle}{La Correction de la voix chantée}
+      \field{title}{La Correction de la voix chantée : Faculté de médecine de Paris... cours international de phonologie et de phoniatrie... 6 mars 1953}
+      \field{year}{1953}
+      \keyw{Phoniatrie}
+    \endentry
+    \entry{tomatis_oreille_1953}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {S.l.}%
+      }
+      \list{publisher}{1}{%
+        {s.n.}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom53}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal français d'otorhino-laryngologie}
+      \field{number}{2}
+      \field{title}{L'Oreille musicale}
+      \field{year}{1953}
+      \keyw{Oreille,Surdité}
+    \endentry
+    \entry{tomatis_resonance_1963}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {S.l.}%
+      }
+      \list{publisher}{1}{%
+        {s.n.}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom63}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La Résonance dans les échelles musicales. Le point de vue des physiologistes}
+      \field{year}{1963}
+      \keyw{Physiologie,Résonance}
+    \endentry
+    \entry{tomatis:education}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Les Editions E.S.F.}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom72}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Education et {Dyslexie}.}
+      \field{year}{1972}
+    \endentry
+    \entry{tomatis_liberation_1972}{mvbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Les Editions E.S.F.}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom72}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Collection Science de l'éducation}
+      \field{title}{La Libération d'{Œ}dipe ou De la communication intra-utérine au langage humain}
+      \field{volumes}{1}
+      \field{year}{1972}
+    \endentry
+    \entry{tomatis_surdite_1975}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {SODITAP}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom75}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{31}
+      \field{title}{La Surdité}
+      \field{year}{1975}
+    \endentry
+    \entry{tomatis_quest-ce_1986}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {ESF}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom86}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{3e éd}
+      \field{series}{Vers l'écoute humaine , 1; Collection Science de l'éducation}
+      \field{shorttitle}{Qu'est-ce que l'écoute humaine ?}
+      \field{title}{Qu'est-ce que l'écoute humaine ?}
+      \field{year}{1986}
+      \keyw{Écoute (psychologie),Oreille}
+    \endentry
+    \entry{tomatis_vers_1986}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Les Editions E.S.F.}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom86}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3e éd}
+      \field{series}{Collection Science de l'éducation}
+      \field{title}{Vers l'écoute humaine}
+      \field{year}{1986}
+      \keyw{Écoute (psychologie),Oreille}
+    \endentry
+    \entry{tomatis:loreille}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Robert Laffont}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom87}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'oreille et la voix}
+      \field{year}{1987}
+    \endentry
+    \entry{tomatis_communication_1988}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Les Editions E.S.F.}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom88}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{5e éd}
+      \field{series}{Science de l'éducation}
+      \field{shorttitle}{De la communication intra-utérine au langage humain}
+      \field{title}{De la communication intra-utérine au langage humain : la libération d'{Œ}dipe}
+      \field{year}{1988}
+      \keyw{Complexe d'Oedipe,Écoute (psychologie),Embryologie du comportement,Influences prénatales,Langage,Mères et enfants}
+    \endentry
+    \entry{tomatis_vertiges_1989}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Neuilly-sur-Seine}%
+      }
+      \list{publisher}{1}{%
+        {Ergo press}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom89}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vertiges}
+      \field{year}{1989}
+      \keyw{Audiophonologie,Ménière,Maladie de}
+    \endentry
+    \entry{tomatis_les_1991}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editora}{1}{}{%
+        {{hash=8196aeeb3e535543be1553e09cae891f}{%
+           family={Sellin},
+           familyi={S\bibinitperiod},
+           given={Loı̈c},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éd. de la Seine}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{editoranamehash}{8196aeeb3e535543be1553e09cae891f}
+      \strng{editorafullhash}{8196aeeb3e535543be1553e09cae891f}
+      \field{labelalpha}{Tom91}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{editoratype}{collaborator}
+      \field{series}{Succès du livre}
+      \field{title}{Les troubles scolaires}
+      \field{year}{1991}
+      \keyw{Audiophonologie,Dyslexie,Échec scolaire}
+    \endentry
+    \entry{tomatis_oreille_1991}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Ed. du Seuil}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom91}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'Oreille et le langage}
+      \field{year}{1991}
+      \keyw{Audiophonologie,Écoute (psychologie),Psycholinguistique}
+    \endentry
+    \entry{tomatis_nous_1991}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editora}{1}{}{%
+        {{hash=8196aeeb3e535543be1553e09cae891f}{%
+           family={Sellin},
+           familyi={S\bibinitperiod},
+           given={Loı̈c},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Fixot}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{editoranamehash}{8196aeeb3e535543be1553e09cae891f}
+      \strng{editorafullhash}{8196aeeb3e535543be1553e09cae891f}
+      \field{labelalpha}{Tom91}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extraalpha}{3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{editoratype}{collaborator}
+      \field{shorttitle}{Nous sommes tous nés polyglottes}
+      \field{title}{Nous sommes tous nés polyglottes : essai}
+      \field{year}{1991}
+      \keyw{Audiophonologie,Écoute (psychologie),Langues}
+    \endentry
+    \entry{tomatis_pourquoi_1993}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=09e5df78ea0319a5e5d2773c730e0c2a}{%
+           family={française},
+           familyi={f\bibinitperiod},
+           given={Librairie},
+           giveni={L\bibinitperiod},
+           prefix={générale},
+           prefixi={g\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Librairie générale française}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{editornamehash}{09e5df78ea0319a5e5d2773c730e0c2a}
+      \strng{editorfullhash}{09e5df78ea0319a5e5d2773c730e0c2a}
+      \field{labelalpha}{Tom93}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{number}{8124}
+      \field{series}{Le livre de poche}
+      \field{shorttitle}{Pourquoi Mozart ?}
+      \field{title}{Pourquoi Mozart ? : essai}
+      \field{year}{1993}
+      \keyw{Audiophonologie,Mozart,Wolfgang Amadeus ( 1756-1791 )}
+    \endentry
+    \entry{tomatis_ecouter_1996}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {R. Laffont}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom96}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{series}{Réponses}
+      \field{shorttitle}{Écouter l'univers}
+      \field{title}{Écouter l'univers : du Big bang à Mozart à la découverte de l'univers où tout est son}
+      \field{year}{1996}
+      \keyw{Son}
+    \endentry
+    \entry{tomatis_oreille_1998}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {le Grand livre du mois}%
+      }
+      \strng{namehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{fullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authornamehash}{340b4bb02198641a21fc433d4d8459dc}
+      \strng{authorfullhash}{340b4bb02198641a21fc433d4d8459dc}
+      \field{labelalpha}{Tom98}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'oreille et la vie}
+      \field{year}{1998}
+      \keyw{Audiophonologie,Écoute (psychologie)}
+    \endentry
+    \entry{tomatis_neuf_1989}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=340b4bb02198641a21fc433d4d8459dc}{%
+           family={Tomatis},
+           familyi={T\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+        {{uniquename=0,hash=8196aeeb3e535543be1553e09cae891f}{%
+           family={Sellin},
+           familyi={S\bibinitperiod},
+           given={Loı̈c},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Ergo press}%
+      }
+      \strng{namehash}{97431924b8e6cd3db26fcdd6aca21bb0}
+      \strng{fullhash}{97431924b8e6cd3db26fcdd6aca21bb0}
+      \strng{authornamehash}{97431924b8e6cd3db26fcdd6aca21bb0}
+      \strng{authorfullhash}{97431924b8e6cd3db26fcdd6aca21bb0}
+      \field{labelalpha}{TS89}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neuf mois au paradis}
+      \field{year}{1989}
+      \keyw{Audiophonologie,Embryologie du comportement,Influences prénatales}
+    \endentry
+    \entry{tomatis.com}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9826ddd9e6783253df17a301c4caf06b}{%
+           family={Tomatis.com},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{9826ddd9e6783253df17a301c4caf06b}
+      \strng{fullhash}{9826ddd9e6783253df17a301c4caf06b}
+      \strng{authornamehash}{9826ddd9e6783253df17a301c4caf06b}
+      \strng{authorfullhash}{9826ddd9e6783253df17a301c4caf06b}
+      \field{labelalpha}{Tom}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tomatis Method, auditory stimulation program for improving brain functions}
+      \field{urlday}{29}
+      \field{urlmonth}{6}
+      \field{urlyear}{2018}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.tomatis.com/en
+      \endverb
+    \endentry
+    \entry{verdeau-pailles:bilan}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e99f597a0760bcc7719b92e0e0221703}{%
+           family={Verdeau-Paillès},
+           familyi={V\bibinithyphendelim P\bibinitperiod},
+           given={Jacqueline},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Courlay}%
+      }
+      \list{publisher}{1}{%
+        {J.M. Fuzeau}%
+      }
+      \strng{namehash}{e99f597a0760bcc7719b92e0e0221703}
+      \strng{fullhash}{e99f597a0760bcc7719b92e0e0221703}
+      \strng{authornamehash}{e99f597a0760bcc7719b92e0e0221703}
+      \strng{authorfullhash}{e99f597a0760bcc7719b92e0e0221703}
+      \field{labelalpha}{Ver83}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2e éd. revue et corrigée}
+      \field{title}{Le {Bilan} psycho-musical et la personnalité}
+      \field{year}{1983}
+    \endentry
+    \entry{verlinde:lexperience}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d543eea3b35c1f423cec36b8cde82fe2}{%
+           family={Verlinde},
+           familyi={V\bibinitperiod},
+           given={Joseph-Marie},
+           giveni={J\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Versailles}%
+      }
+      \list{publisher}{1}{%
+        {Éd. Saint-Paul}%
+      }
+      \strng{namehash}{d543eea3b35c1f423cec36b8cde82fe2}
+      \strng{fullhash}{d543eea3b35c1f423cec36b8cde82fe2}
+      \strng{authornamehash}{d543eea3b35c1f423cec36b8cde82fe2}
+      \strng{authorfullhash}{d543eea3b35c1f423cec36b8cde82fe2}
+      \field{labelalpha}{Ver98}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{L'expérience interdite : de l'ashram au monastère}
+      \field{year}{1998}
+    \endentry
+    \entry{viret:b}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8a0a9f484a59d65fa4fbd0f41d21ccb0}{%
+           family={Viret},
+           familyi={V\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5606a7595084756274700769f57f05e0}{%
+           family={Pardès},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grez-sur-Loing}%
+      }
+      \strng{namehash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \strng{fullhash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \strng{authornamehash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \strng{authorfullhash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \strng{editornamehash}{5606a7595084756274700769f57f05e0}
+      \strng{editorfullhash}{5606a7595084756274700769f57f05e0}
+      \field{labelalpha}{Vir07}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{extraalpha}{1}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Pardès}
+      \field{title}{B.A.-BA de la musicothérapie}
+      \field{year}{2007}
+    \endentry
+    \entry{viret:musicotherapie}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8a0a9f484a59d65fa4fbd0f41d21ccb0}{%
+           family={Viret},
+           familyi={V\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grez-sur-Loing}%
+      }
+      \list{publisher}{1}{%
+        {Pardès}%
+      }
+      \strng{namehash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \strng{fullhash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \strng{authornamehash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \strng{authorfullhash}{8a0a9f484a59d65fa4fbd0f41d21ccb0}
+      \field{labelalpha}{Vir07}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{extraalpha}{2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Musicothérapie}
+      \field{year}{2007}
+      \keyw{Musicothérapie}
+    \endentry
+    \entry{vrait_musicotherapie_2018}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c92864ae333976327299423e8948b1bf}{%
+           family={Vrait},
+           familyi={V\bibinitperiod},
+           given={François-Xavier},
+           giveni={F\bibinithyphendelim X\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires de France - {PUF}}%
+      }
+      \strng{namehash}{c92864ae333976327299423e8948b1bf}
+      \strng{fullhash}{c92864ae333976327299423e8948b1bf}
+      \strng{authornamehash}{c92864ae333976327299423e8948b1bf}
+      \strng{authorfullhash}{c92864ae333976327299423e8948b1bf}
+      \field{labelalpha}{Vra18}
+      \field{sortinit}{V}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La musicothérapie}
+      \field{year}{2018}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

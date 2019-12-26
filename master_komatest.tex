@@ -1,0 +1,102 @@
+\documentclass[12pt, BCOR=8.25mm, DIV=classic,
+titlepage, listof=totoc, 
+bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
+\usepackage{lipsum}
+\usepackage{fontspec}
+\setmainfont{EB Garamond}
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+\setotherlanguage{german}
+\usepackage[french=guillemets]{csquotes}
+\usepackage[
+backend=biber,        % compilateur par défaut pour biblatex
+bibencoding=utf8,
+sorting=nyt,          % trier par nom, année, titre
+%citestyle=authoryear-ibid, % style de citation auteur-année
+citestyle=authortitle-ibid,
+bibstyle=alphabetic,  % style de bibliographie alphabétique
+autocite=footnote
+]{biblatex}
+\addbibresource{valbib.bib}
+\usepackage[autooneside=true]{scrlayer-scrpage}
+\usepackage{lastpage}
+
+
+%\setkomafont{pagenumber}{\small}
+%\renewcommand\pagemark{{\usekomafont{pagenumber}\thepage
+%		\,/\,\pageref{LastPage}}}
+%
+%\ohead*{\pagemark}
+%\cofoot*{\pagemark}
+%\cofoot*{}
+
+
+\pagestyle{scrheadings}
+
+\automark[section]{chapter}
+%\automark*[section]{}
+
+
+
+\usepackage{siunitx}
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\usepackage{textcomp}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{nomencl}
+\usepackage{xcolor}
+\usepackage[final]{pdfcomment} % nettre 'final' pour enlever les commentaires
+\pdfcommentsetup{opacity=0.4}
+
+\hypersetup{
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=black,
+	urlcolor=black,
+	bookmarks=false
+}
+%\usepackage[colorlinks=true, %
+%	linkcolor=cyan]{hyperref}
+	
+\usepackage{marginnote}
+
+\makeatletter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
+\DeclareFontEncoding{LGR}{}{}
+\DeclareRobustCommand{\greektext}{%
+  \fontencoding{LGR}\selectfont\def\encodingdefault{LGR}}
+\DeclareRobustCommand{\textgreek}[1]{\leavevmode{\greektext #1}}
+\ProvideTextCommand{\~}{LGR}[1]{\char126#1}
+
+
+\@ifundefined{date}{}{\date{}}
+\makeatother
+
+
+\title{Transformation de l'écoute\\ en musicothérapie}
+\author{Valérie Gaillard}
+\KOMAoption{DIV}{last}
+\begin{document}
+\maketitle
+%\input{titlepage}
+\input{abstract}
+\tableofcontents
+\listoffigures
+\input{introduction} 
+\input{ecoute} 
+\input{methodetomatis}
+\input{testtomatis}
+\input{testclinique}
+\input{reflexions}
+\appendix
+\input{Annexes}
+%\selectlanguage{french}
+\nocite{*} % imprime toute la bibliographie et pas seulement
+% les livres cités
+%\phantomsection 
+%\addcontentsline{toc}{chapter}{Bibliographie} 
+\label{bibliographie}
+\printbibliography
+\end{document}
