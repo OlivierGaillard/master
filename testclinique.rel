@@ -1,0 +1,98 @@
+;; RefTeX parse info file
+;; File: /Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex
+;; User: valeriegaillard (Valérie Gaillard)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/valeriegaillard/Documents/Master_nov_2017/master/")
+
+(label-numbers)
+
+(bof "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex")
+
+(toc "toc" "  1 \\'Etude avec utilisation du test d'écoute en clinique psychiatrique" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 1 "1" "\\chapter[\\'Etude en clinique]{\\'Etude avec utilisation du test
+  d'écoute en clinique psychiatrique}" 1)
+
+(toc "toc" "    1.1 Cadre de travail" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.1" "\\section{Cadre de travail}" 482)
+
+(toc "toc" "    1.2 Organisation d'étude" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.2" "\\section{Organisation d'étude}" 732)
+
+(toc "toc" "      1.2.1 Description des patients:" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.2.1" "\\subsection{Description des patients:}" 764)
+
+(toc "toc" "    1.3 Design d'étude" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.3" "\\section{Design d'étude}" 1515)
+
+(toc "toc" "      1.3.1 Les patients" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.3.1" "\\subsection{Les patients}" 2562)
+
+(toc "toc" "    1.4 Instruments de mesure: le WHOQO-Bref et le test d'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.4" "\\section{Instruments de mesure: le WHOQO-Bref et le test d'écoute}" 3488)
+
+(toc "toc" "      1.4.1 Le WHOQO-Bref" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.4.1" "\\subsection{Le WHOQO-Bref}" 3558)
+
+(toc "toc" "      1.4.2 Le test d'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.4.2" "\\subsection{Le test d'écoute}" 5132)
+
+(toc "toc" "          1.4.2.0.1 Le test d'écoute TSLT: conçu par Tomatis, ce test est une traduction graphique de l'écoute, elle per" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 5 "1.4.2.0.1" "\\paragraph{Le test d'écoute TSLT: conçu par Tomatis, ce test est une traduction graphique de l'écoute, elle permet d'objectiver la qualité de l'écoute.}" 5185)
+
+("chapitre 6.2t" "i" "les fréquence, de 125 à 8000.  % mets une étiquette plus % ``parlante'' stp, genre ``parametres_test" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil)
+
+(toc "toc" "      1.4.3 Technique d'intervention musicothérapeutique:" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.4.3" "\\subsection{Technique d'intervention musicothérapeutique:}" 7471)
+
+("item" "s" "celui de créer une alliance thérapeutique; celui de faire faire un travail de reconnaissance de sons" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil)
+
+(toc "toc" "    1.5 Un graphique" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.5" "\\section{Un graphique}" 9299)
+
+("valeriexxxx" "f" "Anatomie oreille" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil)
+
+(toc "toc" "    1.6 Graphique: 1°Test-séance de musicothérapie-2°test" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.6" "\\section{Graphique: 1°Test-séance de musicothérapie-2°test}" 10176)
+
+(toc "toc" "      1.5.1 Situation au début" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.5.1" "\\subsection{Situation au début}" 10269)
+
+("fig:odbeforemeyer" "f" "OD Avant Meyer" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil)
+
+("fig:comparisonbcbabeforevsidealcurvemeyer" "f" "Avant vs courbe idéale" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil)
+
+(toc "toc" "      1.5.2 Situation après" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.5.2" "\\subsection{Situation après}" 10829)
+
+(toc "toc" "    1.6 Les 3 zones avec leur résonance en musicothérapie et en psychologie" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.6" "\\section{Les 3 zones avec leur résonance en musicothérapie et en
+  psychologie}" 10931)
+
+("fig:odaftermeyer" "f" "OD après vs courbe idéale" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil)
+
+("fig:comparisonbcbaaftervsidealcurvemeyer" "f" "Comparaison après" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil)
+
+(toc "toc" "      1.6.1 La dépression et les critères relevés en musicothérapie:" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.6.1" "\\subsection{La dépression et les critères relevés en musicothérapie:}" 12125)
+
+(toc "toc" "      1.6.1 Zones 1-2-3// Musicothérapie" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.6.1" "\\subsection{Zones 1-2-3// Musicothérapie}" 13735)
+
+(toc "toc" "      1.6.2 Graphique WHOQU-Bref et Test d^écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.6.2" "\\subsection{Graphique WHOQU-Bref et Test d^écoute}" 13813)
+
+(toc "toc" "          1.6.0.0.1 Zone 1-2-3// Musicothérapie// " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 5 "1.6.0.0.1" "\\paragraph{Zone 1-2-3// Musicothérapie// }" 11544)
+
+(toc "toc" "    1.6 Résultats et réflexions" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.6" "\\section{Résultats et réflexions}" 13876)
+
+(toc "toc" "    1.7 Réflexions" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 2 "1.7" "\\section{Réflexions}" 13939)
+
+(toc "toc" "      1.7.1 Le test" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 3 "1.7.1" "\\subsection{Le test}" 13961)
+
+(toc "toc" "          1.6.0.0.1 Hypothèse" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 5 "1.6.0.0.1" "\\paragraph{Hypothèse}" 17115)
+
+(toc "toc" "          1.6.0.0.2 Y-a-t-il une modification de l'écoute du patient après une prise en charge en musicothérapie ?" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 5 "1.6.0.0.2" "\\paragraph{Y-a-t-il une modification de l'écoute du patient après une prise
+en charge en musicothérapie ?}" 17428)
+
+(toc "toc" "          1.6.0.0.3 Est-ce que les résultats ($=$ un changement dans l'écoute) d'une prise en charge musicothérapeutique" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 5 "1.6.0.0.3" "\\paragraph{Est-ce que les résultats ($=$ un changement dans l'écoute) d'une prise
+en charge musicothérapeutique peuvent être lisibles et visibles dans
+un test d'é" 17536)
+
+(toc "toc" "          1.6.0.0.4 Est-ce que l'écoute du patient s'est modifié ? si on a pu observer une modification, dans quel sens " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex" nil 5 "1.6.0.0.4" "\\paragraph{Est-ce que l'écoute du patient s'est modifié ? si on a pu observer
+une modification, dans quel sens va -t-elle ?}" 17763)
+
+(eof "/Users/valeriegaillard/Documents/Master_nov_2017/master/testclinique.tex")
+))
+

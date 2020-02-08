@@ -1,0 +1,30 @@
+;; RefTeX parse info file
+;; File: /Users/valeriegaillard/Documents/Master_nov_2017/master/abstract.tex
+;; User: valeriegaillard (Valérie Gaillard)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/valeriegaillard/Documents/Master_nov_2017/master/")
+
+(label-numbers)
+
+(bof "/Users/valeriegaillard/Documents/Master_nov_2017/master/abstract.tex")
+
+(toc "toc" "    1 Titre" "/Users/valeriegaillard/Documents/Master_nov_2017/master/abstract.tex" nil 2 "1" "\\section{Titre}" 577)
+
+("sec:titre" "s" nil "/Users/valeriegaillard/Documents/Master_nov_2017/master/abstract.tex" nil "")
+
+(toc "toc" "    1 Titre" "/Users/valeriegaillard/Documents/Master_nov_2017/master/abstract.tex" nil 2 "1" "\\section{Titre}" 577)
+
+(eof "/Users/valeriegaillard/Documents/Master_nov_2017/master/abstract.tex")
+))
+

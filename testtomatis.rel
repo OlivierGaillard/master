@@ -1,0 +1,93 @@
+;; RefTeX parse info file
+;; File: /Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex
+;; User: valeriegaillard (Valérie Gaillard)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/valeriegaillard/Documents/Master_nov_2017/master/")
+
+(label-numbers)
+
+(bof "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex")
+
+(toc "toc" "  1 Le test Tomatis" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 1 "1" "\\chapter{Le test Tomatis}" 1)
+
+(toc "toc" "          1.0.0.0.1 Le test d'écoute avec l'appareil TSLT: conçu par Tomatis, cet appareil permet de traduire l'écoute p" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 5 "1.0.0.0.1" "\\paragraph{Le test d'écoute avec l'appareil TSLT: conçu par Tomatis,
+   cet appareil permet de traduire l'écoute par 
+   un graphique l'écoute. La
+   qualité de l" 28)
+
+("fig:courbeideale" "f" "Courbe idéale" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil)
+
+(toc "toc" "    1.1 Description de la passation du test d'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 2 "1.1" "\\section{Description de la passation du test d'écoute}" 939)
+
+("passation" "s" "Pour effectuer ce test, on utilise un appareil contenant un générateur de fréquences appelé ``\\emph{" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil)
+
+(toc "toc" "      1.1.1 Recherche des seuils" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 3 "1.1.1" "\\subsection{Recherche des seuils}" 1525)
+
+(toc "toc" "        1.1.1.1 Deux types de conduction sonore" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 4 "1.1.1.1" "\\subsubsection{Deux types de conduction sonore}" 3435)
+
+(toc "toc" "        1.1.1.2 Représentation graphique" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 4 "1.1.1.2" "\\subsubsection{Représentation graphique}" 3951)
+
+("fig:tomatislisteningtest" "f" "Graphique du test d'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil)
+
+(toc "toc" "      1.1.2 \\'Etude de la spatialisation" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 3 "1.1.2" "\\subsection{\\'Etude de la spatialisation}" 5387)
+
+(toc "toc" "            1.1.2.0.0.1 La spatialisation: " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "1.1.2.0.0.1" "\\subparagraph{La spatialisation: }" 6014)
+
+(toc "toc" "      1.1.3 \\'Etude de la sélectivité" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 3 "1.1.3" "\\subsection{\\'Etude de la sélectivité}" 6456)
+
+(toc "toc" "          1.1.3.0.1 Technique pour la sélectivité" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 5 "1.1.3.0.1" "\\paragraph{Technique pour la sélectivité}" 6790)
+
+(toc "toc" "            1.1.3.0.1.1 La sélectivité: " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "1.1.3.0.0.1" "\\subparagraph{La sélectivité: }" 7323)
+
+(toc "toc" "      1.1.4 L'audiolatérométrie" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 3 "1.1.4" "\\subsection{L'audiolatérométrie}" 7783)
+
+(toc "toc" "            1.1.4.0.0.1 La latéralité auditive : " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "1.1.4.0.0.1" "\\subparagraph{La latéralité auditive : }" 8322)
+
+(toc "toc" "          1.1.4.0.1 Les trois zones du test d'écoute : " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 5 "1.1.4.0.1" "\\paragraph{Les trois zones du test d'écoute : }" 9216)
+
+(toc "toc" "                    * Pour notre étude, nous allons nous en tenir à celui de la recherche des seuils : seuil de la courbe " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "        *" "\\subparagraph*{Pour notre étude, nous allons nous en tenir à celui de la recherche
+des seuils : seuil de la courbe aérienne et seuil de l'osseux des
+deux oreilles, ga" 9690)
+
+(toc "toc" "              * Analyse et interprétation du test" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 3 "        *" "\\subsection*{Analyse et interprétation du test}" 9906)
+
+(toc "toc" "          1.1.4.0.2 La première étape : une approche globale : " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 5 "1.1.4.0.2" "\\paragraph{La première étape : une approche globale : }" 9951)
+
+(toc "toc" "    1.2 Interprétation du test : " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 2 "1.2" "\\section{Interprétation du test : }" 10445)
+
+(toc "toc" "            1.2.0.0.0.1 Les deux types de courbes véhiculent chacune des informations spécifiques sur la posture d'écoute du" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "1.2.0.0.0.1" "\\subparagraph{Les deux types de courbes véhiculent chacune des informations spécifiques
+sur la posture d'écoute du sujet : }" 10483)
+
+(toc "toc" "            1.2.0.0.0.2 Les courbes donnent des informations selon leur ascendance, leur continuité et leur similarité oreil" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "1.2.0.0.0.2" "\\subparagraph{Les courbes donnent des informations selon leur ascendance, leur
+continuité et leur similarité oreille droite/ oreille gauche.}" 10982)
+
+(toc "toc" "            1.2.0.0.0.3 Les trois zones du test d'écoute : " "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "1.2.0.0.0.3" "\\subparagraph{Les trois zones du test d'écoute : }" 11630)
+
+(toc "toc" "            1.2.0.0.0.4 Les trois zones de fréquences du test d'écoute correspondent à des caractéristiques précises ; et, a" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 6 "1.2.0.0.0.4" "\\subparagraph{Les trois zones de fréquences du test d'écoute correspondent à des
+caractéristiques précises ; et, avec l'allure des courbes, on doit
+tenir compte de l" 12196)
+
+(toc "toc" "      1.2.1 La dépression, le burnout et leur expression musico--physico--psychologique:" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 3 "1.2.1" "\\subsection{La dépression, le burnout et leur expression musico--physico--psychologique:}" 12992)
+
+(toc "toc" "          1.2.1.0.1 Descriptif d'un dépressif selon les zones d'nterprétation:" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 5 "1.2.1.0.1" "\\paragraph{Descriptif d'un dépressif selon les zones d'nterprétation:}" 13154)
+
+("groupecontroleimage1" "f" "Exemple d'une courbe de dépressif" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil)
+
+(toc "toc" "          1.2.1.0.2 Le corps et le psychisme visible" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 5 "1.2.1.0.2" "\\paragraph{Le corps et le psychisme visible}" 14970)
+
+(toc "toc" "          1.2.1.0.2 Le corps et le psychisme visible" "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex" nil 5 "1.2.1.0.2" "\\paragraph{Le corps et le psychisme visible}" 14970)
+
+(eof "/Users/valeriegaillard/Documents/Master_nov_2017/master/testtomatis.tex")
+))
+

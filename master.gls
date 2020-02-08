@@ -1,9 +1,12 @@
 \glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
 \begin{theglossary}\glossaryheader
-\glsgroupheading{M}\relax \glsresetentrylist %
-\glossentry{Rorschach}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{21}}}\glsgroupskip
+\glsgroupheading{F}\relax \glsresetentrylist %
+\glossentry{réticulée}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{15}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{PNI}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{28}}}\glsgroupskip
 \glsgroupheading{R}\relax \glsresetentrylist %
 \glossentry{rémanence}{\glossaryentrynumbers{\relax 
-		\setentrycounter[]{page}\glsnumberformat{27}}}%
+		\setentrycounter[]{page}\glsnumberformat{29}}}%
 \end{theglossary}\glossarypostamble

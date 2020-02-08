@@ -1,0 +1,101 @@
+;; RefTeX parse info file
+;; File: /Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex
+;; User: valeriegaillard (Valérie Gaillard)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags "idx")
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/valeriegaillard/Documents/Master_nov_2017/master/")
+
+(label-numbers)
+
+(bof "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex")
+
+(toc "toc" "  1 L'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 1 "1" "\\chapter{L'écoute}" 1)
+
+(toc "toc" "    1.1 Ecouter ou entendre : une différence" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "1.1" "\\section{Ecouter ou entendre : une différence}" 21)
+
+(toc "toc" "    1.2 Le son" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "1.2" "\\section{Le son}" 5190)
+
+(toc "toc" "      1.2.1 Unités de mesure" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "1.2.1" "\\subsection{Unités de mesure}" 5375)
+
+(toc "toc" "      1.2.2 Deux définitions du son" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "1.2.2" "\\subsection{Deux définitions du son}" 6282)
+
+(toc "toc" "        1.2.2.1 Définition objective" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.2.2.1" "\\subsubsection{Définition objective}" 6363)
+
+(toc "toc" "        1.2.2.2 Définition subjective" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.2.2.2" "\\subsubsection{Définition subjective}" 6816)
+
+(index "idx" "\\index{http://www.futura-sciences.com/sante/dossiers/medecine-bruit-effets-sante-259/page/3}" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" 7058 "http://www.futura-sciences.com/sante/dossiers/medecine-bruit-effets-sante-259/page/3" "http://www.futura-sciences.com/sante/dossiers/medecine-bruit-effets-sante-259/page/3" "http://www.futura-sciences.com/sante/dossiers/medecine-bruit-effets-sante-259/page/3" "http://www.futura-sciences.com/sante/dossiers/medecine-bruit-effets-sante-259/page/3" nil)
+
+(toc "toc" "        1.2.2.3 Ecoute objective ou subjective?" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.2.2.3" "\\subsubsection{Ecoute objective ou subjective?}" 7621)
+
+(toc "toc" "      1.2.3 Le cerveau" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "1.2.3" "\\subsection{Le cerveau}" 9600)
+
+(toc "toc" "        1.2.3.1 La perception des sons et l'existence de troubles émotionnels" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.2.3.1" "\\subsubsection{La perception des sons et l'existence de troubles
+  émotionnels}" 11763)
+
+(toc "toc" "          1.2.3.1.1 L'outil \"voix\" en musicothérapie" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 5 "1.2.3.1.1" "\\paragraph{L'outil \"voix\" en musicothérapie}" 12479)
+
+(toc "toc" "        1.2.3.1 La perception des sons et l'existence de troubles émotionnels" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.2.3.1" "\\subsubsection{La perception des sons et l'existence de troubles
+  émotionnels}" 11763)
+
+(toc "toc" "    1.3 L'oreille" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "1.3" "\\section{L'oreille}" 17286)
+
+(toc "toc" "      1.3.1 L'anatomie de l'oreille" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "1.3.1" "\\subsection{L'anatomie de l'oreille}" 17518)
+
+("fig:-20160624berufsfeldgruppen" "f" "Anatomie oreille" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil)
+
+(toc "toc" "        1.3.1.1 L'oreille externe" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.3.1.1" "\\subsubsection{L'oreille externe}" 17995)
+
+(toc "toc" "        1.3.1.2 L'oreille moyenne" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.3.1.2" "\\subsubsection{L'oreille moyenne}" 18554)
+
+(toc "toc" "        1.3.1.3 L'oreille interne et le labyrinthe osseux" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.3.1.3" "\\subsubsection{L'oreille interne et le labyrinthe osseux}" 19661)
+
+("fig:loreilleostemporal18" "f" "L'os temporal" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil)
+
+(toc "toc" "        1.3.1.4 Le canal auditif" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "1.3.1.4" "\\subsubsection{Le canal auditif}" 20736)
+
+(toc "toc" "    1.4 La physiologie de l'audition" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "1.4" "\\section{La physiologie de l'audition}" 21123)
+
+(toc "toc" "  2 Le test d'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 1 "2" "\\chapter{Le test d'écoute}" 23928)
+
+(toc "toc" "    2.1 L'audiogramme" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "2.1" "\\section{L'audiogramme}" 24345)
+
+(toc "toc" "    2.2 Qu'est-ce un test d'écoute?" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "2.2" "\\section{Qu'est-ce un test d'écoute?}" 25060)
+
+(toc "toc" "    2.3 Le test d'écoute en musicothérapie" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "2.3" "\\section{Le test d'écoute en musicothérapie}" 25278)
+
+(toc "toc" "        2.3.0.1 Le bilan audio-psych-phonologique, dit test d'écoute Tomatis." "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "2.3.0.1" "\\subsubsection{Le bilan audio-psych-phonologique, dit test d'écoute
+   Tomatis.}" 26114)
+
+(toc "toc" "    2.4 La musicothérapie et la psychothérapie" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 2 "2.4" "\\section{La musicothérapie et la psychothérapie}" 28097)
+
+("musicothEtpsycho" "s" "Les musicothérapeutes sont donc très souvent issus non seulement du domaine musical, médical mais au" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil)
+
+(toc "toc" "      2.4.1 Rolando Benenzon" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "2.4.1" "\\subsection{Rolando Benenzon}" 29074)
+
+("benenzon" "s" "Le professeur et docteur Rolando Omar Benenzon s'est inspiré et a basé sa technique musicothérapeuti" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil)
+
+(toc "toc" "      2.4.2 Edith Lecourt" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "2.4.2" "\\subsection{Edith Lecourt}" 29717)
+
+(toc "toc" "      2.4.3 Helen Bonny" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "2.4.3" "\\subsection{Helen Bonny}" 30807)
+
+(toc "toc" "      2.4.4 Jacqueline Verdeau-Paillès" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "2.4.4" "\\subsection{Jacqueline Verdeau-Paillès}" 31851)
+
+(toc "toc" "        2.4.4.1 Fern Nevjinsky et le test de Rorschach" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 4 "2.4.4.1" "\\subsubsection{Fern Nevjinsky et le test de Rorschach}" 33416)
+
+(toc "toc" "      2.4.5 Bernard Auriol" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "2.4.5" "\\subsection{Bernard Auriol}" 35380)
+
+(toc "toc" "      2.4.6 Alfred Tomatis et le test d'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex" nil 3 "2.4.6" "\\subsection{Alfred Tomatis et le test d'écoute}" 36678)
+
+(eof "/Users/valeriegaillard/Documents/Master_nov_2017/master/ecoute.tex")
+))
+

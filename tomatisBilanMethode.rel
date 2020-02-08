@@ -1,0 +1,32 @@
+;; RefTeX parse info file
+;; File: /Users/valeriegaillard/Documents/Master_nov_2017/master/tomatisBilanMethode.tex
+;; User: valeriegaillard (Valérie Gaillard)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/valeriegaillard/Documents/Master_nov_2017/master/")
+
+(label-numbers)
+
+(bof "/Users/valeriegaillard/Documents/Master_nov_2017/master/tomatisBilanMethode.tex")
+
+(toc "toc" "          1 Le test d' Alfred Tomatis" "/Users/valeriegaillard/Documents/Master_nov_2017/master/tomatisBilanMethode.tex" nil 5 "1" "\\paragraph{ 
+Le test d' Alfred Tomatis}" 2)
+
+(toc "toc" "          1 Le test d' Alfred Tomatis" "/Users/valeriegaillard/Documents/Master_nov_2017/master/tomatisBilanMethode.tex" nil 5 "1" "\\paragraph{ 
+Le test d' Alfred Tomatis}" 2)
+
+("fig:courbeideale" "f" "Courbe idéale" "/Users/valeriegaillard/Documents/Master_nov_2017/master/tomatisBilanMethode.tex" nil)
+
+(eof "/Users/valeriegaillard/Documents/Master_nov_2017/master/tomatisBilanMethode.tex")
+))
+

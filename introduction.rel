@@ -1,0 +1,46 @@
+;; RefTeX parse info file
+;; File: /Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex
+;; User: valeriegaillard (Valérie Gaillard)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/valeriegaillard/Documents/Master_nov_2017/master/")
+
+(label-numbers)
+
+(bof "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex")
+
+(toc "toc" "  1 Introduction et hypothèse" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 1 "1" "\\chapter{Introduction et hypothèse}" 1)
+
+("jeSuisLaMusique:viret" "s" "\\begin{quotation} \\emph{<<\\,\\emph{Par le Son, le Silence du Non-Être vient à l'Être}. [\\dots] \\texts" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil)
+
+(toc "toc" "    1.1 Introduction : Un test pour mesurer les trans\\-for\\-ma\\-tions de l'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 2 "1.1" "\\section{Introduction : Un test pour mesurer les trans\\-for\\-ma\\-tions de l'écoute}" 455)
+
+(toc "toc" "    1.2 L'hypothèse" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 2 "1.2" "\\section{L'hypothèse}" 1962)
+
+(toc "toc" "    1.3 Méthode d'intervention" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 2 "1.3" "\\section{Méthode d'intervention}" 2271)
+
+(toc "toc" "      1.2.1 Test d'écoute et test WHOQO-Bref" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 3 "1.2.1" "\\subsection{Test d'écoute et test WHOQO-Bref}" 2461)
+
+(toc "toc" "        1.2.1.1 Test d'écoute" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 4 "1.2.1.1" "\\subsubsection{Test d'écoute}" 2505)
+
+(toc "toc" "        1.2.1.2 WHOQO-Bref" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 4 "1.2.1.2" "\\subsubsection{WHOQO-Bref}" 3768)
+
+(toc "toc" "      1.2.1 Test d'écoute et test WHOQO-Bref" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 3 "1.2.1" "\\subsection{Test d'écoute et test WHOQO-Bref}" 2461)
+
+(toc "toc" "    1.3 La musicothérapie" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 2 "1.3" "\\section{La musicothérapie}" 4645)
+
+(toc "toc" "    1.4 Plan du travail" "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex" nil 2 "1.4" "\\section{Plan du travail}" 10325)
+
+(eof "/Users/valeriegaillard/Documents/Master_nov_2017/master/introduction.tex")
+))
+

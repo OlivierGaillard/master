@@ -1,0 +1,40 @@
+;; RefTeX parse info file
+;; File: /Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex
+;; User: valeriegaillard (Valérie Gaillard)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi nil)
+
+(bibview-cache)
+
+(master-dir . "/Users/valeriegaillard/Documents/Master_nov_2017/master/")
+
+(label-numbers)
+
+(bof "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex")
+
+(toc "toc" "      1 Synthèse de la méthode" "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil 3 "1" "\\subsection{Synthèse de la méthode}" 6)
+
+("outil_oreille_electro" "s" "Oreille Electronique et l'utilisation d'une technique, la bascule, qui permet de créer une alternanc" "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil)
+
+("fig:cochleederoulebas" "f" "Modèle de Békésy" "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil)
+
+("fig:cochleederoulehaut" "f" "Cochlée selon Tomatis" "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil)
+
+(toc "toc" "          1.0.1 Les recherches sur la cochlée:" "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil 5 "1.0.1" "\\paragraph{Les recherches sur la cochlée:}" 5677)
+
+(toc "toc" "          1.0.1 Les recherches sur la cochlée:" "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil 5 "1.0.1" "\\paragraph{Les recherches sur la cochlée:}" 5677)
+
+("bascule" "s" "électronique qui a pour objectif de stimuler le cerveau en lui permettant de capter plus facilement " "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil)
+
+("bascule" "s" "\\footnote{La bascule permet de créer une alternance entre deux conditions perceptives du même messag" "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex" nil)
+
+(eof "/Users/valeriegaillard/Documents/Master_nov_2017/master/methodetomatis.tex")
+))
+
