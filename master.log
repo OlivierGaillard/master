@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.11.20)  7 FEB 2020 20:30
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.11.20)  27 MAR 2020 10:08
  restricted system commands enabled.
 **master
 (./master.tex
@@ -35,7 +35,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.243 seconds
+luaotfload | main : initialization completed in 0.254 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrreprt.cls
 Document Class: scrreprt 2018/03/30 v3.25 KOMA-Script document class (report)
@@ -825,12 +825,12 @@ Lua module: polyglossia 2013/05/11 1.3 Polyglossia)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/polyglossia/gloss-french.ldf
 File: gloss-french.ldf polyglossia: module for french
 Module polyglossia Info: Language data for francais
-(polyglossia)            hyphenation	
 (polyglossia)            righthyphenmin	2
-(polyglossia)            patterns	hyph-fr.pat.txt
 (polyglossia)            loader	loadhyph-fr.tex
-(polyglossia)            synonyms	table: 0x7ff43325c310
+(polyglossia)            hyphenation	
+(polyglossia)            patterns	hyph-fr.pat.txt
 (polyglossia)            lefthyphenmin	2
+(polyglossia)            synonyms	table: 0x7f8cbac79e80
 (polyglossia)            patterns: hyph-fr.pat.txt on input line 10
 Module polyglossia Info: Language francais was not yet loaded; created with id 4
  on input line 10
@@ -839,12 +839,12 @@ Module polyglossia Info: Language francais already loaded; id is 4 on input line
 Module polyglossia Info: Language francais already loaded; id is 4 on input line
  10
 Module polyglossia Info: Language data for french
-(polyglossia)            hyphenation	
 (polyglossia)            righthyphenmin	2
-(polyglossia)            patterns	hyph-fr.pat.txt
 (polyglossia)            loader	loadhyph-fr.tex
-(polyglossia)            synonyms	table: 0x7ff43325c310
+(polyglossia)            hyphenation	
+(polyglossia)            patterns	hyph-fr.pat.txt
 (polyglossia)            lefthyphenmin	2
+(polyglossia)            synonyms	table: 0x7f8cbac79e80
 (polyglossia)            patterns: hyph-fr.pat.txt on input line 10
 Module polyglossia Info: Language french was not yet loaded; created with id 8 o
 n input line 10
@@ -857,24 +857,24 @@ Package polyglossia Info: Default language is french.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/polyglossia/gloss-german.ldf
 File: gloss-german.ldf polyglossia: module for german
 Module polyglossia Info: Language data for german
-(polyglossia)            hyphenation	
 (polyglossia)            righthyphenmin	2
-(polyglossia)            patterns	hyph-de-1901.pat.txt
 (polyglossia)            loader	loadhyph-de-1901.tex
-(polyglossia)            synonyms	table: 0x7ff43325ca10
+(polyglossia)            hyphenation	
+(polyglossia)            patterns	hyph-de-1901.pat.txt
 (polyglossia)            lefthyphenmin	2
+(polyglossia)            synonyms	table: 0x7f8cbac7a5a0
 (polyglossia)            patterns: hyph-de-1901.pat.txt on input line 6
 Module polyglossia Info: Language german was not yet loaded; created with id 12 
 on input line 6
 Module polyglossia Info: Language german already loaded; id is 12 on input line 
 6
 Module polyglossia Info: Language data for ngerman
-(polyglossia)            hyphenation	
 (polyglossia)            righthyphenmin	2
-(polyglossia)            patterns	hyph-de-1996.pat.txt
 (polyglossia)            loader	loadhyph-de-1996.tex
-(polyglossia)            synonyms	table: 0x7ff43325cbd0
+(polyglossia)            hyphenation	
+(polyglossia)            patterns	hyph-de-1996.pat.txt
 (polyglossia)            lefthyphenmin	2
+(polyglossia)            synonyms	table: 0x7f8cbac7a760
 (polyglossia)            patterns: hyph-de-1996.pat.txt on input line 68
 Module polyglossia Info: Language ngerman was not yet loaded; created with id 16
  on input line 68
@@ -1455,21 +1455,29 @@ File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
 \Gin@req@height=\dimen180
 \Gin@req@width=\dimen181
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count440
+\rotFPtop=\skip108
+\rotFPbot=\skip109
+\rot@float@box=\box59
+\rot@mess@toks=\toks35
+)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count440
-\calc@Bcount=\count441
+\calc@Acount=\count441
+\calc@Bcount=\count442
 \calc@Adimen=\dimen182
 \calc@Bdimen=\dimen183
-\calc@Askip=\skip108
-\calc@Bskip=\skip109
+\calc@Askip=\skip110
+\calc@Bskip=\skip111
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count442
-\calc@Cskip=\skip110
+\calc@Ccount=\count443
+\calc@Cskip=\skip112
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
@@ -1500,37 +1508,37 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pdfpages/ppluatex.def
 File: ppluatex.def 2017/10/31 v0.5l Pdfpages driver for LuaTeX (AM)
 )
-\AM@pagebox=\box59
-\AM@global@opts=\toks35
-\AM@toc@title=\toks36
-\c@AM@survey=\count443
-\AM@templatesizebox=\box60
+\AM@pagebox=\box60
+\AM@global@opts=\toks36
+\AM@toc@title=\toks37
+\c@AM@survey=\count444
+\AM@templatesizebox=\box61
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \nomlabelwidth=\dimen186
 \nom@tempdim=\dimen187
-\nomitemsep=\skip111
+\nomitemsep=\skip113
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pdfcomment/pdfcomment.sty
 Package: pdfcomment 2016/06/13 pdfcomment.sty v2.4 - Josef Kleber (C) 2008-2012,
  2015-2016
-\c@pc@count@i=\count444
-\c@pc@count@ii=\count445
-\c@pc@count@iii=\count446
-\c@pc@count@iv=\count447
-\pc@mathannot@box=\box61
-\pc@nullbox=\box62
-\pc@dima=\skip112
-\pc@dimb=\skip113
-\pc@Sposx=\skip114
-\pc@Sposy=\skip115
-\pc@Eposx=\skip116
-\pc@Eposy=\skip117
-\pc@column=\skip118
-\pc@box@width=\skip119
-\pc@box@height=\skip120
-\pc@box@depth=\skip121
+\c@pc@count@i=\count445
+\c@pc@count@ii=\count446
+\c@pc@count@iii=\count447
+\c@pc@count@iv=\count448
+\pc@mathannot@box=\box62
+\pc@nullbox=\box63
+\pc@dima=\skip114
+\pc@dimb=\skip115
+\pc@Sposx=\skip116
+\pc@Sposy=\skip117
+\pc@Eposx=\skip118
+\pc@Eposy=\skip119
+\pc@column=\skip120
+\pc@box@width=\skip121
+\pc@box@height=\skip122
+\pc@box@depth=\skip123
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/luatex85/luatex85.sty
 Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
@@ -1570,19 +1578,19 @@ Package zref Info: New property list: savepos on input line 80.
 Package zref Info: New property: posx on input line 81.
 Package zref Info: New property: posy on input line 82.
 )
-\c@zref@unique=\count448
+\c@zref@unique=\count449
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/refcount.sty
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/marginnote/marginnote.sty
 Package: marginnote 2017/04/22 v1.2b non floating margin notes for LaTeX
-\c@mn@abspage=\count449
+\c@mn@abspage=\count450
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/bezos/soulpos.sty
 Package: soulpos 2012/02/25 v1.0 Fancy underlining
-\ulp@subcnt=\count450
-\ulp@cnt=\count451
+\ulp@subcnt=\count451
+\ulp@cnt=\count452
 \ulp@out=\write5
 \ulp@in=\read3
 \ulwidth=\dimen188
@@ -1625,13 +1633,13 @@ Package hobsub Info: Skipping package `refcount' (already loaded).
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
 \@linkdim=\dimen189
-\Hy@linkcounter=\count452
-\Hy@pagecounter=\count453
+\Hy@linkcounter=\count453
+\Hy@pagecounter=\count454
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count454
+\Hy@SavedSpaceFactor=\count455
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -1653,10 +1661,10 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count455
+\c@Hy@tempcnt=\count456
 LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen190
-\Fld@menulength=\count456
+\Fld@menulength=\count457
 \Field@Width=\dimen191
 \Fld@charsize=\dimen192
 Package hyperref Info: Hyper figures OFF on input line 6369.
@@ -1668,9 +1676,9 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count457
-\c@Item=\count458
-\c@Hfootnote=\count459
+\Hy@abspage=\count458
+\c@Item=\count459
+\c@Hfootnote=\count460
 )
 
 Package hyperref Warning: Wrong driver `hpdftex.def';
@@ -1680,35 +1688,35 @@ Package hyperref Warning: Wrong driver `hpdftex.def';
 Package hyperref Info: Driver: hluatex.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hluatex.def
 File: hluatex.def 2018/02/06 v6.86b Hyperref driver for luaTeX
-\Fld@listcount=\count460
-\c@bookmark@seq@number=\count461
+\Fld@listcount=\count461
+\c@bookmark@seq@number=\count462
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 2.
 )
-\Hy@SectionHShift=\skip122
+\Hy@SectionHShift=\skip124
 )
 Package zref Info: New property list: pdfcomment on input line 2724.
 Package zref Info: New property: PCPDFOBJID on input line 2725.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 60.
+Package hyperref Info: Option `colorlinks' set `true' on input line 61.
 
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 60.
+(hyperref)                setting the option has no effect on input line 61.
 
 (./glossaire.tex)
 \glswrite=\write6
 \glo@main@file=\write7
 
 \openout7 = master.glo
-Package glossaries Info: Writing glossary file master.glo on input line 88.
+Package glossaries Info: Writing glossary file master.glo on input line 89.
 \glo@acronym@file=\write8
 
 \openout8 = master.acn
-Package glossaries Info: Writing glossary file master.acn on input line 88.
+Package glossaries Info: Writing glossary file master.acn on input line 89.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
@@ -1739,13 +1747,13 @@ LaTeX Warning: Label `groupecontroleimage1' multiply defined.
 luatex-hyphen: loading patterns and exceptions for: german (\language12)
 luatex-hyphen: info: no hyphenation exceptions for this language
 Module polyglossia Info: Language ngerman already loaded; id is 16 on input line
- 486
+ 487
 Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-90
+91
 Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-95
-Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-99
+96
+Module polyglossia Info: Language french already loaded; id is 8 on input line 5
+00
 
 LaTeX Warning: Label `groupecontroleimage1' multiply defined.
 
@@ -1755,37 +1763,37 @@ LaTeX Warning: Label `groupecontroleimage1' multiply defined.
 )
 \openout1 = master.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 89.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 90.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for LGR/lmr/m/n on input line 89.
-LaTeX Font Info:    Try loading font information for LGR+lmr on input line 89.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for LGR/lmr/m/n on input line 90.
+LaTeX Font Info:    Try loading font information for LGR+lmr on input line 90.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
 File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
 )
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    ... okay on input line 90.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1829,58 +1837,58 @@ LaTeX Font Info:    ... okay on input line 89.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 89.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 89.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 89.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 89.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 89.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 89.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 89.
-LaTeX Font Info:    Redeclaring math accent \check on input line 89.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 89.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 89.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 89.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 89.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 89.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 90.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 90.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 90.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 90.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 90.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 90.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 90.
+LaTeX Font Info:    Redeclaring math accent \check on input line 90.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 90.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 90.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 90.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 90.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 90.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 89.
+(Font)              `operators' in the math version `normal' on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 89.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 90.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 89.
+(Font)              `operators' in the math version `bold' on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 89.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 89.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 89.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 89.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 89.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 89.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 90.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 89.
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 89.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 89.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 90.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 89.
-Module polyglossia Info: Language french already loaded; id is 8 on input line 8
-9
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 90.
+Module polyglossia Info: Language french already loaded; id is 8 on input line 9
+0
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Data encoding 'utf8' specified.
@@ -1890,11 +1898,11 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'master.bbl' found.
  (./master.bbl)
-Package biblatex Info: Reference section=0 on input line 89.
-Package biblatex Info: Reference segment=0 on input line 89.
+Package biblatex Info: Reference section=0 on input line 90.
+Package biblatex Info: Reference segment=0 on input line 90.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 89.
+(lastpage)             ! on input line 90.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
@@ -1904,17 +1912,17 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 ) (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count462
+\scratchcounter=\count463
 \scratchdimen=\dimen193
-\scratchbox=\box63
-\nofMPsegments=\count463
-\nofMParguments=\count464
-\everyMPshowfont=\toks37
-\MPscratchCnt=\count465
+\scratchbox=\box64
+\nofMPsegments=\count464
+\nofMParguments=\count465
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count466
 \MPscratchDim=\dimen194
-\MPnumerator=\count466
-\makeMPintoPDFobject=\count467
-\everyMPtoPDFconversion=\toks38
+\MPnumerator=\count467
+\makeMPintoPDFobject=\count468
+\everyMPtoPDFconversion=\toks39
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1932,7 +1940,7 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
-\AtBeginShipoutBox=\box64
+\AtBeginShipoutBox=\box65
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1945,24 +1953,24 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 Package marginnote Info: \pdfoutput not 0 or unimportant and
 (marginnote)             \pdflastxpos or \lastxpos available.
 (marginnote)             Extended position detection mode activated.
-Package soulpos Info: Loading soulutf8 on input line 89.
+Package soulpos Info: Loading soulutf8 on input line 90.
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/soulutf8.sty
 Package: soulutf8 2016/05/16 v1.1 Permit use of UTF-8 characters in soul (HO)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks39
-\SOUL@lasttoken=\toks40
-\SOUL@cmds=\toks41
-\SOUL@buffer=\toks42
-\SOUL@token=\toks43
-\SOUL@spaceskip=\skip123
+\SOUL@word=\toks40
+\SOUL@lasttoken=\toks41
+\SOUL@cmds=\toks42
+\SOUL@buffer=\toks43
+\SOUL@token=\toks44
+\SOUL@spaceskip=\skip125
 \SOUL@ttwidth=\dimen195
 \SOUL@uldp=\dimen196
 \SOUL@ulht=\dimen197
 ))
-Package hyperref Info: Link coloring ON on input line 89.
+Package hyperref Info: Link coloring ON on input line 90.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1970,11 +1978,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count468
+\c@section@level=\count469
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 90.
+LaTeX Info: Redefining \pageref on input line 90.
+LaTeX Info: Redefining \nameref on input line 90.
 
 (./master.out) (./master.out)
 \@outlinefile=\write9
@@ -2006,9 +2014,6 @@ File: se-pdfdoc.def 2016/05/16 v1.11 stringenc: PDFDocEncoding
 (./abstract.tex [2
 
 
-] [3
-
-
 ])(load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-cache/
 generic/fonts/otl/lmsans10-bold.luc) (./master.toc
 Module polyglossia Info: Language french already loaded; id is 8 on input line 3
@@ -2016,50 +2021,39 @@ Module polyglossia Info: Language french already loaded; id is 8 on input line 3
 (load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-cache/ge
 neric/fonts/otl/lmromanslant12-regular.luc)(load luc: /Users/valeriegaillard/Lib
 rary/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmromanslant10-regula
-r.luc) [4
+r.luc)
+[3
 
 ]
-Overfull \hbox (6.6228pt too wide) in paragraph at lines 58--58
- [][] [][][]\TU/lmr/m/n/12 Groupe MU-SI-CO-THé-RA-PIE: Ob-ser-va-tion des test
-s d’écoute 
+Overfull \hbox (7.64958pt too wide) in paragraph at lines 65--65
+ [][] [][][]\TU/lmr/m/n/12 Ques-tion-naires WO - QOL: ré-sul-tats du com-pa-ra
+-tif pré/post- 
  []
 
-
-Overfull \hbox (3.0468pt too wide) in paragraph at lines 65--65
- [][] [][][]\TU/lmr/m/n/12 Groupe MU-SI-CO-THé-RA-PIE: ob-ser-va-tion des ré-
-sul-tats avec 
- []
-
-
-Overfull \hbox (3.01758pt too wide) in paragraph at lines 66--66
- [][] [][][]\TU/lmr/m/n/12 Ques-tion-naires WO - QOL: ré-sul-tat du com-pa-ra-
-tif pré/post- 
- []
-
-[5]
+[4]
 Module polyglossia Info: Language ngerman already loaded; id is 16 on input line
- 94
+ 93
 Module polyglossia Info: Language french already loaded; id is 8 on input line 9
-5
+4
+Module polyglossia Info: Language french already loaded; id is 8 on input line 9
+6
 Module polyglossia Info: Language french already loaded; id is 8 on input line 9
 7
-Module polyglossia Info: Language french already loaded; id is 8 on input line 9
-8
 
-Overfull \hbox (1.19998pt too wide) detected at line 105
- []\TU/lmss/bx/n/12 102
+Overfull \hbox (1.19998pt too wide) detected at line 103
+ []\TU/lmss/bx/n/12 107
  []
 
 
-Overfull \hbox (1.19998pt too wide) detected at line 106
- []\TU/lmss/bx/n/12 103
+Overfull \hbox (1.19998pt too wide) detected at line 104
+ []\TU/lmss/bx/n/12 108
  []
 
 )
 \tf@toc=\write10
 
 \openout10 = master.toc
- (./introduction.tex [6]
+ (./introduction.tex [5]
 chapter 1.
 (load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-cache/ge
 neric/fonts/otl/lmroman10-bolditalic.luc)(load luc: /Users/valeriegaillard/Libra
@@ -2067,41 +2061,47 @@ ry/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmromancaps10-regular.l
 uc)(load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-cache
 /generic/fonts/otl/lmroman10-regular.luc)(load luc: /Users/valeriegaillard/Libra
 ry/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc) 
-[7
+[6
 
-] [8] [9]) (./ecoute.tex [10] [11] [12] [13] [14] [15](load luc: /Users/valerieg
-aillard/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmroman7-r
-egular.luc)(load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luat
-ex-cache/generic/fonts/otl/lmroman5-regular.luc)(load luc: /Users/valeriegaillar
-d/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmsans10-regular
-.luc)(load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-cac
-he/generic/fonts/otl/lmmono10-regular.luc) [16] [17]
+] [7] [8] [9]) (./ecoute.tex [10] [11] [12]
+Overfull \hbox (6.60246pt too wide) in paragraph at lines 139--145
+[][]\TU/lmss/bx/n/12 Ecoute mu-si-co-thé-ra-peu-tique[][] \TU/lmr/m/n/12 Qu
+’est-ce qu’une écoute dite mu-si-co-thé-ra-peu-tique?
+ []
+
+[13] [14] [15](load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/l
+uatex-cache/generic/fonts/otl/lmroman7-regular.luc)(load luc: /Users/valeriegail
+lard/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regu
+lar.luc)(load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-
+cache/generic/fonts/otl/lmsans10-regular.luc)(load luc: /Users/valeriegaillard/L
+ibrary/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.lu
+c) [16] [17]
 chapter 2.
 [18
 
 ] [19] [20] [21] [22] [23]
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 653.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 643.
 (load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-cache/ge
 neric/fonts/otl/lmsans12-oblique.luc) [24]
 but ultime: l'obtention d'une posture d'auto-écoute favorable à une émission 
 vocale de qualité \autocite [97]{tomatis_oreille_1998}
-<images/oreilleelectro.jpg, id=705, 999.735pt x 336.25626pt>
+<images/oreilleelectro.jpg, id=680, 999.735pt x 336.25626pt>
 File: images/oreilleelectro.jpg Graphic file (type jpg)
 <use images/oreilleelectro.jpg>
-Package luatex.def Info: images/oreilleelectro.jpg  used on input line 750.
+Package luatex.def Info: images/oreilleelectro.jpg  used on input line 740.
 (luatex.def)             Requested size: 292.77632pt x 98.47128pt.
-) (./methodetomatis.tex [25<./images/oreilleelectro.jpg>] [26]
+[25<./images/oreilleelectro.jpg>]) (./methodetomatis.tex [26]
 chapter 3.
 (./tomatisBilanMethode.tex [27
 
 ]) [28] [29]
-<images/Cochleederoule_bas.jpg, id=766, 277.87814pt x 246.80205pt>
+<images/Cochleederoule_bas.jpg, id=741, 277.87814pt x 246.80205pt>
 File: images/Cochleederoule_bas.jpg Graphic file (type jpg)
 <use images/Cochleederoule_bas.jpg>
 Package luatex.def Info: images/Cochleederoule_bas.jpg  used on input line 105.
 (luatex.def)             Requested size: 418.25372pt x 371.47879pt.
-<images/Cochleederoule_haut.jpg, id=767, 390.258pt x 299.55914pt>
+<images/Cochleederoule_haut.jpg, id=742, 390.258pt x 299.55914pt>
 File: images/Cochleederoule_haut.jpg Graphic file (type jpg)
 <use images/Cochleederoule_haut.jpg>
 Package luatex.def Info: images/Cochleederoule_haut.jpg  used on input line 113.
@@ -2109,234 +2109,251 @@ Package luatex.def Info: images/Cochleederoule_haut.jpg  used on input line 113.
 (luatex.def)             Requested size: 418.25372pt x 321.05077pt.
  [30] [31<./images/Cochleederoule_bas.jpg>] [32<./images/Cochleederoule_haut.jpg
 >]) (./testtomatis.tex [33]
-<images/courbeideale.jpg, id=808, 1197.47375pt x 685.56125pt>
+<images/courbeideale.jpg, id=783, 1197.47375pt x 685.56125pt>
 File: images/courbeideale.jpg Graphic file (type jpg)
 <use images/courbeideale.jpg>
-Package luatex.def Info: images/courbeideale.jpg  used on input line 30.
-(luatex.def)             Requested size: 292.77632pt x 167.61353pt.
+Package luatex.def Info: images/courbeideale.jpg  used on input line 29.
+(luatex.def)             Requested size: 418.25372pt x 239.4479pt.
  [34]
 [35<./images/courbeideale.jpg>]
-<images/tomatisListeningTest.jpg, id=827, 336.0555pt x 211.0284pt>
+<images/tomatisListeningTest.jpg, id=801, 336.0555pt x 211.0284pt>
 File: images/tomatisListeningTest.jpg Graphic file (type jpg)
 <use images/tomatisListeningTest.jpg>
-Package luatex.def Info: images/tomatisListeningTest.jpg  used on input line 109
+Package luatex.def Info: images/tomatisListeningTest.jpg  used on input line 108
 .
-(luatex.def)             Requested size: 292.77632pt x 183.8637pt.
- [36<./images/tomatisListeningTest.jpg>]
-[37] [38] [39]
-<images/3zones.jpg, id=864, 528.0528pt x 767.0256pt>
-File: images/3zones.jpg Graphic file (type jpg)
-<use images/3zones.jpg>
-Package luatex.def Info: images/3zones.jpg  used on input line 288.
-(luatex.def)             Requested size: 167.29893pt x 243.0071pt.
-) (./testclinique.tex [40<./images/3zones.jpg>]
+(luatex.def)             Requested size: 418.25372pt x 262.66106pt.
+ [36] [37<./images/tomatisListeningTest.jpg>]
+[38] [39] [40]
+<images/les3zones.jpg, id=842, 4047.12pt x 3035.34pt>
+File: images/les3zones.jpg Graphic file (type jpg)
+<use images/les3zones.jpg>
+Package luatex.def Info: images/les3zones.jpg  used on input line 289.
+(luatex.def)             Requested size: 418.25372pt x 313.64856pt.
+) (./testclinique.tex [41<./images/les3zones.jpg>]
 chapter 4.
-[41
+[42
 
-] [42] [43] [44]
-<images/Groupecontrole.png, id=899, 709.65125pt x 444.66125pt>
+] [43]
+<images/testecoute.jpg, id=860, 3859.41875pt x 2812.5075pt>
+File: images/testecoute.jpg Graphic file (type jpg)
+<use images/testecoute.jpg>
+Package luatex.def Info: images/testecoute.jpg  used on input line 161.
+(luatex.def)             Requested size: 418.25372pt x 304.78484pt.
+ [44] [45<./images/testecoute.jpg>] [46]
+<images/Groupecontrole.png, id=886, 709.65125pt x 444.66125pt>
 File: images/Groupecontrole.png Graphic file (type png)
 <use images/Groupecontrole.png>
-Package luatex.def Info: images/Groupecontrole.png  used on input line 232.
+Package luatex.def Info: images/Groupecontrole.png  used on input line 242.
 (luatex.def)             Requested size: 418.25372pt x 262.07646pt.
- [45<./images/Groupecontrole.png>]
-<images/graphiques/Testecoute.png, id=909, 1233.60875pt x 817.0525pt>
+<images/graphiques/Testecoute.png, id=887, 1233.60875pt x 817.0525pt>
 File: images/graphiques/Testecoute.png Graphic file (type png)
 <use images/graphiques/Testecoute.png>
-Package luatex.def Info: images/graphiques/Testecoute.png  used on input line 25
+Package luatex.def Info: images/graphiques/Testecoute.png  used on input line 26
 6.
 (luatex.def)             Requested size: 418.25372pt x 277.02121pt.
-<images/graphiques/TestWQ.png, id=910, 1233.60875pt x 722.7pt>
+<images/graphiques/TestWQ.png, id=888, 1233.60875pt x 722.7pt>
 File: images/graphiques/TestWQ.png Graphic file (type png)
 <use images/graphiques/TestWQ.png>
-Package luatex.def Info: images/graphiques/TestWQ.png  used on input line 266.
+Package luatex.def Info: images/graphiques/TestWQ.png  used on input line 276.
 (luatex.def)             Requested size: 418.25372pt x 245.03104pt.
- [46<./images/graphiques/Testecoute.png>] [47<./images/graphiques/TestWQ.png>] 
-[48]
-<images/graphiques/bru_pre.png, id=939, 642.2394pt x 247.6452pt>
+ [47<./images/Groupecontrole.png>] [48<./images/graphiques/Testecoute.png><./ima
+ges/graphiques/TestWQ.png>]
+[49]
+<images/graphiques/bru_pre.png, id=913, 642.2394pt x 247.6452pt>
 File: images/graphiques/bru_pre.png Graphic file (type png)
 <use images/graphiques/bru_pre.png>
-Package luatex.def Info: images/graphiques/bru_pre.png  used on input line 369.
-(luatex.def)             Requested size: 292.77632pt x 112.89412pt.
-<images/graphiques/bru_post.png, id=940, 641.2758pt x 247.6452pt>
+Package luatex.def Info: images/graphiques/bru_pre.png  used on input line 379.
+(luatex.def)             Requested size: 418.25372pt x 161.2811pt.
+<images/graphiques/bru_post.png, id=914, 641.2758pt x 247.6452pt>
 File: images/graphiques/bru_post.png Graphic file (type png)
 <use images/graphiques/bru_post.png>
-Package luatex.def Info: images/graphiques/bru_post.png  used on input line 379.
+Package luatex.def Info: images/graphiques/bru_post.png  used on input line 389.
 
-(luatex.def)             Requested size: 292.77632pt x 113.06416pt.
- [49<./images/graphiques/bru_pre.png><./images/graphiques/bru_post.png>]
-<images/graphiques/schaff_pre.png, id=956, 644.1666pt x 247.6452pt>
+(luatex.def)             Requested size: 418.25372pt x 161.52293pt.
+ [50] [51<./images/graphiques/bru_pre.png><./images/graphiques/bru_post.png>]
+<images/graphiques/schaff_pre.png, id=941, 644.1666pt x 247.6452pt>
 File: images/graphiques/schaff_pre.png Graphic file (type png)
 <use images/graphiques/schaff_pre.png>
-Package luatex.def Info: images/graphiques/schaff_pre.png  used on input line 41
+Package luatex.def Info: images/graphiques/schaff_pre.png  used on input line 42
 1.
-(luatex.def)             Requested size: 292.77632pt x 112.55403pt.
-<images/graphiques/schaff_post.png, id=957, 643.203pt x 247.6452pt>
+(luatex.def)             Requested size: 418.25372pt x 160.79364pt.
+<images/graphiques/schaff_post.png, id=942, 643.203pt x 247.6452pt>
 File: images/graphiques/schaff_post.png Graphic file (type png)
 <use images/graphiques/schaff_post.png>
 Package luatex.def Info: images/graphiques/schaff_post.png  used on input line 4
-20.
-(luatex.def)             Requested size: 292.77632pt x 112.72408pt.
-<images/graphiques/wal_pre.png, id=958, 647.0574pt x 253.9086pt>
+30.
+(luatex.def)             Requested size: 418.25372pt x 161.03548pt.
+<images/graphiques/wal_pre.png, id=943, 647.0574pt x 253.9086pt>
 File: images/graphiques/wal_pre.png Graphic file (type png)
 <use images/graphiques/wal_pre.png>
-Package luatex.def Info: images/graphiques/wal_pre.png  used on input line 433.
-(luatex.def)             Requested size: 292.77632pt x 114.88933pt.
- [50<./images/graphiques/schaff_pre.png><./images/graphiques/schaff_post.png>]
-<images/graphiques/wal_post.png, id=975, 646.0938pt x 253.9086pt>
+Package luatex.def Info: images/graphiques/wal_pre.png  used on input line 443.
+(luatex.def)             Requested size: 418.25372pt x 164.12816pt.
+ [52<./images/graphiques/schaff_pre.png><./images/graphiques/schaff_post.png>]
+<images/graphiques/wal_post.png, id=959, 646.0938pt x 253.9086pt>
 File: images/graphiques/wal_post.png Graphic file (type png)
 <use images/graphiques/wal_post.png>
-Package luatex.def Info: images/graphiques/wal_post.png  used on input line 452.
+Package luatex.def Info: images/graphiques/wal_post.png  used on input line 462.
 
-(luatex.def)             Requested size: 292.77632pt x 115.0598pt.
-<images/graphiques/sw_pre.png, id=976, 641.2758pt x 246.6816pt>
+(luatex.def)             Requested size: 418.25372pt x 164.37611pt.
+<images/graphiques/sw_pre.png, id=960, 641.2758pt x 246.6816pt>
 File: images/graphiques/sw_pre.png Graphic file (type png)
 <use images/graphiques/sw_pre.png>
-Package luatex.def Info: images/graphiques/sw_pre.png  used on input line 466.
-(luatex.def)             Requested size: 292.77632pt x 112.62422pt.
- [51<./images/graphiques/wal_pre.png><./images/graphiques/wal_post.png>]
-<images/graphiques/sw_post.png, id=992, 640.3122pt x 246.6816pt>
+Package luatex.def Info: images/graphiques/sw_pre.png  used on input line 476.
+(luatex.def)             Requested size: 418.25372pt x 160.89444pt.
+ [53<./images/graphiques/wal_pre.png><./images/graphiques/wal_post.png>]
+<images/graphiques/sw_post.png, id=973, 640.3122pt x 246.6816pt>
 File: images/graphiques/sw_post.png Graphic file (type png)
 <use images/graphiques/sw_post.png>
-Package luatex.def Info: images/graphiques/sw_post.png  used on input line 486.
-(luatex.def)             Requested size: 292.77632pt x 112.79738pt.
-<images/graphiques/cav_pre.png, id=993, 640.3122pt x 249.5724pt>
+Package luatex.def Info: images/graphiques/sw_post.png  used on input line 496.
+(luatex.def)             Requested size: 418.25372pt x 161.1391pt.
+<images/graphiques/cav_pre.png, id=974, 640.3122pt x 249.5724pt>
 File: images/graphiques/cav_pre.png Graphic file (type png)
 <use images/graphiques/cav_pre.png>
-Package luatex.def Info: images/graphiques/cav_pre.png  used on input line 502.
-(luatex.def)             Requested size: 292.77632pt x 114.11922pt.
-<images/graphiques/cav_post.png, id=994, 640.3122pt x 249.5724pt>
+Package luatex.def Info: images/graphiques/cav_pre.png  used on input line 512.
+(luatex.def)             Requested size: 418.25372pt x 163.02745pt.
+<images/graphiques/cav_post.png, id=975, 640.3122pt x 249.5724pt>
 File: images/graphiques/cav_post.png Graphic file (type png)
 <use images/graphiques/cav_post.png>
-Package luatex.def Info: images/graphiques/cav_post.png  used on input line 521.
+Package luatex.def Info: images/graphiques/cav_post.png  used on input line 531.
 
-(luatex.def)             Requested size: 292.77632pt x 114.11922pt.
- [52<./images/graphiques/sw_pre.png><./images/graphiques/sw_post.png><./images/g
-raphiques/cav_pre.png>]
-<images/graphiques/m_pre.png, id=1010, 646.0938pt x 255.8358pt>
+(luatex.def)             Requested size: 418.25372pt x 163.02745pt.
+
+[54<./images/graphiques/sw_pre.png><./images/graphiques/sw_post.png>]
+<images/graphiques/m_pre.png, id=990, 646.0938pt x 255.8358pt>
 File: images/graphiques/m_pre.png Graphic file (type png)
 <use images/graphiques/m_pre.png>
-Package luatex.def Info: images/graphiques/m_pre.png  used on input line 547.
-(luatex.def)             Requested size: 292.77632pt x 115.93312pt.
-<images/graphiques/m_post.png, id=1011, 645.1302pt x 255.8358pt>
+Package luatex.def Info: images/graphiques/m_pre.png  used on input line 557.
+(luatex.def)             Requested size: 418.25372pt x 165.62375pt.
+<images/graphiques/m_post.png, id=991, 645.1302pt x 255.8358pt>
 File: images/graphiques/m_post.png Graphic file (type png)
 <use images/graphiques/m_post.png>
-Package luatex.def Info: images/graphiques/m_post.png  used on input line 556.
-(luatex.def)             Requested size: 292.77632pt x 116.10487pt.
- [53<./images/graphiques/cav_post.png><./images/graphiques/m_pre.png>]
-<images/graphiques/questionnaire_wq.png, id=1025, 1125.20375pt x 515.9275pt>
+Package luatex.def Info: images/graphiques/m_post.png  used on input line 566.
+(luatex.def)             Requested size: 418.25372pt x 165.86188pt.
+ [55<./images/graphiques/cav_pre.png><./images/graphiques/cav_post.png>] [56<./i
+mages/graphiques/m_pre.png><./images/graphiques/m_post.png>]
+Overfull \hbox (4.27844pt too wide) in paragraph at lines 601--606
+[]\TU/lmr/m/n/12 Re-mar-quons que les don-nées quan-ti-ta-tives ob-ser-vables 
+dans ces gra-phiques semblent
+ []
+
+<images/graphiques/questionnaire_wq.png, id=1013, 1125.20375pt x 515.9275pt>
 File: images/graphiques/questionnaire_wq.png Graphic file (type png)
 <use images/graphiques/questionnaire_wq.png>
 Package luatex.def Info: images/graphiques/questionnaire_wq.png  used on input l
-ine 604.
-(luatex.def)             Requested size: 501.90318pt x 230.13414pt.
-
-Overfull \hbox (83.64946pt too wide) in paragraph at lines 604--605
- [][] 
- []
-
-[54<./images/graphiques/m_post.png>] [55<./images/graphiques/questionnaire_wq.pn
-g>]
-<images/Compcontrole.png, id=1041, 1075.01625pt x 619.31375pt>
+ine 612.
+(luatex.def)             Requested size: 674.33041pt x 309.19675pt.
+[57] [58<./images/graphiques/questionnaire_wq.png>]
+<images/Compcontrole.png, id=1026, 1075.01625pt x 619.31375pt>
 File: images/Compcontrole.png Graphic file (type png)
 <use images/Compcontrole.png>
-Package luatex.def Info: images/Compcontrole.png  used on input line 684.
+Package luatex.def Info: images/Compcontrole.png  used on input line 692.
 (luatex.def)             Requested size: 418.25372pt x 240.95494pt.
-<images/Compmusico.png, id=1042, 1075.01625pt x 619.31375pt>
+<images/Compmusico.png, id=1027, 1075.01625pt x 619.31375pt>
 File: images/Compmusico.png Graphic file (type png)
 <use images/Compmusico.png>
-Package luatex.def Info: images/Compmusico.png  used on input line 692.
+Package luatex.def Info: images/Compmusico.png  used on input line 700.
 (luatex.def)             Requested size: 418.25372pt x 240.95494pt.
 
-Overfull \hbox (13.52249pt too wide) in paragraph at lines 699--717
+Overfull \hbox (13.52249pt too wide) in paragraph at lines 707--725
 []\TU/lmr/m/n/12 Nous avons ob-te-nu un com-pa-ra-tif gra-phique des ré-sul-ta
 ts des ques-tion-naires pré/post-
  []
 
-[56] [57<./images/Compcontrole.png><./images/Compmusico.png>]
-<images/graphiques/comparaison_pre_post.png, id=1058, 1125.20375pt x 372.39125pt
+[59] [60<./images/Compcontrole.png><./images/Compmusico.png>]
+<images/graphiques/comparaison_pre_post.png, id=1044, 1125.20375pt x 372.39125pt
 >
 File: images/graphiques/comparaison_pre_post.png Graphic file (type png)
 <use images/graphiques/comparaison_pre_post.png>
 Package luatex.def Info: images/graphiques/comparaison_pre_post.png  used on inp
-ut line 728.
-(luatex.def)             Requested size: 418.25372pt x 138.419pt.
- [58<./images/graphiques/comparaison_pre_post.png>]) (./reflexions.tex [59]
+ut line 735.
+(luatex.def)             Requested size: 674.33041pt x 223.17508pt.
+ [61] [62<./images/graphiques/comparaison_pre_post.png>]) (./reflexions.tex [63
+]
 chapter 5.
-[60
+[64
+
+] [65] [66] [67] [68] [69]
+chapter 6.
+[70
 
 ]
-<images/testtechnmethbut.png, id=1074, 862.22125pt x 675.52374pt>
-File: images/testtechnmethbut.png Graphic file (type png)
-<use images/testtechnmethbut.png>
-Package luatex.def Info: images/testtechnmethbut.png  used on input line 100.
-(luatex.def)             Requested size: 418.25372pt x 327.68016pt.
- [61]
-<images/clinique/od_before_meyer.png, id=1080, 578.76225pt x 216.81pt>
+<images/clinique/od_before_meyer.png, id=1124, 578.76225pt x 216.81pt>
 File: images/clinique/od_before_meyer.png Graphic file (type png)
 <use images/clinique/od_before_meyer.png>
 Package luatex.def Info: images/clinique/od_before_meyer.png  used on input line
- 127.
-(luatex.def)             Requested size: 292.77632pt x 109.6784pt.
-<images/clinique/comparison_bc_ba_before_vs_ideal_curve_meyer.png, id=1081, 576.
+ 524.
+(luatex.def)             Requested size: 418.25372pt x 156.68202pt.
+ [71]
+<images/clinique/comparison_bc_ba_before_vs_ideal_curve_meyer.png, id=1133, 576.
 35326pt x 216.81pt>
 File: images/clinique/comparison_bc_ba_before_vs_ideal_curve_meyer.png Graphic f
 ile (type png)
 <use images/clinique/comparison_bc_ba_before_vs_ideal_curve_meyer.png>
 Package luatex.def Info: images/clinique/comparison_bc_ba_before_vs_ideal_curve_
-meyer.png  used on input line 135.
-(luatex.def)             Requested size: 292.77632pt x 110.13493pt.
- [62<./images/testtechnmethbut.png>] [63<./images/clinique/od_before_meyer.png><
-./images/clinique/comparison_bc_ba_before_vs_ideal_curve_meyer.png>]
-<images/clinique/od_after_meyer.png, id=1094, 578.76225pt x 216.81pt>
+meyer.png  used on input line 532.
+(luatex.def)             Requested size: 418.25372pt x 157.33705pt.
+ [72<./images/clinique/od_before_meyer.png><./images/clinique/comparison_bc_ba_b
+efore_vs_ideal_curve_meyer.png>] [73]
+<images/clinique/od_after_meyer.png, id=1144, 578.76225pt x 216.81pt>
 File: images/clinique/od_after_meyer.png Graphic file (type png)
 <use images/clinique/od_after_meyer.png>
 Package luatex.def Info: images/clinique/od_after_meyer.png  used on input line 
-224.
-(luatex.def)             Requested size: 292.77632pt x 109.6784pt.
-
-[64<./images/clinique/od_after_meyer.png>]
-<images/courbesdeepressif.jpg, id=1100, 1011.78pt x 758.835pt>
+625.
+(luatex.def)             Requested size: 418.25372pt x 156.68202pt.
+ [74<./images/clinique/od_after_meyer.png>]
+<images/courbesdeepressif.jpg, id=1150, 1011.78pt x 758.835pt>
 File: images/courbesdeepressif.jpg Graphic file (type jpg)
 <use images/courbesdeepressif.jpg>
-Package luatex.def Info: images/courbesdeepressif.jpg  used on input line 298.
-(luatex.def)             Requested size: 292.77632pt x 219.58179pt.
-
-Overfull \hbox (3.99481pt too wide) in paragraph at lines 284--302
-[]\TU/lmr/bx/n/12 Un test re-pré-sen-ta-tif\TU/lmr/m/n/12 : Dans l’illus-tra
--tion ci-dessous re-pré-sen-tant un test d’écoute
- []
-
-[65] [66<./images/courbesdeepressif.jpg>] [67]
-<images/testinterpmusico.png, id=1132, 744.7825pt x 433.62pt>
+Package luatex.def Info: images/courbesdeepressif.jpg  used on input line 698.
+(luatex.def)             Requested size: 418.25372pt x 313.69487pt.
+ [75] [76<./images/courbesdeepressif.jpg>] [77]
+<images/testinterpmusico.png, id=1182, 744.7825pt x 433.62pt>
 File: images/testinterpmusico.png Graphic file (type png)
 <use images/testinterpmusico.png>
-Package luatex.def Info: images/testinterpmusico.png  used on input line 426.
-(luatex.def)             Requested size: 418.25372pt x 243.52028pt.
- [68] [69<./images/testinterpmusico.png>] [70] [71] [72] [73] [74]
-chapter 6.
-[75
+Package luatex.def Info: images/testinterpmusico.png  used on input line 827.
+(luatex.def)             Requested size: 460.08163pt x 267.86899pt.
 
-] [76]) (./Annexes.tex [77]
+Overfull \hbox (41.82791pt too wide) in paragraph at lines 827--831
+ [][] 
+ []
+
+<images/testtechnmethbut.png, id=1184, 862.22125pt x 675.52374pt>
+File: images/testtechnmethbut.png Graphic file (type png)
+<use images/testtechnmethbut.png>
+Package luatex.def Info: images/testtechnmethbut.png  used on input line 1005.
+(luatex.def)             Requested size: 501.90318pt x 393.21619pt.
+
+Overfull \hbox (83.64946pt too wide) in paragraph at lines 1005--1007
+ [][] 
+ []
+
+[78<./images/testinterpmusico.png>] [79<./images/testtechnmethbut.png>]
+[80]
+<images/oreillephoto.jpg, id=1220, 2758.305pt x 2828.5675pt>
+File: images/oreillephoto.jpg Graphic file (type jpg)
+<use images/oreillephoto.jpg>
+Package luatex.def Info: images/oreillephoto.jpg  used on input line 1106.
+(luatex.def)             Requested size: 418.25372pt x 428.885pt.
+ [81<./images/oreillephoto.jpg>]) (./Annexes.tex [82]
 chapter A.
-[78
+[83
 
 ]
-<images/20160624Berufsfeldgruppen.jpg, id=1250, 978.65625pt x 716.6775pt>
+<images/20160624Berufsfeldgruppen.jpg, id=1251, 978.65625pt x 716.6775pt>
 File: images/20160624Berufsfeldgruppen.jpg Graphic file (type jpg)
 <use images/20160624Berufsfeldgruppen.jpg>
 Package luatex.def Info: images/20160624Berufsfeldgruppen.jpg  used on input lin
 e 66.
 (luatex.def)             Requested size: 418.25372pt x 306.29533pt.
 (load luc: /Users/valeriegaillard/Library/texlive/2018/texmf-var/luatex-cache/ge
-neric/fonts/otl/lmromanslant10-bold.luc) [79]
-<images/Loreilleostemporal_crane.jpg, id=1261, 358.82056pt x 263.7855pt>
+neric/fonts/otl/lmromanslant10-bold.luc) [84]
+<images/Loreilleostemporal_crane.jpg, id=1262, 358.82056pt x 263.7855pt>
 File: images/Loreilleostemporal_crane.jpg Graphic file (type jpg)
 <use images/Loreilleostemporal_crane.jpg>
 Package luatex.def Info: images/Loreilleostemporal_crane.jpg  used on input line
  104.
 (luatex.def)             Requested size: 292.77632pt x 215.23485pt.
- [80<./images/20160624Berufsfeldgruppen.jpg>] [81<./images/Loreilleostemporal_cr
+ [85<./images/20160624Berufsfeldgruppen.jpg>] [86<./images/Loreilleostemporal_cr
 ane.jpg>]
 <images/schemacerveauoreillebigand.png, id=1279, 308.15125pt x 324.21124pt>
 File: images/schemacerveauoreillebigand.png Graphic file (type png)
@@ -2344,293 +2361,291 @@ File: images/schemacerveauoreillebigand.png Graphic file (type png)
 Package luatex.def Info: images/schemacerveauoreillebigand.png  used on input li
 ne 189.
 (luatex.def)             Requested size: 418.25372pt x 440.0854pt.
- [82] [83<./images/schemacerveauoreillebigand.png>] [84] [85] [86] [87]
+ [87] [88<./images/schemacerveauoreillebigand.png>] [89] [90] [91] [92]
 Module polyglossia Info: Language ngerman already loaded; id is 16 on input line
- 442
- [88
+ 441
+ [93
 Missing character: There is no ̧ (U+0327) in font [lmroman12-regular]:+tlig;!
 ]
 Module polyglossia Info: Language ngerman already loaded; id is 16 on input line
- 444
- [89]
+ 443
+ [94]
 Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-73
-Module polyglossia Info: Language ngerman already loaded; id is 16 on input line
- 477
+72
 Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-82
+81
 
-Overfull \hbox (3.79855pt too wide) in paragraph at lines 489--491
+Overfull \hbox (3.79855pt too wide) in paragraph at lines 488--490
 []\TU/lmr/m/n/12 Dans quels buts et pour quelles rai-sons êtes-vous priés de 
 par-ti-ci-per à cette étude? 
  []
 
-[90]
+[95]
 Module polyglossia Info: Language french already loaded; id is 8 on input line 5
-35
+34
 Module polyglossia Info: Language french already loaded; id is 8 on input line 5
-39
-<French_WHOQOL-BREF.pdf, id=1345, 614.295pt x 794.97pt>
+38
+<French_WHOQOL-BREF.pdf, id=1346, 614.295pt x 794.97pt>
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf>
-Package luatex.def Info: French_WHOQOL-BREF.pdf  used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf  used on input line 549.
 (luatex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf>
-Package luatex.def Info: French_WHOQOL-BREF.pdf  used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf  used on input line 549.
 (luatex.def)             Requested size: 614.29349pt x 794.96806pt.
-<WHOQOLALLEMANDBREFupdated.pdf, id=1348, 597.52231pt x 845.0471pt>
+<WHOQOLALLEMANDBREFupdated.pdf, id=1349, 597.52231pt x 845.0471pt>
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf>
-Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf  used on input line 550.
+Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf  used on input line 549.
 (luatex.def)             Requested size: 597.52086pt x 845.04504pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf>
-Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf  used on input line 550.
+Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf  used on input line 549.
 (luatex.def)             Requested size: 597.52086pt x 845.04504pt.
-<French_WHOQOL-BREF.pdf, id=1351, page=1, 614.295pt x 794.97pt>
+<French_WHOQOL-BREF.pdf, id=1352, page=1, 614.295pt x 794.97pt>
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 1>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 549.
 (luatex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 1>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
- [91]
+ [96]
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 1>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 550.
-(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
-File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
-<use French_WHOQOL-BREF.pdf, page 1>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 1>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
- [92<./French_WHOQOL-BREF.pdf>]
+File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
+<use French_WHOQOL-BREF.pdf, page 1>
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page1 used on input line 549.
+(luatex.def)             Requested size: 597.78697pt x 773.60669pt.
+ [97<./French_WHOQOL-BREF.pdf>]
 <French_WHOQOL-BREF.pdf, id=1375, page=2, 614.295pt x 794.97pt>
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 2>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page2 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page2 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 2>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page2 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page2 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 2>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page2 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page2 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
- [93<./French_WHOQOL-BREF.pdf>]
+ [98<./French_WHOQOL-BREF.pdf>]
 <French_WHOQOL-BREF.pdf, id=1381, page=3, 614.295pt x 794.97pt>
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 3>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page3 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page3 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 3>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page3 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page3 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: French_WHOQOL-BREF.pdf Graphic file (type pdf)
 <use French_WHOQOL-BREF.pdf, page 3>
-Package luatex.def Info: French_WHOQOL-BREF.pdf , page3 used on input line 550.
+Package luatex.def Info: French_WHOQOL-BREF.pdf , page3 used on input line 549.
 (luatex.def)             Requested size: 597.78697pt x 773.60669pt.
 
-[94<./French_WHOQOL-BREF.pdf>]
+[99<./French_WHOQOL-BREF.pdf>]
 <WHOQOLALLEMANDBREFupdated.pdf, id=1387, page=1, 597.52231pt x 845.0471pt>
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 1>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page1 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 1>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page1 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 1>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page1 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
- [95<./WHOQOLALLEMANDBREFupdated.pdf>]
+ [100<./WHOQOLALLEMANDBREFupdated.pdf>]
 <WHOQOLALLEMANDBREFupdated.pdf, id=1410, page=2, 597.52231pt x 845.0471pt>
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 2>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page2 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 2>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page2 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 2>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page2 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
- [96<./WHOQOLALLEMANDBREFupdated.pdf>]
-<WHOQOLALLEMANDBREFupdated.pdf, id=1416, page=3, 597.52231pt x 845.0471pt>
+ [101<./WHOQOLALLEMANDBREFupdated.pdf>]
+<WHOQOLALLEMANDBREFupdated.pdf, id=1417, page=3, 597.52231pt x 845.0471pt>
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 3>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page3 used on input lin
-e 550.
-(luatex.def)             Requested size: 581.46503pt x 822.33806pt.
-File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
-<use WHOQOLALLEMANDBREFupdated.pdf, page 3>
-Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page3 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 3>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page3 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
- [97<./WHOQOLALLEMANDBREFupdated.pdf>]
-<WHOQOLALLEMANDBREFupdated.pdf, id=1422, page=4, 597.52231pt x 845.0471pt>
+File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
+<use WHOQOLALLEMANDBREFupdated.pdf, page 3>
+Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page3 used on input lin
+e 549.
+(luatex.def)             Requested size: 581.46503pt x 822.33806pt.
+ [102<./WHOQOLALLEMANDBREFupdated.pdf>]
+<WHOQOLALLEMANDBREFupdated.pdf, id=1423, page=4, 597.52231pt x 845.0471pt>
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 4>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page4 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 4>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page4 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
 File: WHOQOLALLEMANDBREFupdated.pdf Graphic file (type pdf)
 <use WHOQOLALLEMANDBREFupdated.pdf, page 4>
 Package luatex.def Info: WHOQOLALLEMANDBREFupdated.pdf , page4 used on input lin
-e 550.
+e 549.
 (luatex.def)             Requested size: 581.46503pt x 822.33806pt.
- [98<./WHOQOLALLEMANDBREFupdated.pdf>]
-<images/freqinstrumtomatis.jpg, id=1428, 843.3909pt x 599.841pt>
-File: images/freqinstrumtomatis.jpg Graphic file (type jpg)
-<use images/freqinstrumtomatis.jpg>
-Package luatex.def Info: images/freqinstrumtomatis.jpg  used on input line 560.
-(luatex.def)             Requested size: 501.90318pt x 356.96931pt.
+ [103<./WHOQOLALLEMANDBREFupdated.pdf>]
+<images/instrumfreq.jpg, id=1429, 4047.12pt x 3035.34pt>
+File: images/instrumfreq.jpg Graphic file (type jpg)
+<use images/instrumfreq.jpg>
+Package luatex.def Info: images/instrumfreq.jpg  used on input line 559.
+(luatex.def)             Requested size: 501.90318pt x 376.40607pt.
 
-Overfull \hbox (83.64946pt too wide) in paragraph at lines 560--561
+Overfull \hbox (83.64946pt too wide) in paragraph at lines 559--560
  [][] 
  []
 
-<images/graphiques/kad_pre.png, id=1429, 644.1666pt x 246.6816pt>
+<images/graphiques/kad_pre.png, id=1430, 644.1666pt x 246.6816pt>
 File: images/graphiques/kad_pre.png Graphic file (type png)
 <use images/graphiques/kad_pre.png>
-Package luatex.def Info: images/graphiques/kad_pre.png  used on input line 578.
-(luatex.def)             Requested size: 292.77632pt x 112.11607pt.
-[99<./images/freqinstrumtomatis.jpg>]
+Package luatex.def Info: images/graphiques/kad_pre.png  used on input line 577.
+(luatex.def)             Requested size: 418.25372pt x 160.16798pt.
+[104<./images/instrumfreq.jpg>]
 <images/graphiques/kad_post.png, id=1436, 643.203pt x 246.6816pt>
 File: images/graphiques/kad_post.png Graphic file (type png)
 <use images/graphiques/kad_post.png>
-Package luatex.def Info: images/graphiques/kad_post.png  used on input line 596.
+Package luatex.def Info: images/graphiques/kad_post.png  used on input line 595.
 
-(luatex.def)             Requested size: 292.77632pt x 112.28546pt.
+(luatex.def)             Requested size: 418.25372pt x 160.40887pt.
 <images/einverstandniserkl.jpg, id=1437, 717.68124pt x 1011.78pt>
 File: images/einverstandniserkl.jpg Graphic file (type jpg)
 <use images/einverstandniserkl.jpg>
-Package luatex.def Info: images/einverstandniserkl.jpg  used on input line 608.
+Package luatex.def Info: images/einverstandniserkl.jpg  used on input line 607.
 (luatex.def)             Requested size: 418.25372pt x 589.65805pt.
-) (./master.gls [100<./images/graphiques/kad_pre.png><./images/graphiques/kad_po
-st.png>] [101<./images/einverstandniserkl.jpg>]) [102
+) (./master.gls [105<./images/graphiques/kad_pre.png><./images/graphiques/kad_po
+st.png>] [106<./images/einverstandniserkl.jpg>]) [107
 
 
 ]
 chapter without number
 
 Package biblatex Warning: No driver for entry type 'webpage'.
-(biblatex)                Using fallback driver on input line 115.
+(biblatex)                Using fallback driver on input line 116.
 
 
-Overfull \hbox (38.70369pt too wide) in paragraph at lines 116--116
+Overfull \hbox (38.70369pt too wide) in paragraph at lines 117--117
 [][]\TU/lmr/m/n/12 Déc. 2019. \TU/lmr/m/sc/12 url\TU/lmr/m/n/12 : [][]$\TU/lmt
 t/m/n/12 https: / / sites . google . com / site / etymologielatingrec /
  []
 
 
-Overfull \hbox (43.43384pt too wide) in paragraph at lines 116--116
+Overfull \hbox (43.43384pt too wide) in paragraph at lines 117--117
 \TU/lmtt/m/n/12 musictherapy . ch / fr / musicotherapie / quest - ce - que - la
  - musicotherapie/$[][]
  []
 
 
-Overfull \hbox (5.0651pt too wide) in paragraph at lines 116--116
+Overfull \hbox (5.0651pt too wide) in paragraph at lines 117--117
 [][]\TU/lmr/m/n/12 Ber-nard \TU/lmr/m/sc/12 Auriol\TU/lmr/m/n/12 . \TU/lmr/m/it
 /12 Stress Yo-ga et Psy-cho-so-nique\TU/lmr/m/n/12 . \TU/lmr/m/sc/12 url\TU/lmr
 /m/n/12 : [][]$\TU/lmtt/m/n/12 http: / / auriol .
  []
 
 
-Overfull \hbox (0.1499pt too wide) in paragraph at lines 116--116
+Overfull \hbox (0.1499pt too wide) in paragraph at lines 117--117
 \TU/lmtt/m/n/12 cerveau _ melomane - emmanuel _ bigand _ _ _ collectif - 978284
 2451189$[][]
  []
 
-[103
+[108
 
 ]
 
 Package biblatex Warning: No driver for entry type 'url'.
-(biblatex)                Using fallback driver on input line 115.
+(biblatex)                Using fallback driver on input line 116.
 
 
-Overfull \hbox (4.91719pt too wide) in paragraph at lines 116--116
+Overfull \hbox (4.91719pt too wide) in paragraph at lines 117--117
 [][]\TU/lmr/m/n/12 Gi-na \TU/lmr/m/sc/12 Kaestele\TU/lmr/m/n/12 . \TU/lmr/m/it/
 12 About Gui-ded Ima-ge-ry and Mu-sic (GIM)\TU/lmr/m/n/12 . \TU/lmr/m/sc/12 url
 \TU/lmr/m/n/12 : [][]$\TU/lmtt/m/n/12 http:
  []
 
-[104]
-Overfull \hbox (11.69873pt too wide) in paragraph at lines 116--116
+[109]
+Overfull \hbox (11.69873pt too wide) in paragraph at lines 117--117
 [][]\TU/lmr/m/n/12 Fern \TU/lmr/m/sc/12 Nevjinsky\TU/lmr/m/n/12 . \TU/lmr/m/it/
 12 Ado-les-cence, mu-sique, Ror-schach\TU/lmr/m/n/12 . Mont-Saint-Aignan:
  []
 
-[105]
-Overfull \hbox (7.08583pt too wide) in paragraph at lines 116--116
+[110]
+Overfull \hbox (7.08583pt too wide) in paragraph at lines 117--117
 \TU/lmr/m/it/12 lung-spsy-cho-lo-gien Grund-la-gen\TU/lmr/m/n/12 . Sous la dir.
  de 2011 \TU/lmr/m/sc/12 Ed. Vanderhoeck-
  []
 
 
-Overfull \hbox (4.89372pt too wide) in paragraph at lines 116--116
+Overfull \hbox (4.89372pt too wide) in paragraph at lines 117--117
 [][]\TU/lmr/m/n/12 Fe-li-ci-tas \TU/lmr/m/sc/12 Sigrist\TU/lmr/m/n/12 . \TU/lmr
 /m/it/12 Bur-nout und Mu-sik-the-ra-pie: Grund-la-gen, For-schung-
  []
 
 
-Overfull \hbox (4.47845pt too wide) in paragraph at lines 116--116
+Overfull \hbox (4.47845pt too wide) in paragraph at lines 117--117
 \TU/lmr/m/n/12 Confé-rence au IIème Congrès In-ter-na-tio-nal d’Audio-Psyc
 ho-Phonologie.
  []
 
-[106] (./finalhonneur.tex [107] [108
+[111] (./finalhonneur.tex [112] [113
 
 
 ]) 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 117.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 117.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
 (./master.aux
 Module polyglossia Info: Language french already loaded; id is 8 on input line 3
 3
 Module polyglossia Info: Language ngerman already loaded; id is 16 on input line
- 486
+ 487
 Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-90
+91
 Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-95
-Module polyglossia Info: Language french already loaded; id is 8 on input line 4
-99
+96
+Module polyglossia Info: Language french already loaded; id is 8 on input line 5
+00
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 117.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 117.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 005E36D29C84DF30F4D9BEA8C22CD260;7350.
+(rerunfilecheck)             Checksum: 232D00D25F6979A8EF73FFF26982B746;7305.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2641,14 +2656,14 @@ Package logreq Info: Writing requests to 'master.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 44928 strings out of 494413
+ 45011 strings out of 494413
  100000,1648299 words of node,token memory allocated
- 1926 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 79 glue, 2 kern, 1 penalty, 1 glyph, 209 attribute,
- 88 glue_spec, 106 attribute_list, 3 write, 1 close, 18 pdf_action nodes
-   avail lists: 1:6,2:1773,3:338,4:217,5:402,6:126,7:5236,8:134,9:360,10:25,11:4
-28,12:1
- 47084 multiletter control sequences out of 65536+600000
+ 1841 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 73 glue, 2 kern, 1 penalty, 1 glyph, 195 attribute,
+ 89 glue_spec, 99 attribute_list, 3 write, 1 close, 17 pdf_action nodes
+   avail lists: 1:6,2:1750,3:342,4:211,5:332,6:122,7:4132,8:134,9:352,10:25,11:3
+62,12:1
+ 47152 multiletter control sequences out of 65536+600000
  84 fonts using 11692655 bytes
  58i,21n,85p,9098b,3528s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.ot
@@ -2676,10 +2691,10 @@ dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on master.pdf (108 pages, 5318017 bytes).
+Output written on master.pdf (113 pages, 20785082 bytes).
 
-PDF statistics: 1662 PDF objects out of 1728 (max. 8388607)
- 1399 compressed objects within 14 object streams
- 437 named destinations out of 1000 (max. 131072)
- 625 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1664 PDF objects out of 1728 (max. 8388607)
+ 1394 compressed objects within 14 object streams
+ 433 named destinations out of 1000 (max. 131072)
+ 609 words of extra memory for PDF output out of 10000 (max. 100000000)
 
