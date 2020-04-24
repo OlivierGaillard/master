@@ -1,0 +1,13 @@
+oldversions
+*.tex~
+*.aux
+*.bak
+*.bbl
+*.bcf
+*.blg
+*.fls
+*.glo
+*.lof
+*.log
+*.out
+*.toc
