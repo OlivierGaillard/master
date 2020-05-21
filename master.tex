@@ -1,7 +1,8 @@
 
 \documentclass[12pt,pagesize, DIV=10, oneside, headsepline,
 titlepage,parskip, headings=small, listof=totoc,
-bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
+bibliography=totoc,index=totoc, captions=tableheading,
+ final, abstract=true]{scrreprt}
 \usepackage{times}
 \usepackage[bottom=3.0cm,top=3.0cm]{geometry}
 \usepackage[onehalfspacing]{setspace}
@@ -11,7 +12,7 @@ bibliography=totoc,index=totoc, captions=tableheading, final]{scrreprt}
 %\usepackage[french]{babel}
 \usepackage{polyglossia}
 \setdefaultlanguage{french}
-\setotherlanguage{german}
+\setotherlanguages{german,english}
 \usepackage[french=guillemets]{csquotes}
 \usepackage[
 backend=biber,        % compilateur par défaut pour biblatex
@@ -93,7 +94,7 @@ die Musiktherapie festzustellen}
 %\maketitle
 \input{titlepage} % deja commente
 %\part{Méthode}
-\input{abstract}
+\input{abstract2}
 \tableofcontents
 
 
