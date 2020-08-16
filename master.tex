@@ -5,7 +5,7 @@ bibliography=totoc,index=totoc, captions=tableheading,
 \usepackage{times}
 \usepackage[bottom=3.0cm,top=3.0cm]{geometry}
 \usepackage[onehalfspacing]{setspace}
-\usepackage{lipsum}
+%\usepackage{lipsum}
 \usepackage[acronym,toc]{glossaries}
 \usepackage{fontspec}
 %\usepackage[french]{babel}
@@ -15,11 +15,11 @@ bibliography=totoc,index=totoc, captions=tableheading,
 \usepackage[french=guillemets]{csquotes}
 \usepackage[
 backend=biber,        % compilateur par défaut pour biblatex
-bibencoding=utf8,
-sorting=nyt,          % trier par nom, année, titre
-citestyle=authoryear-ibid, % style de citation auteur-année
-bibstyle=alphabetic,  % style de bibliographie alphabétique
-autocite=inline
+style=authoryear-icomp, %apa
+firstinits=true,
+%^bibstyle=authoryear-icoomp
+ibidpage=true,
+dashed=false
 ]{biblatex}
 \addbibresource{bib/main.bib}
 \usepackage[autooneside=true]{scrlayer-scrpage}
