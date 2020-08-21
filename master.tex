@@ -15,13 +15,18 @@ bibliography=totoc,index=totoc, captions=tableheading,
 \usepackage[french=guillemets]{csquotes}
 \usepackage[
 backend=biber,        % compilateur par défaut pour biblatex
-style=authoryear-icomp, %apa
-firstinits=true,
-maxbibnames=99,
-%^bibstyle=authoryear-icoomp
-ibidpage=true,
+autolang=hyphen,
+style=authoryear-ibid, %apa
+style=apa,
+%firstinits=true,
+giveninits=true,
+maxnames=10,
+minnames=10,
+%ibidpage=true,
 dashed=false
 ]{biblatex}
+
+\DeclareFieldFormat{postnote}{#1}
 \addbibresource{bib/main.bib}
 \usepackage[autooneside=true]{scrlayer-scrpage}
 \usepackage{lastpage}
@@ -91,6 +96,8 @@ die Musiktherapie festzustellen}
 \input{glossaire}
 \makeglossaries
 \begin{document}
+% to get '&' before the last author in multi-author book
+\renewcommand{\finalandcomma}{\&}
 %\maketitle
 \input{titlepage} % deja commente
 %\part{Méthode}
